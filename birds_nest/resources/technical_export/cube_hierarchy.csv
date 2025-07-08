@@ -1,0 +1,12 @@
+CUBE_HIERARCHY_ID,MAINTENANCE_AGENCY_ID,NAME,CODE,DESCRIPTION,CUBE_HIERARCHY_TYPE,FRAMEWORK_ID
+ANCRDT_CLLCTN,ECB,AnaCredit collection,ANCRDT_CLLCTN,,ACQSTN,ANCRDT
+SDD_ENTITY,ECB,Entity,ENTITY,"This endpoint enables you to retrieve the information about an entity and its structure. An Entity is the metadata definition of a certain table, template. In the SMCube methodology this corresponds to a Cube.",ERM,SDD
+SDD_PACKAGES,ECB,SDD packages,SDD_PACKAGES,,ERM,SDD
+SDD_ATTRIBUTE,ECB,Attribute,ATTRIBUTE,The information collected for this endpoint can be used to retrieve information about an attribute (which can be an attribute of an Entity) and its whole set of values. In the SMCube methodology this is defined as a Variable.,ERM,SDD
+SDD_DATA_MODEL,ECB,Data model,DATA_MODEL,This endpoint enables you to retrieve all the most relevant information about a data model. A data model is composed of entities organised in a hierarchical structure; such structure can reflect the business logic of data and its relationship. The API retuens such hierarchical structure organised in nodes. It also returns the relationships between the entities of the data model. In the SMCube methodology this is defined by a Cube Hierarchy object.,ERM,SDD
+SDD_VALUE_COMBINATION,ECB,Value combination,VALUE_COMBINATION,This endpoint enables you to retrieve the information about a combination of values an entity can assume. This corresponds to either a data point or a series key. In the SMCube methodology this is defined as a Combination object.,ERM,SDD
+SDD_ATTRIBUTE_RELATED_ENTITY,ECB,Attribute related entity,ATTRIBUTE_RELATED_ENTITY,This endpoint enables you to retrieve all the Entities which include a certain variable/attribute as part of its structure definition. The user should include the code(s) or ids of the attribute/variables to get the related entities. Passing no code or ids will return all the available entities.,ERM,SDD
+BIRD_EIL_HIERARCHY,ECB,Enriched Input Layer Data Model,BIRD_EIL_HIERARCHY,,ERM,BIRD
+BIRD_ELDM_HIERARCHY,ECB,Enriched Logical Data Model,BIRD_ELDM_HIERARCHY,,ERM,BIRD
+BIRD_IL_HIERARCHY,ECB,Input Layer Data Model,BIRD_IL_HIERARCHY,,ERM,BIRD
+BIRD_LDM_HIERARCHY,ECB,Logical Data Model,BIRD_LDM_HIERARCHY,,ERM,BIRD

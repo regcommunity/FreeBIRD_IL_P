@@ -1,0 +1,21 @@
+{% extends 'base.html' %}
+{% block content %}
+<!DOCTYPE html>
+<html>
+<head>
+<title>Report Templates</title>
+</head>
+<body>
+<h1>Report Templates</h1>
+<table border="1">
+<a href="{% url 'pybirdai:home'%}">Back to the PyBIRD AI Home Page</a>
+
+<tr><td><a href="{% url 'pybirdai:show_report' 'F_05_01_REF_FINREP_3_0.html'%}">F_05_01_REF_FINREP_3_0</a></td></tr>
+
+</table>
+</body>
+</html>
+</table>
+</body>
+</html>
+{% endblock %}

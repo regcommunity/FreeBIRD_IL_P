@@ -1,0 +1,247 @@
+FACET_ID,FACET_TYPE,OBSERVATION_VALUE
+ID_7,pattern,\d{7}
+ID_6,pattern,\d{6}
+ID_5,pattern,\d{5}
+ID_4,pattern,\d{4}
+ID_3,pattern,\d{3}
+ID_1,pattern,\d
+ID_9,pattern,\d{9}
+ID_8,pattern,\d{8}
+ID_20,pattern,"^(([A-Z]{2}[A-Z0-9]{3})|([A-Z]{2})|([A-Z]{2}\-[A-Z0-9\- ]{1,15}))$"
+ID_5D,pattern,\d{5}
+ID_11,pattern,\d{11}
+ID_10,pattern,\d{10}
+AN_64,pattern,\w{64}
+ID_13D,pattern,\d{13}
+ID_0_9,pattern,[0]\d{9}
+ID_8DL,pattern,[A-Z0-9]{8}
+ID_12D,pattern,\d{12}
+AN_64,minLength,64
+ID_7_5D,pattern,7\d{5}
+ALL_6D,decimals,6
+ID_20,maxLength,20
+ID_9_13,pattern,\d{13}|\d{9}
+ID_L_7D,pattern,"[A-Z]{0,1}\d{7}"
+ID_SI_8,pattern,(SI)\d{8}
+AN_64,maxLength,64
+ALL_2D,decimals,2
+ID_6D_4D,pattern,\d{2}[2-9]\d{3}-?\d{4}
+0TO1_6D,minValue,0
+ID_2L_5D,pattern,[A-Z][A-Z]\d{5}
+ID_2D_7D,pattern,\d{2}-\d{7}
+ID_2L_7D,pattern,[A-Z]{2}\d{7}
+ID_FI_8D,pattern,(FI)\d{8}
+PSTV_2D,decimals,2
+ID_PF_4D,pattern,"(PF)\d{1,4}"
+PSTV_2D,minValue,0
+ID_6D_1L,pattern,\d{6}[A-Z]
+ID_1D_2D,pattern,[1-9]\d{2}
+0TO1_6D,decimals,6
+ID_9D_1L,pattern,\d{9}[A-Z]
+ID_1L_9D,pattern,[A-Z]\d{9}
+ID_1D_5D,pattern,[1-9]\d{5}
+ID_1D_3D,pattern,[1-9]\d{3}
+ID_8D_1L,pattern,\d{8}[A-Z]
+ID_39_2D,pattern,39\d{2}
+ID_DE_9D,pattern,DE\d{9}
+ID_9D_1D,pattern,\d{9}-\d{1}
+ID_HU_8D,pattern,(HU)\d{8}
+ID_PL_10,pattern,(PL)\d{10}
+ID_A_Z_D,pattern,[A-Z]\d+
+ID_SE_12,pattern,(SE)\d{12}
+0TO1_6D,maxValue,1
+ID_LV_11D,pattern,(LV)\d{11}
+ID_5_TO_6,pattern,"\d{5,6}"
+ID_MAX_7D,pattern,"\d{1,7}"
+ID_SK_10D,pattern,(SK)\d{10}
+PTTRN_LEI,pattern,[A-Z0-9]{18}[0-9]{2}
+ID_1_TO_4,pattern,"\d{1,4}"
+ID_1D_12D,pattern,[1-9]\d{12}
+ID_D_7D_L,pattern,(0|1|3|4|5|9)\d{7}[A-Z]
+ID_RO_10D,pattern,"(RO)\d{1,10}"
+ID_S13_8D,pattern,(S13)\d{8}
+ID_MAX_6D,pattern,"\d{1,6}"
+ID_1_TO_8,pattern,"\d{1,8}"
+ID_MAX_8D,pattern,"\d{1,8}"
+ID_IT_13D,pattern,(IT)\d{13}
+ID_COP_8D,pattern,"(C|O|P)\d{1,8}"
+PSTL_CD_LC,pattern,LC\d{2}  \d{3}
+PSTL_CD_IO,pattern,(BB9D 1ZZ)
+STRNG_20,maxLength,20
+PSTL_CD_NC,pattern,988\d{2}
+PSTL_CD_BB,pattern,BB\d{5}
+ID_8D_#_3D,pattern,\d{8}(#)\d{3}
+PSTL_CD_KN,pattern,KN\d{4}(\-\d{4})?
+PSTL_CD_LB,pattern,\d{4}( \d{4})?
+ID_VAR_LEN,pattern,\d+
+PSTL_CD_SM,pattern,(4789\d)
+PSTL_CD_VA,pattern,(00120)
+ID_9D_OR_L,pattern,[A-Z0-9]{9}
+PSTL_CD_MT,pattern,[A-Z]{3} [0-9]{4}|[A-Z]{2}[0-9]{2}|[A-Z]{2} [0-9]{2}|[A-Z]{3}[0-9]{4}|[A-Z]{3}[0-9]{2}|[A-Z]{3} [0-9]{2}
+PSTL_CD_GU,pattern,((969)[1-3][0-2])(-\d{4})?
+PSTL_CD_IM,pattern,(IM)([0-9][0-9A-HJKPS-UW]?|[A-HK-Y][0-9][0-9ABEHMNPRV-Y]?) [0-9][ABD-HJLNP-UW-Z]{2}
+PSTL_CD_CU,pattern,(CP)?\d{5}
+PSTL_CD_MU,pattern,([0-9A-R]\d{4})
+PSTL_CD_VC,pattern,(VC)(\d{4})
+ID_1_TO_10,pattern,"\d{1,10}"
+PSTL_CD_TC,pattern,(TKCA 1ZZ)
+PSTL_CD_AM,pattern,(\d{4})|(\d{6})
+ID_CYIF_4D,pattern,(CYIF)\d{4}
+PSTL_CD_GR,pattern,(\d{3}) \d{2}|\d{5}
+PSTL_CD_MS,pattern,MSR\d{4}
+PSTL_CD_SI,pattern,[1-9]\d{3}
+PSTL_CD_NF,pattern,(2899)
+PSTL_CD_AR,pattern,([A-Z]\d{4}[A-Z]{3})|([A-Z]\d{4})
+PSTL_CD_GS,pattern,(SIQQ 1ZZ)
+PSTL_CD_SH,pattern,(ASCN 1ZZ|TDCU 1ZZ|STHL 1ZZ)
+PSTL_CD_AS,pattern,967\d{2}(-\d{4})?
+ID_BG_9_10,pattern,"(BG)\d{9,10}"
+PSTL_CD_IR,pattern,\d{5}[\-]?\d{5}
+PSTL_CD_AI,pattern,(AI-2640)
+PSTL_CD_VG,pattern,(VG11)[0-6][0]
+PSTL_CD_SK,pattern,(\d{3} \d{2})|\d{5}
+PSTL_CD_GI,pattern,(GX11 1AA)
+PSTL_CD_MH,pattern,((969)[6-7][0-9])(-\d{4})?
+PSTL_CD_WS,pattern,WS[1-2]\d{3}
+PSTL_CD_US,pattern,\d{5}(-\d{4})?
+PSTL_CD_PF,pattern,((987)\d{2})
+PSTL_CD_KI,pattern,KI\d{4}
+PSTL_CD_AQ,pattern,(7151)
+STRNG_50,maxLength,50
+PSTL_CD_MP,pattern,9695\d{1}(-\d{4})?
+LTN_EXT_50,pattern,(\p{IsBasicLatin}|\p{IsLatin-1Supplement}|\p{IsLatinExtended-A}|\p{IsLatinExtended-B})+
+PSTL_CD_JE,pattern,JE[0-9]{1}[\s]([\d][A-Z]{2})
+ID_9_10_13,pattern,\d{13}|\d{10}|\d{9}
+ID_8_OR_10,pattern,\d{10}|\d{8}
+PSTL_CD_MD,pattern,(MD[\-]?)?(\d{4})
+PSTL_CD_PS,pattern,(P[1-9]\d{6})|(\d{3}-\d{3})
+PSTL_CD_AD,pattern,AD\d{3}
+PSTL_CD_WF,pattern,(986)\d{2}
+PSTL_CD_JP,pattern,(\d{3}-\d{4})
+ID_8D_DASH,pattern,\d{7}-?\d
+PSTL_CD_BH,pattern,\d{3}\d?
+PSTL_CD_BR,pattern,[0-9]{5}-[0-9]{3}
+PSTL_CD_GG,pattern,(GY)([0-9][0-9A-HJKPS-UW]?|[A-HK-Y][0-9][0-9ABEHMNPRV-Y]?) [0-9][ABD-HJLNP-UW-Z]{2}
+PSTL_CD_VI,pattern,008\d{2}(-\d{4})?
+PSTL_CD_SE,pattern,[1-9]\d{2} \d{2}
+PSTL_CD_FK,pattern,(FIQQ 1ZZ)
+ID_CZ_8_10,pattern,(CZ)\d{10}|(CZ)\d{8}
+PSTL_CD_HK,pattern,(999077)
+ID_6D_L_3D,pattern,"\d{1,6}[A-Za-z]\d{0,3}"
+ID_J_D_D_D,pattern,"(J)\d{2}\/\d{1,9}\/\d{4}"
+PSTL_CD_NR,pattern,(NRU68)
+ID_14_OR_9,pattern,\d{14}|\d{9}
+PSTL_CD_HT,pattern,(HT)(\d{4})|(HT) (\d{4})
+PSTL_CD_HM,pattern,(7151)
+PSTL_CD_TW,pattern,(\d{3}\-\d{3})|(\d{3}[-]\d{2})|(\d{6})|(\d{3})
+PSTL_CD_JM,pattern,(JM)[A-Z]{3}\d{2}
+PSTL_CD_LT,pattern,((LT)[\-])?(\d{5})
+PSTL_CD_PN,pattern,(PCR9 1ZZ)
+PSTL_CD_PW,pattern,(96939|96940)
+PSTL_CD_BM,pattern,[A-Z]{2} \d{2}
+PSTL_CD_SZ,pattern,([A-Z]\d{3})
+PSTL_CD_NL,pattern,[1-9]\d{3} [A-Z]{2}|[1-9]\d{3}[A-Z]{2}
+PSTL_CD_NU,pattern,(9974)
+PSTL_CD_KY,pattern,[K][Y][0-9]{1}[-]([0-9]){4}
+PSTL_CD_FM,pattern,9694\d{1}(-\d{4})?
+PSTL_CD_CA,pattern,[A-Z][0-9][A-Z] [0-9][A-Z][0-9]
+PSTL_CD_LU,pattern,((L)[\-])?(\d{4})
+PSTL_CD_CX,pattern,(6798)
+PSTL_CD_PL,pattern,[0-9]{2}[-]([0-9]){3}
+PSTL_CD_KZ,pattern,([A-Z]\d{2}[A-Z]\d[A-Z]\d)|(\d{6})
+PSTL_CD_LV,pattern,((LV)[\-])?(\d{4})
+PSTL_CD_BN,pattern,[A-Z]{2}\d{4}
+PSTL_CD_GB,pattern,"([G][I][R] 0[A]{2})|((([A-Z][0-9]{1,2})|(([A-Z][A-HJ-Y][0-9]{1,2})|(([A-Z][0-9][A-Z])|([A-Z][A-HJ-Y][0-9]?[A-Z])))) [0-9][A-Z]{2})"
+PSTL_CD_CZ,pattern,[1-7][0-9]{2} [0-9]{2}|[1-7][0-9]{4}
+PSTL_CD_CC,pattern,(6799)
+PSTL_CD_PT,pattern,[1-9]\d{3}((-)\d{3})
+PSTL_CD_AZ,pattern,(AZ)(\d{4})|(AZ )(\d{4})
+PSTL_CD_SA,pattern,[1-8]\d{4}([\-]\d{4})?
+ID_2D_8D_1D,pattern,\d{2}-\d{8}-\d{1}
+ID_5D_TO_7D,pattern,"\d{5,7}"
+STRNG_255,maxLength,255
+NN_NGTV_6D,minValue,0
+ID_10D_OR_L,pattern,[A-Z0-9]{10}
+NN_NGTV_6D,decimals,6
+ID_3D_3D_3D,pattern,\d{3} \d{3} \d{3}
+ID_4D_TO_6D,pattern,"\d{4,6}"
+ID_2D-2D-6D,pattern,\d{2}(-)\d{2}(-)\d{6}
+PTTRN_LEI,maxLength,20
+ID_11D_OR_L,pattern,([A-Z0-9]{11})
+ID_3D_2D_5D,pattern,\d{3}-\d{2}-\d{5}
+NN_NGTV_2D,minValue,0
+ID_21D_OR_L,pattern,[A-Z0-9]{21}
+ID_4D_TO_5D,pattern,"\d{4,5}"
+PSTL_CD_OPN,pattern,".{1,255}"
+ID_4D_1L_5D,pattern,"\d{2,4}[A-Z]\d{5}"
+ID_2D_3L_5D,pattern,"\d{2}[A-Z]{1,3}\d{5}"
+LTN_EXT_255,pattern,[\p{IsBasicLatin}\p{IsLatin-1Supplement}\p{IsLatinExtended-A}\p{IsLatinExtended-B}‘-‟€]+
+NN_NGTV_2D,decimals,2
+ID_0_OR_1_8D,pattern,[0-1]\d{8}
+ID_GB_VAT_CD,pattern,(GB)\d{9}|(GB)\d{12}|(GBGD)\d{3}|(GBHA)\d{3}
+LTN_EXT_50,maxLength,50
+ID_1_TO_8_4D,pattern,[1-8]\d{4}
+ID_6D_DSH_1L,pattern,\d{6}-[A-Z]
+ID_1_TO_8_3D,pattern,[1-8]\d{3}
+STRNG_FULL,maxLength,4000
+ID_HCX_6D_2D,pattern,"[H,C,X]\d{6}-\d{2}"
+ID_18_L_OR_D,pattern,[A-Z0-9]{18}
+ID_1D_TO_10D,pattern,"\d{1,10}"
+FLL_YYYYMMDD,pattern,([1-9][0-9]{3})((02((0[1-9])|([1-2][0-9])))|(((04)|(06)|(09)|(11))((0[1-9])|([1-2][0-9])|(30)))|(((01)|(03)|(05)|(07)|(08)|(10)|(12))((0[1-9])|([1-2][0-9])|(3[0-1]))))
+ID_RS_PIB_CD,pattern,[1-9]\d{8}
+ID_LV_FON_CD,pattern,(LV)\d{11}|(LVAF)\d{3}(A|B|\d{1})\d{2}|(LVB)\d{6}|(LVIF)\d{3}(A|B|C|D|E|F|\d{1})\d{2}|(LVVF)\d{6}
+ID_LT_INV_CD,pattern,[A-Z]\d{3}|(SF)\d{3}|[A-Z]{3}-\d{2}\/\d{2}|[A-Z]{3}-[A-Z]{4}
+ID_1_TO_5_4D,pattern,[1-5]\d{4}
+ID_5D_DASH_4D,pattern,[0-9]{5}-[0-9]{4}
+RSTRCTD_ID_60,pattern,^[!-~]|([!-~][ -~]*[!-~])$
+RSTRCTD_ID_50,pattern,^[A-Za-z0-9_@$\-][!-~]*$
+RSTRCTD_ID_52,pattern,^[A-Za-z0-9_@$\-][!-~]*\.[A-Z]$
+ID_2L_1_TO_8D,pattern,"[A-Z]{2}\d{1,8}"
+LTN_EXT_255,maxLength,255
+ID_1L_6D_C_5D,pattern,[A-Z]\d{6}[C]\d{5}
+ID_10D_OR_9DK,pattern,\d{10}|\d{9}(K)
+ID_SK_8D_3L_2D,pattern,(SK)\d{8}[A-Z]{3}\d{2}
+INTGR_NN_NGTV,minValue,0
+RL_NN_NGTV_2D,decimals,2
+ID_CH_3D_7D_1D,pattern,(CH)\-\d{3}\-\d{7}-\d{1}
+ID_2D_3D_3D_3D,pattern,\d{2} \d{3} \d{3} \d{3}
+RL_NN_NGTV_2D,minValue,0
+FLL_YYYY_MM_DD,pattern,([1-9][0-9]{3})\-((02\-((0[1-9])|([1-2][0-9])))|(((04)|(06)|(09)|(11))\-((0[1-9])|([1-2][0-9])|(30)))|(((01)|(03)|(05)|(07)|(08)|(10)|(12))\-((0[1-9])|([1-2][0-9])|(3[0-1]))))
+ID_7D_OR_BC_7D,pattern,"\d{7}| ""BC""\d{7}"
+ID_8D_OR_8D_1L,pattern,"\d{8}[a-z]{0,1}"
+ID_1_OR_9_D_1_6,pattern,"[1-9]\d{1,6}"
+END_QRTR_YYYYMM,pattern,[1-2][0-9]{3}((0(3|6|9))|(12))
+RSTRCTD_ID_50,maxLength,50
+END_MNTH_YYYYMM,pattern,[1-2][0-9]{3}((0[1-9])|(1[0-2]))
+ID_CHE_3D_3D_3D,pattern,(CHE)-\d{3}\.\d{3}\.\d{3}
+RSTRCTD_ID_52,maxLength,52
+RSTRCTD_ID_60,maxLength,60
+ID_FR_10L_OR_10D,pattern,(FR)[A-Z0-9]{10}
+ID_3L_6D_3D_OR_L,pattern,[A-Z]{3}-\d{6}-[A-Z0-9]{3}
+ID_8D_3D_2D_2D_L,pattern,\d{8}-\d{3}.\d{2}.\d{2}-[A-Z]
+ID_GV_4D_OR_LA_3D,pattern,(GV)\d{4}|(LA)\d{3}
+ID_VAR_LEN_D_DASH,pattern,\d+(-\d+)?
+ID_2D_3D_3D_4D_2D,pattern,\d{2}.\d{3}.\d{3}\/\d{4}-\d{2}
+ID_FL_4D_3D_3D_1D,pattern,(FL)-\d{4}.\d{3}.\d{3}-\d{1}
+ID_DE_TRD_RGSTR_CD,pattern,"((G(n|N)R)|(HRA)|(HRB)|(PR)|(VR))\d{1,6}[A-Z]{0,5}-[A-Z]\d{4}"
+END_QRTR_YYYY_MM_DD,pattern,(.{4}\-03\-31)|(.{4}\-06\-30)|(.{4}\-09\-30)|(.{4}\-12\-31)
+FLL_YYYYMMDD,dateFormatDISC,YYYYMMDD
+END_MNTH_YYYY_MM_DD,pattern,(.{4}\-((01)|(03)|(05)|(07)|(08)|(10)|(12))\-31)|(.{4}\-02\-((28)|(29)))|(.{4}\-((04)|(06)|(09)|(11))\-30)
+ID_CH_3D_1D_3D_3D_1D,pattern,(CH)-\d{3}\.\d{1}\.\d{3}\.\d{3}\-\d{1}
+ID_2D_3D_3D_1D_3D_3D,pattern,\d{2}.\d{3}.\d{3}.\d{1}-\d{3}.\d{3}
+ID_FB5D_OR_FB3D_1L_2D,pattern,(FB)\d{6}|(FB)\d{3}[A-Z]\d{2}
+FLL_YYYY_MM_DD,dateFormatDISC,YYYY-MM-DD
+END_MNTH_YYYYMM,dateFormatDISC,YYYYMM
+FLL_YYYY_MM_DD_T_HH24_MI_SS,pattern,([1-9][0-9]{3})\-((02\-((0[1-9])|([1-2][0-9])))|(((04)|(06)|(09)|(11))\-((0[1-9])|([1-2][0-9])|(30)))|(((01)|(03)|(05)|(07)|(08)|(10)|(12))\-((0[1-9])|([1-2][0-9])|(3[0-1]))))T([01]?[0-9]|2[0-3]):[0-5][0-9]:[0-5][0-9]
+ID_2D_3D_3D_KORD_OR_8D_KORD,pattern,\d{2}.\d{3}.\d{3}-[K0-9]|\d{8}-[K0-9]
+RSTRCTD_ID_50_WTHT_LT_BLNKS_ONLY,pattern,^[A-Za-z0-9_@$\-][ -~]*[!-~]$
+RSTRCTD_ID_50_WTHT_LT_BLNKS_ONLY,maxLength,50
+ID_1_TO_2_3_TO_5_OR_D_4D_2D_OR_2D_2D_4D_2D,pattern,"\d{1,2}-\d{3,5}|\d{1}-\d{4}-\d{2}|\d{2}-\d{2}-\d{4}-\d{2}"
+STRNG_2,maxLength,2
+STRNG_1,maxLength,1
+STRNG_10,maxLength,10
+STRNG_120_ID,maxLength,120
+ISIN_12,pattern,[A-Z][A-Z][A-Z0-9]{9}[0-9]
+ISIN_12,maxLength,12
+STRNG_ASCII_250,pattern,"[ -~]{1,250}"
+STRNG_ASCII_250,maxLength,250
