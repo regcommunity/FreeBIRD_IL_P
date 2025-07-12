@@ -1,0 +1,308 @@
+MAINTENANCE_AGENCY_ID,MAPPING_ID,NAME,MAPPING_TYPE,CODE,ALGORITHM,MEMBER_MAPPING_ID,VARIABLE_MAPPING_ID
+,DPM_ACT,Mapping of Accounting treatment,E,DPM_ACT,,DPM_ACT,DPM_ACT
+,DPM_ALO,Mapping of Type of allowance,E,DPM_ALO,,DPM_ALO,DPM_ALO
+,DPM_ALO_F_12.00,Mapping of Type of allowance for the template F12.00,E,DPM_ALO_F_12.00,,DPM_ALO_F_12.00,DPM_ALO_F_12.00
+,DPM_APL,Mapping of Accounting portfolio,E,DPM_APL,,DPM_APL,DPM_APL
+,DPM_ATY_AE,DPM_ATY_AE,V,DPM_ATY_AE,,,DPM_ATY_AE
+,DPM_ATY_FINREP,DPM_ATY_FINREP,V,DPM_ATY_FINREP,,,DPM_ATY_FINREP
+,DPM_BAS,Mapping of Base,E,DPM_BAS,,DPM_BAS,DPM_BAS
+,DPM_BAS_AE_F32.03.a,Mapping of Base for the template AEF32.03.a,E,DPM_BAS_AE_F32.03.a,,DPM_BAS_AE_F32.03.a,DPM_BAS_AE_F32.03.a
+,DPM_BAS_ALO_IMS_APL,"Mapping of Base, Accounting portfolio, Impairment status, Type of allowance",E,DPM_BAS_ALO_IMS_APL,,DPM_BAS_ALO_IMS_APL,DPM_BAS_ALO_IMS_APL
+,DPM_BAS_APL,"Mapping of Accounting portfolio, Base",E,DPM_BAS_APL,,DPM_BAS_APL,DPM_BAS_APL
+,DPM_BAS_APL_2.9,"Mapping of Accounting portfolio, Base for the template 2.9",E,DPM_BAS_APL_2.9,,DPM_BAS_APL_2.9,DPM_BAS_APL_2.9
+,DPM_BAS_CNO_MCB_MCF_MCY_REC,"Mapping of Base, Instrument, Main category, Controlling and non-controlling owners, To be reclassified to profit or loss, Hedged or hedging instrument",E,DPM_BAS_CNO_MCB_MCF_MCY_REC,,DPM_BAS_CNO_MCB_MCF_MCY_REC,DPM_BAS_CNO_MCB_MCF_MCY_REC
+,DPM_BAS_CNO_MCB_MCY_APL,"Mapping of Main category, Instrument, Accounting portfolio, Base, Controlling and non-controlling owners",E,DPM_BAS_CNO_MCB_MCY_APL,,DPM_BAS_CNO_MCB_MCY_APL,DPM_BAS_CNO_MCB_MCY_APL
+,DPM_BAS_CPC_ECC_EXC_MCG_MCY_AE_F32.02.a,"Mapping of Base, Exposure class of the collateral received, Exposure class, Main category of collateral or guarantee received, Main category, Counterparty sector of the collateral for the template AEF32.02.a",E,DPM_BAS_CPC_ECC_EXC_MCG_MCY_AE_F32.02.a,,DPM_BAS_CPC_ECC_EXC_MCG_MCY_AE_F32.02.a,DPM_BAS_CPC_ECC_EXC_MCG_MCY_AE_F32.02.a
+,DPM_BAS_CPE_CPS_MCS_MCY_AE_F32.04.a,"Mapping of Base, Main category, Main category of the source of encumbrance, Counterparty sector of the source of encumbrance, Counterparty sector for the template AEF32.04.a",E,DPM_BAS_CPE_CPS_MCS_MCY_AE_F32.04.a,,DPM_BAS_CPE_CPS_MCS_MCY_AE_F32.04.a,DPM_BAS_CPE_CPS_MCS_MCY_AE_F32.04.a
+,DPM_BAS_CPS_CPZ_MCB_MCG_MCY_MCP_PUR_APL,"Mapping of Base, Main category, Main category that generates the provision, Accounting portfolio, Counterparty sector, Size of the counterparty, Main category of collateral or guarantee received, Purpose, Instrument",E,DPM_BAS_CPS_CPZ_MCB_MCG_MCY_MCP_PUR_APL,,DPM_BAS_CPS_CPZ_MCB_MCG_MCY_MCP_PUR_APL,DPM_BAS_CPS_CPZ_MCB_MCG_MCY_MCP_PUR_APL
+,DPM_BAS_CPS_CPZ_MCG_MCY_MCP_PUR_APL,"Mapping of Base, Main category, Main category that generates the provision, Accounting portfolio, Counterparty sector, Size of the counterparty, Main category of collateral or guarantee received, Purpose",E,DPM_BAS_CPS_CPZ_MCG_MCY_MCP_PUR_APL,,DPM_BAS_CPS_CPZ_MCG_MCY_MCP_PUR_APL,DPM_BAS_CPS_CPZ_MCG_MCY_MCP_PUR_APL
+,DPM_BAS_CPS_EXC_MCG_MCY_AE_F32.01,"Mapping of Base, Exposure class, Main category of collateral or guarantee received, Main category, Counterparty sector for the template AEF32.01",E,DPM_BAS_CPS_EXC_MCG_MCY_AE_F32.01,,DPM_BAS_CPS_EXC_MCG_MCY_AE_F32.01,DPM_BAS_CPS_EXC_MCG_MCY_AE_F32.01
+,DPM_BAS_CPS_EXC_MCY_AE_F36.01.a,"Mapping of Base, Counterparty sector, Exposure class, Main category for the template AEF36.01.a",E,DPM_BAS_CPS_EXC_MCY_AE_F36.01.a,,DPM_BAS_CPS_EXC_MCY_AE_F36.01.a,DPM_BAS_CPS_EXC_MCY_AE_F36.01.a
+,DPM_BAS_CPS_MCB_MCY_APL,"Mapping of Base, Main category, Counterparty sector, Accounting portfolio, Instrument",E,DPM_BAS_CPS_MCB_MCY_APL,,DPM_BAS_CPS_MCB_MCY_APL,DPM_BAS_CPS_MCB_MCY_APL
+,DPM_BAS_CPS_MCB_MCY_APL__20250514_092846,"Mapping of Base, Main category, Counterparty sector, Accounting portfolio, Instrument (20250514_092846)",,DPM_BAS_CPS_MCB_MCY_APL__20250514_092846,,DPM_BAS_CPS_MCB_MCY_APL__20250514_092846,DPM_BAS_CPS_MCB_MCY_APL__20250514_092846
+,DPM_BAS_CPS_MCY,"Mapping of Base, Main category, Counterparty sector",E,DPM_BAS_CPS_MCY,,DPM_BAS_CPS_MCY,DPM_BAS_CPS_MCY
+,DPM_BAS_CPS_MCY_APL,"Mapping of Counterparty sector, Main category, Accounting portfolio, Base",E,DPM_BAS_CPS_MCY_APL,,DPM_BAS_CPS_MCY_APL,DPM_BAS_CPS_MCY_APL
+,DPM_BAS_CRA_AE_F35.00.c,"Mapping of Base, Credit rating agency /Covered bond regime for the template AEF35.00.c",E,DPM_BAS_CRA_AE_F35.00.c,,DPM_BAS_CRA_AE_F35.00.c,DPM_BAS_CRA_AE_F35.00.c
+,DPM_BAS_EXC_MCY_AE_F32.04.b,"Mapping of Base, Exposure class, Main category for the template AEF32.04.b",E,DPM_BAS_EXC_MCY_AE_F32.04.b,,DPM_BAS_EXC_MCY_AE_F32.04.b,DPM_BAS_EXC_MCY_AE_F32.04.b
+,DPM_BAS_MCB_MCY,"Mapping of Base, Instrument, Main category",E,DPM_BAS_MCB_MCY,,DPM_BAS_MCB_MCY,DPM_BAS_MCB_MCY
+,DPM_BAS_MCB_MCY_APL,"Mapping of Base, Main category, Accounting portfolio, Instrument",E,DPM_BAS_MCB_MCY_APL,,DPM_BAS_MCB_MCY_APL,DPM_BAS_MCB_MCY_APL
+,DPM_BAS_MCB_MCY_APL_F_42.00,"Mapping of Base, Main category, Accounting portfolio, Instrument for the template F42.00",E,DPM_BAS_MCB_MCY_APL_F_42.00,,DPM_BAS_MCB_MCY_APL_F_42.00,DPM_BAS_MCB_MCY_APL_F_42.00
+,DPM_BAS_MCE_MCY_TYA,"Mapping of Main category, Base, Main category that generates income or expenses, Type of activity",E,DPM_BAS_MCE_MCY_TYA,,DPM_BAS_MCE_MCY_TYA,DPM_BAS_MCE_MCY_TYA
+,DPM_BAS_MCE_MCY_TYA_2.9,"Mapping of Main category, Base, Main category that generates income or expenses, Type of activity for the template 2.9",E,DPM_BAS_MCE_MCY_TYA_2.9,,DPM_BAS_MCE_MCY_TYA_2.9,DPM_BAS_MCE_MCY_TYA_2.9
+,DPM_BAS_MCF_MCH_MCY,"Mapping of Base, Main category, Main category of hedged item, Hedged or hedging instrument",E,DPM_BAS_MCF_MCH_MCY,,DPM_BAS_MCF_MCH_MCY,DPM_BAS_MCF_MCH_MCY
+,DPM_BAS_MCG_MCY_AE_F33.00.a,"Mapping of Base, Main category, Main category of collateral or guarantee received for the template AEF33.00.a",E,DPM_BAS_MCG_MCY_AE_F33.00.a,,DPM_BAS_MCG_MCY_AE_F33.00.a,DPM_BAS_MCG_MCY_AE_F33.00.a
+,DPM_BAS_MCP_MCY,"Mapping of Base, Main category, Main category that generates the provision",E,DPM_BAS_MCP_MCY,,DPM_BAS_MCP_MCY,DPM_BAS_MCP_MCY
+,DPM_BAS_MCS_MCY_AE_F35.00.a,"Mapping of Base, Main category, Main category of the source of encumbrance for the template AEF35.00.a",E,DPM_BAS_MCS_MCY_AE_F35.00.a,,DPM_BAS_MCS_MCY_AE_F35.00.a,DPM_BAS_MCS_MCY_AE_F35.00.a
+,DPM_BAS_MCV_MCY_TRE,"Mapping of Base, Main category, (Sub-)Type of expense, Type of remuneration",E,DPM_BAS_MCV_MCY_TRE,,DPM_BAS_MCV_MCY_TRE,DPM_BAS_MCV_MCY_TRE
+,DPM_BAS_MCY,"Mapping of Base, Main category",E,DPM_BAS_MCY,,DPM_BAS_MCY,DPM_BAS_MCY
+,DPM_BAS_MCY_AE_F32.02.b,"Mapping of Base, Main category for the template AEF32.02.b",E,DPM_BAS_MCY_AE_F32.02.b,,DPM_BAS_MCY_AE_F32.02.b,DPM_BAS_MCY_AE_F32.02.b
+,DPM_BAS_MCY_APL,"Mapping of Main category, Accounting portfolio, Base",E,DPM_BAS_MCY_APL,,DPM_BAS_MCY_APL,DPM_BAS_MCY_APL
+,DPM_BAS_MCY_APL_RPR,"Mapping of Main category, Accounting portfolio, Base, Related parties/Relationships",E,DPM_BAS_MCY_APL_RPR,,DPM_BAS_MCY_APL_RPR,DPM_BAS_MCY_APL_RPR
+,DPM_BAS_MCY_PFS,"Mapping of Base, Main category, Performing status",E,DPM_BAS_MCY_PFS,,DPM_BAS_MCY_PFS,DPM_BAS_MCY_PFS
+,DPM_BAS_MCY_SST_AE_F32.03.b,"Mapping of Base, Main category, Securitisation structure for the template AEF32.03.b",E,DPM_BAS_MCY_SST_AE_F32.03.b,,DPM_BAS_MCY_SST_AE_F32.03.b,DPM_BAS_MCY_SST_AE_F32.03.b
+,DPM_BAS_MDC_MCP_MCY_RPR,"Mapping of Base, Main category, Main category that generates the provision, Main category of the Defined benefit plan assets, Related parties/Relationships for the template MDC",E,DPM_BAS_MDC_MCP_MCY_RPR,,DPM_BAS_MDC_MCP_MCY_RPR,DPM_BAS_MDC_MCP_MCY_RPR
+,DPM_CBC,DPM_CBC,A,DPM_CBC,,,DPM_CBC
+,DPM_CNO,Mapping of Controlling and non-controlling owners,E,DPM_CNO,,DPM_CNO,DPM_CNO
+,DPM_CNO_F_46.00,Mapping of Controlling and non-controlling owners for the template F46.00,E,DPM_CNO_F_46.00,,DPM_CNO_F_46.00,DPM_CNO_F_46.00
+,DPM_CPC_ECC_MCG_AE_F36.01.b,"Mapping of Main category of collateral or guarantee received, Exposure class of the collateral received, Counterparty sector of the collateral for the template AEF36.01.b",E,DPM_CPC_ECC_MCG_AE_F36.01.b,,DPM_CPC_ECC_MCG_AE_F36.01.b,DPM_CPC_ECC_MCG_AE_F36.01.b
+,DPM_CPC_ECC_MCG_AE_F36.02.b,"Mapping of Main category of collateral or guarantee received, Exposure class of the collateral received, Counterparty sector of the collateral for the template AEF36.02.b",E,DPM_CPC_ECC_MCG_AE_F36.02.b,,DPM_CPC_ECC_MCG_AE_F36.02.b,DPM_CPC_ECC_MCG_AE_F36.02.b
+,DPM_CPE_MCS_AE_F32.04.b,"Mapping of Counterparty sector of the source of encumbrance, Main category of the source of encumbrance for the template AEF32.04.b",E,DPM_CPE_MCS_AE_F32.04.b,,DPM_CPE_MCS_AE_F32.04.b,DPM_CPE_MCS_AE_F32.04.b
+,DPM_CPS,Mapping of Counterparty sector,E,DPM_CPS,,DPM_CPS,DPM_CPS
+,DPM_CPS_CPZ,"Mapping of Counterparty sector, Size of the counterparty",E,DPM_CPS_CPZ,,DPM_CPS_CPZ,DPM_CPS_CPZ
+,DPM_CPS_CPZ_MCB_MCG_MCY_PUR,"Mapping of Main category, Instrument, Counterparty sector, Size of the counterparty, Main category of collateral or guarantee received, Purpose",E,DPM_CPS_CPZ_MCB_MCG_MCY_PUR,,DPM_CPS_CPZ_MCB_MCG_MCY_PUR,DPM_CPS_CPZ_MCB_MCG_MCY_PUR
+,DPM_CPS_CPZ_MCB_MCY_PUR,"Mapping of Main category, Instrument, Counterparty sector, Size of the counterparty, Purpose",E,DPM_CPS_CPZ_MCB_MCY_PUR,,DPM_CPS_CPZ_MCB_MCY_PUR,DPM_CPS_CPZ_MCB_MCY_PUR
+,DPM_CPS_CPZ_MCC_MCG_MCY_PUR,"Mapping of Main category of collateral or guarantee given, Main category, Counterparty sector, Main category of collateral or guarantee received, Purpose, Size of the counterparty",E,DPM_CPS_CPZ_MCC_MCG_MCY_PUR,,DPM_CPS_CPZ_MCC_MCG_MCY_PUR,DPM_CPS_CPZ_MCC_MCG_MCY_PUR
+,DPM_CPS_CPZ_MCG_MCY_PUR,"Mapping of Main category, Counterparty sector, Size of the counterparty, Main category of collateral or guarantee received, Purpose",E,DPM_CPS_CPZ_MCG_MCY_PUR,,DPM_CPS_CPZ_MCG_MCY_PUR,DPM_CPS_CPZ_MCG_MCY_PUR
+,DPM_CPS_CPZ_MCY,"Mapping of Main category, Counterparty sector, Size of the counterparty",E,DPM_CPS_CPZ_MCY,,DPM_CPS_CPZ_MCY,DPM_CPS_CPZ_MCY
+,DPM_CPS_CPZ_MCY_TMA,"Mapping of Main category, Counterparty sector, Size of the counterparty, Type of market",E,DPM_CPS_CPZ_MCY_TMA,,DPM_CPS_CPZ_MCY_TMA,DPM_CPS_CPZ_MCY_TMA
+,DPM_CPS_MCB_MCE_TYH_IMS_APL_PUR,"Mapping of Main category that generates income or expenses, Counterparty sector, Type of hedge, Purpose, Instrument, Impairment status for the template APL",E,DPM_CPS_MCB_MCE_TYH_IMS_APL_PUR,,DPM_CPS_MCB_MCE_TYH_IMS_APL_PUR,DPM_CPS_MCB_MCE_TYH_IMS_APL_PUR
+,DPM_CPS_MCB_MCU_MCY,"Mapping of Main category, Instrument, Main category of the underlying, Counterparty sector",E,DPM_CPS_MCB_MCU_MCY,,DPM_CPS_MCB_MCU_MCY,DPM_CPS_MCB_MCU_MCY
+,DPM_CPS_MCB_MCY,"Mapping of Main category, Counterparty sector, Instrument",E,DPM_CPS_MCB_MCY,,DPM_CPS_MCB_MCY,DPM_CPS_MCB_MCY
+,DPM_CPS_MCB_MCY_TMA_TRI,"Mapping of Main category, Counterparty sector, Type of risk, Type of market, Instrument",E,DPM_CPS_MCB_MCY_TMA_TRI,,DPM_CPS_MCB_MCY_TMA_TRI,DPM_CPS_MCB_MCY_TMA_TRI
+,DPM_CPS_MCE_TYH_IMS_APL,"Mapping of Main category that generates income or expenses, Accounting portfolio, Counterparty sector, Type of hedge, Impairment status",E,DPM_CPS_MCE_TYH_IMS_APL,,DPM_CPS_MCE_TYH_IMS_APL,DPM_CPS_MCE_TYH_IMS_APL
+,DPM_CPS_MCP,"Mapping of Main category that generates the provision, Counterparty sector",E,DPM_CPS_MCP,,DPM_CPS_MCP,DPM_CPS_MCP
+,DPM_CPS_MCY,"Mapping of Main category, Counterparty sector",E,DPM_CPS_MCY,,DPM_CPS_MCY,DPM_CPS_MCY
+,DPM_CPS_MCY_TMA,"Mapping of Main category, Counterparty sector, Type of market",E,DPM_CPS_MCY_TMA,,DPM_CPS_MCY_TMA,DPM_CPS_MCY_TMA
+,DPM_CPS_MCY__20250514_093614,"Mapping of Main category, Counterparty sector (20250514_093614)",,DPM_CPS_MCY__20250514_093614,,DPM_CPS_MCY__20250514_093614,DPM_CPS_MCY__20250514_093614
+,DPM_CRA_AE,Mapping of Credit rating agency /Covered bond regime for the template AE,E,DPM_CRA_AE,,DPM_CRA_AE,DPM_CRA_AE
+,DPM_CSC_AE,Mapping of Contingent scenario/Assumptions used for the template AE,E,DPM_CSC_AE,,DPM_CSC_AE,DPM_CSC_AE
+,DPM_CTL_MCG,"Mapping of Collateralisation level, Main category of collateral or guarantee received",E,DPM_CTL_MCG,,DPM_CTL_MCG,DPM_CTL_MCG
+,DPM_CUS_AE,Mapping of Currency with significant liabilities for the template AE,E,DPM_CUS_AE,,DPM_CUS_AE,DPM_CUS_AE
+,DPM_DPS,Mapping of Derivatives Purchased/Sold,E,DPM_DPS,,DPM_DPS,DPM_DPS
+,DPM_ENC_AE,Mapping of Encumbrance for the template AE,E,DPM_ENC_AE,,DPM_ENC_AE,DPM_ENC_AE
+,DPM_ENC_AE_F32.02.a,Mapping of Encumbrance for the template AEF32.02.a,E,DPM_ENC_AE_F32.02.a,,DPM_ENC_AE_F32.02.a,DPM_ENC_AE_F32.02.a
+,DPM_ENC_LQA_AE_F32.01,"Mapping of Encumbrance, Liquidity quality of assets for the template AEF32.01",E,DPM_ENC_LQA_AE_F32.01,,DPM_ENC_LQA_AE_F32.01,DPM_ENC_LQA_AE_F32.01
+,DPM_EUT_AE,Mapping of Time of encumbrance for the template AE,E,DPM_EUT_AE,,DPM_EUT_AE,DPM_EUT_AE
+,DPM_Entity2,DPM_Entity2,A,DPM_Entity2,,,DPM_Entity2
+,DPM_FBS,Mapping of Forbearance status,E,DPM_FBS,,DPM_FBS,DPM_FBS
+,DPM_FBS_F_19.00,Mapping of Forbearance status for the template F19.00,E,DPM_FBS_F_19.00,,DPM_FBS_F_19.00,DPM_FBS_F_19.00
+,DPM_FLT_FLW,"Mapping of Flows (direction), Flows (type / source / reason)",E,DPM_FLT_FLW,,DPM_FLT_FLW,DPM_FLT_FLW
+,DPM_FLW,Mapping of Flows (direction),E,DPM_FLW,,DPM_FLW,DPM_FLW
+,DPM_FRS,Mapping of Financial reporting standard,E,DPM_FRS,,DPM_FRS,DPM_FRS
+,DPM_FRS_IMS_PFS_TPD,"Mapping of Impairment status, Performing status, Time past due, Financial reporting standard",E,DPM_FRS_IMS_PFS_TPD,,DPM_FRS_IMS_PFS_TPD,DPM_FRS_IMS_PFS_TPD
+,DPM_FVH,Mapping of Fair value hierarchy,E,DPM_FVH,,DPM_FVH,DPM_FVH
+,DPM_IMS,Mapping of Impairment status,E,DPM_IMS,,DPM_IMS,DPM_IMS
+,DPM_IMS_F_06.01,Mapping of Impairment status for the template F06.01,E,DPM_IMS_F_06.01,,DPM_IMS_F_06.01,DPM_IMS_F_06.01
+,DPM_IMS_PFS,"Mapping of Impairment status, Performing status",E,DPM_IMS_PFS,,DPM_IMS_PFS,DPM_IMS_PFS
+,DPM_IMS_PFS_2.9,"Mapping of Impairment status, Performing status for the template 2.9",E,DPM_IMS_PFS_2.9,,DPM_IMS_PFS_2.9,DPM_IMS_PFS_2.9
+,DPM_IMS_PFS_TPD,"Mapping of Impairment status, Performing status, Time past due",E,DPM_IMS_PFS_TPD,,DPM_IMS_PFS_TPD,DPM_IMS_PFS_TPD
+,DPM_IMS_PFS_TPD_2.9,"Mapping of Impairment status, Performing status, Time past due for the template 2.9",E,DPM_IMS_PFS_TPD_2.9,,DPM_IMS_PFS_TPD_2.9,DPM_IMS_PFS_TPD_2.9
+,DPM_IMS_PFS_TPD_F_18.02,"Mapping of Impairment status, Performing status, Time past due for the template F18.02",E,DPM_IMS_PFS_TPD_F_18.02,,DPM_IMS_PFS_TPD_F_18.02,DPM_IMS_PFS_TPD_F_18.02
+,DPM_LAC,Mapping of Location of the activities,E,DPM_LAC,,DPM_LAC,DPM_LAC
+,DPM_LEC_1,DPM_LEC_1,A,DPM_LEC_1,,,DPM_LEC_1
+,DPM_LEC_2,DPM_LEC_2,A,DPM_LEC_2,,,DPM_LEC_2
+,DPM_LQA_AE_F32.03.b,Mapping of Liquidity quality of assets for the template AEF32.03.b,E,DPM_LQA_AE_F32.03.b,,DPM_LQA_AE_F32.03.b,DPM_LQA_AE_F32.03.b
+,DPM_LQA_AE_F36.01.c,Mapping of Liquidity quality of assets for the template AEF36.01.c,E,DPM_LQA_AE_F36.01.c,,DPM_LQA_AE_F36.01.c,DPM_LQA_AE_F36.01.c
+,DPM_LQC_AE_F32.02.a,Mapping of Liquidity quality of collateral received for the template AEF32.02.a,E,DPM_LQC_AE_F32.02.a,,DPM_LQC_AE_F32.02.a,DPM_LQC_AE_F32.02.a
+,DPM_LQC_AE_F36.02.c,Mapping of Liquidity quality of collateral received for the template AEF36.02.c,E,DPM_LQC_AE_F36.02.c,,DPM_LQC_AE_F36.02.c,DPM_LQC_AE_F36.02.c
+,DPM_LTG,Mapping of Litigation status,E,DPM_LTG,,DPM_LTG,DPM_LTG
+,DPM_MCA,Mapping of Main category of hedging instrument,E,DPM_MCA,,DPM_MCA,DPM_MCA
+,DPM_MCB,Mapping of Instrument,E,DPM_MCB,,DPM_MCB,DPM_MCB
+,DPM_MCB_MCY,"Mapping of Main category, Instrument",E,DPM_MCB_MCY,,DPM_MCB_MCY,DPM_MCB_MCY
+,DPM_MCB_MCY_2.9,"Mapping of Main category, Instrument for the template 2.9",E,DPM_MCB_MCY_2.9,,DPM_MCB_MCY_2.9,DPM_MCB_MCY_2.9
+,DPM_MCB_MCY_MCG,"Mapping of Main category, Main category of collateral or guarantee received, Instrument",E,DPM_MCB_MCY_MCG,,DPM_MCB_MCY_MCG,DPM_MCB_MCY_MCG
+,DPM_MCE,Mapping of Main category that generates income or expenses,E,DPM_MCE,,DPM_MCE,DPM_MCE
+,DPM_MCE_APL,"Mapping of Main category that generates income or expenses, Accounting portfolio",E,DPM_MCE_APL,,DPM_MCE_APL,DPM_MCE_APL
+,DPM_MCE_APL_PLD,"Mapping of Main category that generates income or expenses, Accounting portfolio, Designation (Fair value option)",E,DPM_MCE_APL_PLD,,DPM_MCE_APL_PLD,DPM_MCE_APL_PLD
+,DPM_MCE_APL_RPR,"Mapping of Main category that generates income or expenses, Accounting portfolio, Related parties/Relationships",E,DPM_MCE_APL_RPR,,DPM_MCE_APL_RPR,DPM_MCE_APL_RPR
+,DPM_MCE_TYH,"Mapping of Main category that generates income or expenses, Type of hedge",E,DPM_MCE_TYH,,DPM_MCE_TYH,DPM_MCE_TYH
+,DPM_MCF,Mapping of Hedged or hedging instrument,E,DPM_MCF,,DPM_MCF,DPM_MCF
+,DPM_MCG,Mapping of Main category of collateral or guarantee received,E,DPM_MCG,,DPM_MCG,DPM_MCG
+,DPM_MCG_AE,Mapping of Main category of collateral or guarantee received for the template AE,E,DPM_MCG_AE,,DPM_MCG_AE,DPM_MCG_AE
+,DPM_MCI,Mapping of Main category provided of Investee,E,DPM_MCI,,DPM_MCI,DPM_MCI
+,DPM_MCP,Mapping of Main category that generates the provision,E,DPM_MCP,,DPM_MCP,DPM_MCP
+,DPM_MCS_MCY_SST_AE_F32.03.a,"Mapping of Main category, Main category of the source of encumbrance, Securitisation structure for the template AEF32.03.a",E,DPM_MCS_MCY_SST_AE_F32.03.a,,DPM_MCS_MCY_SST_AE_F32.03.a,DPM_MCS_MCY_SST_AE_F32.03.a
+,DPM_MCT_PLT,"Mapping of Main category of the transferred financial asset to which the liability is associated to, Accounting portfolio of the transferred financial asset to which the liability is associated to",E,DPM_MCT_PLT,,DPM_MCT_PLT,DPM_MCT_PLT
+,DPM_MCV_F_16.08,Mapping of (Sub-)Type of expense for the template F16.08,E,DPM_MCV_F_16.08,,DPM_MCV_F_16.08,DPM_MCV_F_16.08
+,DPM_MCV_F_44.03,Mapping of (Sub-)Type of expense for the template F44.03,E,DPM_MCV_F_44.03,,DPM_MCV_F_44.03,DPM_MCV_F_44.03
+,DPM_MCY,Mapping of Main category,E,DPM_MCY,,DPM_MCY,DPM_MCY
+,DPM_NAC,Mapping of NACE code counterparty,E,DPM_NAC,,DPM_NAC,DPM_NAC
+,DPM_NPE,Mapping of Details on NPE classification,E,DPM_NPE,,DPM_NPE,DPM_NPE
+,DPM_PAF,Mapping of Date / period of application of forbearance measure,E,DPM_PAF,,DPM_PAF,DPM_PAF
+,DPM_PFS,Mapping of Performing status,E,DPM_PFS,,DPM_PFS,DPM_PFS
+,DPM_PFS_F_26.00.b,Mapping of Performing status for the template F26.00.b,E,DPM_PFS_F_26.00.b,,DPM_PFS_F_26.00.b,DPM_PFS_F_26.00.b
+,DPM_PFS_F_31.02,Mapping of Performing status for the template F31.02,E,DPM_PFS_F_31.02,,DPM_PFS_F_31.02,DPM_PFS_F_31.02
+,DPM_PFS_TPD,"Mapping of Performing status, Time past due",E,DPM_PFS_TPD,,DPM_PFS_TPD,DPM_PFS_TPD
+,DPM_PIR,Mapping of Date / period of initial recognition,E,DPM_PIR,,DPM_PIR,DPM_PIR
+,DPM_PLD,Mapping of Designation (Fair value option),E,DPM_PLD,,DPM_PLD,DPM_PLD
+,DPM_POV,Mapping of Date / period of valuation,E,DPM_POV,,DPM_POV,DPM_POV
+,DPM_PUR,Mapping of Purpose,E,DPM_PUR,,DPM_PUR,DPM_PUR
+,DPM_Period,DPM_Period,A,DPM_Period,,,DPM_Period
+,DPM_RCP,Mapping of Residence of counterparty,E,DPM_RCP,,DPM_RCP,DPM_RCP
+,DPM_REC,Mapping of To be reclassified to profit or loss,E,DPM_REC,,DPM_REC,DPM_REC
+,DPM_REF,Mapping of Reference date or period,E,DPM_REF,,DPM_REF,DPM_REF
+,DPM_REF_RES_AE_F35.00.a,"Mapping of Reference date or period, Residual maturity for the template AEF35.00.a",E,DPM_REF_RES_AE_F35.00.a,,DPM_REF_RES_AE_F35.00.a,DPM_REF_RES_AE_F35.00.a
+,DPM_RPR,Mapping of Related parties/Relationships,E,DPM_RPR,,DPM_RPR,DPM_RPR
+,DPM_RPR_AE,Mapping of Related parties/Relationships for the template AE,E,DPM_RPR_AE,,DPM_RPR_AE,DPM_RPR_AE
+,DPM_RPR_AE_F36,Mapping of Related parties/Relationships for the template AEF36,E,DPM_RPR_AE_F36,,DPM_RPR_AE_F36,DPM_RPR_AE_F36
+,DPM_RiadCode,DPM_RiadCode,A,DPM_RiadCode,,,DPM_RiadCode
+,DPM_SCC_AE,Mapping of Specific contract clauses or netting agreements for the template AE,E,DPM_SCC_AE,,DPM_SCC_AE,DPM_SCC_AE
+,DPM_SCO,Mapping of Scope of consolidation,E,DPM_SCO,,DPM_SCO,DPM_SCO
+,DPM_SOL,Mapping of Subject to operating lease (reporting entity lessor),E,DPM_SOL,,DPM_SOL,DPM_SOL
+,DPM_STC,DPM_STC,A,DPM_STC,,,DPM_STC
+,DPM_SUB,Mapping of Subordinated,E,DPM_SUB,,DPM_SUB,DPM_SUB
+,DPM_TFM,Mapping of Type of forbearance measure,E,DPM_TFM,,DPM_TFM,DPM_TFM
+,DPM_TIE,Mapping of Time elapsed since initial recognition,E,DPM_TIE,,DPM_TIE,DPM_TIE
+,DPM_TIS,Mapping of Transfer between impairment stages,E,DPM_TIS,,DPM_TIS,DPM_TIS
+,DPM_TMA,Mapping of Type of market,E,DPM_TMA,,DPM_TMA,DPM_TMA
+,DPM_TMA_AE_F32.04a,Mapping of Type of market for the template AEF32.04a,E,DPM_TMA_AE_F32.04a,,DPM_TMA_AE_F32.04a,DPM_TMA_AE_F32.04a
+,DPM_TMA_AE_F32.04b,Mapping of Type of market for the template AEF32.04b,E,DPM_TMA_AE_F32.04b,,DPM_TMA_AE_F32.04b,DPM_TMA_AE_F32.04b
+,DPM_TPD,Mapping of Time past due,E,DPM_TPD,,DPM_TPD,DPM_TPD
+,DPM_TRI,Mapping of Type of risk,E,DPM_TRI,,DPM_TRI,DPM_TRI
+,DPM_TRI_F_02.00,Mapping of Type of risk for the template F02.00,E,DPM_TRI_F_02.00,,DPM_TRI_F_02.00,DPM_TRI_F_02.00
+,DPM_TRI_F_04.03.1,Mapping of Type of risk for the template F04.03.1,E,DPM_TRI_F_04.03.1,,DPM_TRI_F_04.03.1,DPM_TRI_F_04.03.1
+,DPM_TRT,Mapping of Type of risk transfer,E,DPM_TRT,,DPM_TRT,DPM_TRT
+,DPM_TSA,Mapping of Type of staff  (RF),E,DPM_TSA,,DPM_TSA,DPM_TSA
+,DPM_TYA,Mapping of Type of activity,E,DPM_TYA,,DPM_TYA,DPM_TYA
+,DPM_TYA_F_24.01,Mapping of Type of activity for the template F24.01,E,DPM_TYA_F_24.01,,DPM_TYA_F_24.01,DPM_TYA_F_24.01
+,DPM_TYH,Mapping of Type of hedge,E,DPM_TYH,,DPM_TYH,DPM_TYH
+,DPM_TYH_F_20.01,Mapping of Type of hedge for the template F20.01,E,DPM_TYH_F_20.01,,DPM_TYH_F_20.01,DPM_TYH_F_20.01
+,DPM_TYR,Mapping of Type of activity of Related parties/Relationships,E,DPM_TYR,,DPM_TYR,DPM_TYR
+,DPM_ValueDecimal,DPM_ValueDecimal,A,DPM_ValueDecimal,,,DPM_ValueDecimal
+,DPM_ValueDecimalString,DPM_ValueDecimalString,A,DPM_ValueDecimalString,,,DPM_ValueDecimalString
+,DPM_ValueString,DPM_ValueString,A,DPM_ValueString,,,DPM_ValueString
+,DPM_bi327,DPM_bi327,A,DPM_bi327,,,DPM_bi327
+,DPM_di113,DPM_di113,A,DPM_di113,,,DPM_di113
+,DPM_ei138,Mapping of Group structure,E,DPM_ei138,,DPM_ei138,DPM_ei138
+,DPM_ei152,Mapping of Jurisdiction of incorporation,E,DPM_ei152,,DPM_ei152,DPM_ei152
+,DPM_ei207,Mapping of Reporting level,E,DPM_ei207,,DPM_ei207,DPM_ei207
+,DPM_ei218,Mapping of Sector,E,DPM_ei218,,DPM_ei218,DPM_ei218
+,DPM_ei219,Mapping of Sector of the counterparty,E,DPM_ei219,,DPM_ei219,DPM_ei219
+,DPM_ei328,Mapping of Primary asset class of cover pool,E,DPM_ei328,,DPM_ei328,DPM_ei328
+,DPM_ei364,Mapping of Accounting consolidation code (IFRS Group),E,DPM_ei364,,DPM_ei364,DPM_ei364
+,DPM_ei365,Mapping of Accounting consolidation code (CRR Group),E,DPM_ei365,,DPM_ei365,DPM_ei365
+,DPM_ei4,Mapping of Accounting standard,E,DPM_ei4,,DPM_ei4,DPM_ei4
+,DPM_ii676,DPM_ii676,A,DPM_ii676,,,DPM_ii676
+,DPM_ii694,DPM_ii694,A,DPM_ii694,,,DPM_ii694
+,DPM_ii699,DPM_ii699,A,DPM_ii699,,,DPM_ii699
+,DPM_md103,DPM_md103,A,DPM_md103,,,DPM_md103
+,DPM_md104,DPM_md104,A,DPM_md104,,,DPM_md104
+,DPM_md105,DPM_md105,A,DPM_md105,,,DPM_md105
+,DPM_md108,DPM_md108,A,DPM_md108,,,DPM_md108
+,DPM_md11,DPM_md11,A,DPM_md11,,,DPM_md11
+,DPM_md114,DPM_md114,A,DPM_md114,,,DPM_md114
+,DPM_md12,DPM_md12,A,DPM_md12,,,DPM_md12
+,DPM_md13,DPM_md13,A,DPM_md13,,,DPM_md13
+,DPM_md131,DPM_md131,A,DPM_md131,,,DPM_md131
+,DPM_md139,DPM_md139,A,DPM_md139,,,DPM_md139
+,DPM_md14,DPM_md14,A,DPM_md14,,,DPM_md14
+,DPM_md140,DPM_md140,A,DPM_md140,,,DPM_md140
+,DPM_md147,DPM_md147,A,DPM_md147,,,DPM_md147
+,DPM_md149,DPM_md149,A,DPM_md149,,,DPM_md149
+,DPM_md150,DPM_md150,A,DPM_md150,,,DPM_md150
+,DPM_md151,DPM_md151,A,DPM_md151,,,DPM_md151
+,DPM_md186,DPM_md186,A,DPM_md186,,,DPM_md186
+,DPM_md197,DPM_md197,A,DPM_md197,,,DPM_md197
+,DPM_md199,DPM_md199,A,DPM_md199,,,DPM_md199
+,DPM_md200,DPM_md200,A,DPM_md200,,,DPM_md200
+,DPM_md201,DPM_md201,A,DPM_md201,,,DPM_md201
+,DPM_md202,DPM_md202,A,DPM_md202,,,DPM_md202
+,DPM_md203,DPM_md203,A,DPM_md203,,,DPM_md203
+,DPM_md210,DPM_md210,A,DPM_md210,,,DPM_md210
+,DPM_md216,DPM_md216,A,DPM_md216,,,DPM_md216
+,DPM_md233,DPM_md233,A,DPM_md233,,,DPM_md233
+,DPM_md239,DPM_md239,A,DPM_md239,,,DPM_md239
+,DPM_md240,DPM_md240,A,DPM_md240,,,DPM_md240
+,DPM_md241,DPM_md241,A,DPM_md241,,,DPM_md241
+,DPM_md242,DPM_md242,A,DPM_md242,,,DPM_md242
+,DPM_md249,DPM_md249,A,DPM_md249,,,DPM_md249
+,DPM_md251,DPM_md251,A,DPM_md251,,,DPM_md251
+,DPM_md252,DPM_md252,A,DPM_md252,,,DPM_md252
+,DPM_md254,DPM_md254,A,DPM_md254,,,DPM_md254
+,DPM_md46,DPM_md46,A,DPM_md46,,,DPM_md46
+,DPM_md509,DPM_md509,A,DPM_md509,,,DPM_md509
+,DPM_md510,DPM_md510,A,DPM_md510,,,DPM_md510
+,DPM_md511,DPM_md511,A,DPM_md511,,,DPM_md511
+,DPM_md512,DPM_md512,A,DPM_md512,,,DPM_md512
+,DPM_md513,DPM_md513,A,DPM_md513,,,DPM_md513
+,DPM_md514,DPM_md514,A,DPM_md514,,,DPM_md514
+,DPM_md515,DPM_md515,A,DPM_md515,,,DPM_md515
+,DPM_md516,DPM_md516,A,DPM_md516,,,DPM_md516
+,DPM_md59,DPM_md59,A,DPM_md59,,,DPM_md59
+,DPM_md60,DPM_md60,A,DPM_md60,,,DPM_md60
+,DPM_md62,DPM_md62,A,DPM_md62,,,DPM_md62
+,DPM_md67,DPM_md67,A,DPM_md67,,,DPM_md67
+,DPM_md675,DPM_md675,A,DPM_md675,,,DPM_md675
+,DPM_md677,DPM_md677,A,DPM_md677,,,DPM_md677
+,DPM_md683,DPM_md683,A,DPM_md683,,,DPM_md683
+,DPM_md684,DPM_md684,A,DPM_md684,,,DPM_md684
+,DPM_md685,DPM_md685,A,DPM_md685,,,DPM_md685
+,DPM_md686,DPM_md686,A,DPM_md686,,,DPM_md686
+,DPM_md687,DPM_md687,A,DPM_md687,,,DPM_md687
+,DPM_md69,DPM_md69,A,DPM_md69,,,DPM_md69
+,DPM_md70,DPM_md70,A,DPM_md70,,,DPM_md70
+,DPM_md71,DPM_md71,A,DPM_md71,,,DPM_md71
+,DPM_md72,DPM_md72,A,DPM_md72,,,DPM_md72
+,DPM_md73,DPM_md73,A,DPM_md73,,,DPM_md73
+,DPM_md771,DPM_md771,A,DPM_md771,,,DPM_md771
+,DPM_md83,DPM_md83,A,DPM_md83,,,DPM_md83
+,DPM_md85,DPM_md85,A,DPM_md85,,,DPM_md85
+,DPM_mi109,DPM_mi109,A,DPM_mi109,,,DPM_mi109
+,DPM_mi110,DPM_mi110,A,DPM_mi110,,,DPM_mi110
+,DPM_mi129,DPM_mi129,A,DPM_mi129,,,DPM_mi129
+,DPM_mi134,DPM_mi134,A,DPM_mi134,,,DPM_mi134
+,DPM_mi135,DPM_mi135,A,DPM_mi135,,,DPM_mi135
+,DPM_mi136,DPM_mi136,A,DPM_mi136,,,DPM_mi136
+,DPM_mi164,DPM_mi164,A,DPM_mi164,,,DPM_mi164
+,DPM_mi170,DPM_mi170,A,DPM_mi170,,,DPM_mi170
+,DPM_mi172,DPM_mi172,A,DPM_mi172,,,DPM_mi172
+,DPM_mi191,DPM_mi191,A,DPM_mi191,,,DPM_mi191
+,DPM_mi195,DPM_mi195,A,DPM_mi195,,,DPM_mi195
+,DPM_mi279,DPM_mi279,A,DPM_mi279,,,DPM_mi279
+,DPM_mi287,DPM_mi287,A,DPM_mi287,,,DPM_mi287
+,DPM_mi290,DPM_mi290,A,DPM_mi290,,,DPM_mi290
+,DPM_mi291,DPM_mi291,A,DPM_mi291,,,DPM_mi291
+,DPM_mi292,DPM_mi292,A,DPM_mi292,,,DPM_mi292
+,DPM_mi295,DPM_mi295,A,DPM_mi295,,,DPM_mi295
+,DPM_mi296,DPM_mi296,A,DPM_mi296,,,DPM_mi296
+,DPM_mi297,DPM_mi297,A,DPM_mi297,,,DPM_mi297
+,DPM_mi339,DPM_mi339,A,DPM_mi339,,,DPM_mi339
+,DPM_mi340,DPM_mi340,A,DPM_mi340,,,DPM_mi340
+,DPM_mi35,DPM_mi35,A,DPM_mi35,,,DPM_mi35
+,DPM_mi37,DPM_mi37,A,DPM_mi37,,,DPM_mi37
+,DPM_mi43,DPM_mi43,A,DPM_mi43,,,DPM_mi43
+,DPM_mi45,DPM_mi45,A,DPM_mi45,,,DPM_mi45
+,DPM_mi500,DPM_mi500,A,DPM_mi500,,,DPM_mi500
+,DPM_mi501,DPM_mi501,A,DPM_mi501,,,DPM_mi501
+,DPM_mi502,DPM_mi502,A,DPM_mi502,,,DPM_mi502
+,DPM_mi503,DPM_mi503,A,DPM_mi503,,,DPM_mi503
+,DPM_mi504,DPM_mi504,A,DPM_mi504,,,DPM_mi504
+,DPM_mi505,DPM_mi505,A,DPM_mi505,,,DPM_mi505
+,DPM_mi506,DPM_mi506,A,DPM_mi506,,,DPM_mi506
+,DPM_mi507,DPM_mi507,A,DPM_mi507,,,DPM_mi507
+,DPM_mi508,DPM_mi508,A,DPM_mi508,,,DPM_mi508
+,DPM_mi53,DPM_mi53,A,DPM_mi53,,,DPM_mi53
+,DPM_mi65,DPM_mi65,A,DPM_mi65,,,DPM_mi65
+,DPM_mi66,DPM_mi66,A,DPM_mi66,,,DPM_mi66
+,DPM_mi678,DPM_mi678,A,DPM_mi678,,,DPM_mi678
+,DPM_mi679,DPM_mi679,A,DPM_mi679,,,DPM_mi679
+,DPM_mi682,DPM_mi682,A,DPM_mi682,,,DPM_mi682
+,DPM_mi688,DPM_mi688,A,DPM_mi688,,,DPM_mi688
+,DPM_mi689,DPM_mi689,A,DPM_mi689,,,DPM_mi689
+,DPM_mi690,DPM_mi690,A,DPM_mi690,,,DPM_mi690
+,DPM_mi691,DPM_mi691,A,DPM_mi691,,,DPM_mi691
+,DPM_mi692,DPM_mi692,A,DPM_mi692,,,DPM_mi692
+,DPM_mi693,DPM_mi693,A,DPM_mi693,,,DPM_mi693
+,DPM_mi696,DPM_mi696,A,DPM_mi696,,,DPM_mi696
+,DPM_mi697,DPM_mi697,A,DPM_mi697,,,DPM_mi697
+,DPM_mi7,DPM_mi7,A,DPM_mi7,,,DPM_mi7
+,DPM_mi770,DPM_mi770,A,DPM_mi770,,,DPM_mi770
+,DPM_mi772,DPM_mi772,A,DPM_mi772,,,DPM_mi772
+,DPM_mi9,DPM_mi9,A,DPM_mi9,,,DPM_mi9
+,DPM_pi221,DPM_pi221,A,DPM_pi221,,,DPM_pi221
+,DPM_pi223,DPM_pi223,A,DPM_pi223,,,DPM_pi223
+,DPM_ri695,DPM_ri695,A,DPM_ri695,,,DPM_ri695
+,DPM_ri769,DPM_ri769,A,DPM_ri769,,,DPM_ri769
+,DPM_si168,DPM_si168,A,DPM_si168,,,DPM_si168
+,DPM_si169,DPM_si169,A,DPM_si169,,,DPM_si169
+,DPM_si288,DPM_si288,A,DPM_si288,,,DPM_si288
+,DPM_si289,DPM_si289,A,DPM_si289,,,DPM_si289
+,DPM_si292,DPM_si292,A,DPM_si292,,,DPM_si292
+,DPM_si293,DPM_si293,A,DPM_si293,,,DPM_si293
+,DPM_si294,DPM_si294,A,DPM_si294,,,DPM_si294
+,DPM_si295,DPM_si295,A,DPM_si295,,,DPM_si295
+,DPM_si297,DPM_si297,A,DPM_si297,,,DPM_si297
+,DPM_si299,DPM_si299,A,DPM_si299,,,DPM_si299
+,DPM_si475,DPM_si475,A,DPM_si475,,,DPM_si475
+,DPM_si476,DPM_si476,A,DPM_si476,,,DPM_si476
+,DPM_si477,DPM_si477,A,DPM_si477,,,DPM_si477

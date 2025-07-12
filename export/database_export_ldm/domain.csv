@@ -1,0 +1,244 @@
+MAINTENANCE_AGENCY_ID,DOMAIN_ID,NAME,IS_ENUMERATED,DESCRIPTION,DATA_TYPE,CODE,FACET_ID,IS_REFERENCE
+ECB,ABSTRCT_INSTRMNT_RL_TYP,ABSTRCT_INSTRMNT_RL_TYP,,,,,,
+ECB,ACCNTNG_CLSSFCTN,ACCNTNG_CLSSFCTN,,,,,,
+ECB,ACCNTNG_CNSLDTN_LVL,ACCNTNG_CNSLDTN_LVL,,,,,,
+ECB,ACCNTNG_FRMWRK,ACCNTNG_FRMWRK,,,,,,
+ECB,ACCNTNG_HDG_INDCTR,ACCNTNG_HDG_INDCTR,,,,,,
+ECB,ACCRD_INTRST_MRKT_VL_INDCTR,ACCRD_INTRST_MRKT_VL_INDCTR,,,,,,
+ECB,APPRCH_CRDT_QLTY_STTS,APPRCH_CRDT_QLTY_STTS,,,,,,
+ECB,APPRCH_PRDNTL_PRPSS,APPRCH_PRDNTL_PRPSS,,,,,,
+ECB,ARRNGMNT_TYP,ARRNGMNT_TYP,,,,,,
+ECB,ASST_ENCMBRNC_SRC_INDCTR,ASST_ENCMBRNC_SRC_INDCTR,,,,,,
+ECB,ASST_PL_INSTRMNT_ASSGNMNT_TYP,ASST_PL_INSTRMNT_ASSGNMNT_TYP,,,,,,
+ECB,ASST_PL_TYP,ASST_PL_TYP,,,,,,
+ECB,AVLBL_ENCMBRNC,AVLBL_ENCMBRNC,,,,,,
+ECB,Boolean,Boolean,,Boolean,Boolean,,,
+ECB,CLLTRL_INSTRMNT_RS_INDCTR,CLLTRL_INSTRMNT_RS_INDCTR,,,,,,
+ECB,CLLTRL_NN_FNNCL_ASST_ASSGNMNT_TYP,CLLTRL_NN_FNNCL_ASST_ASSGNMNT_TYP,,,,,,
+ECB,CLLTRL_RL_TYP,CLLTRL_RL_TYP,,,,,,
+ECB,CLLTRL_RS_INDCTR,CLLTRL_RS_INDCTR,,,,,,
+ECB,CMMDTY_TYP_FRTB,CMMDTY_TYP_FRTB,,,,,,
+ECB,CMMRCL_RL_ESTT_LN_INDCTR,CMMRCL_RL_ESTT_LN_INDCTR,,,,,,
+ECB,CNSLDTN_MTHD,CNSLDTN_MTHD,,,,,,
+ECB,CRDT_FCLTY_ENTTY_RL_ASSGNMNT_TYP,CRDT_FCLTY_ENTTY_RL_ASSGNMNT_TYP,,,,,,
+ECB,CRDT_QLTY,CRDT_QLTY,,,,,,
+ECB,CRRNCY,CRRNCY,,,,,,
+ECB,CSR_CRV_TYP,CSR_CRV_TYP,,,,,,
+ECB,CST_BSD_MTHD_LCM_INDCTR,CST_BSD_MTHD_LCM_INDCTR,,,,,,
+ECB,DBT_FNNCNG_ANCRDT_INDCTR,DBT_FNNCNG_ANCRDT_INDCTR,,,,,,
+ECB,DMSTC_ACTVT_INDCTR,DMSTC_ACTVT_INDCTR,,,,,,
+ECB,Date,Date,,Date,Date,,,
+EBA,EBA_AP,Approach,True,Approach used for the calculation of capital requirements (or exposure value in LR),,AP,,True
+EBA,EBA_AS,Accounting standard,True,The accounting standard used to prepare figures or reports,,AS,,True
+EBA,EBA_ATY,Artificial domain for metrics,True,,,ATY,,True
+EBA,EBA_BA,Base items,True,"Defines the basic conceptual meaning of a data point. 
+Identifies the framework in which a data point is included. For FINREP, it indicates in which group of element of the financial statement should be included the data point (e.g. assets, liabilities, equity, income, expenses). For COREP, it indicates whether the data point should be computed in the numerator (own funds) or the denominator (exposures) of the Pillar I solvency ratio. 
+It may determine whether the data point has a ""debit"" or a ""credit"" attribute.",,BA,,True
+EBA,EBA_BT,Boolean total,True,Dimensions having only two values (usually denoted true and false),,BT,,True
+EBA,EBA_Boolean,Boolean,True,,,Boolean,,True
+EBA,EBA_CB,Covered bond,True,Name or unambiguous abbreviation of a covered bond issuing entity and the designation of a covered bond,,CB,,True
+EBA,EBA_CG,Collateral/Guarantees,True,Defines the terms and conditions of the collateral and guarantees,,CG,,True
+EBA,EBA_CONS_LEVEL,Consolidation level,True,,,CONS_LEVEL,,True
+EBA,EBA_CS,Contingent scenario,True,Defines the contingent scenarios whose impact is reported,,CS,,True
+EBA,EBA_CT,Counterparty,True,Party other than the reporting institution in a contract or transaction.,,CT,,True
+EBA,EBA_CU,Currency,True,Currency,,CU,,True
+EBA,EBA_DT,Date,True,Date,,DT,,True
+EBA,EBA_Date,Date,True,,,Date,,True
+EBA,EBA_Decimal,Decimal,True,,,Decimal,,True
+EBA,EBA_EC,Exposure classes,True,Defines the exposure class for capital requirement purposes,,EC,,True
+EBA,EBA_ER,External ratings,True,Concepts related with external credit ratings.,,ER,,True
+EBA,EBA_GA,Geographical area,True,Geographical area,,GA,,True
+EBA,EBA_IM,Impairment,True,"Concepts related with monitoring credit quality of financial assets and off-balance sheet items (e.g. past due, impaired, defaulted)",,IM,,True
+EBA,EBA_Integer,Integer,True,,,Integer,,True
+EBA,EBA_LE,Legal entity,True,"An association, corporation, partnership, proprietorship, trust, or individual that has legal standing in the eyes of law",,LE,,True
+EBA,EBA_LQ,Liquidity,True,Defines different liquidity-related conditions of assets and liabilities,,LQ,,True
+EBA,EBA_MA,Type of market,True,Defines the type of market on which reported instruments are traded. It includes the fair value hierarchy.,,MA,,True
+EBA,EBA_MC,Main category,True,"Specifies the nature of the item reported (i.e. answers the question: what is reported?). 
+For financial instruments, defines the instrument (e.g. deposits, debt securities issued...) or range of instruments reported. 
+It should be defined for each data point.",,MC,,True
+EBA,EBA_Monetary,Monetary,True,,,Monetary,,True
+EBA,EBA_NC,NACE code,True,NACE classification of economic activities,,NC,,True
+EBA,EBA_OF,Computability in own funds,True,Specifies the way in which the item computes in own funds,,OF,,True
+EBA,EBA_PL,Portfolio,True,Defined the portfolios reported. It comprises both accounting portfolios (e.g. Available-for-sale) and prudential portfolios (e.g. trading book).,,PL,,True
+EBA,EBA_PU,Purpose,True,Purpose of the contract or transaction.,,PU,,True
+EBA,EBA_Percent,Percent,True,,,Percent,,True
+EBA,EBA_RF,Reference period,True,Defines a relative time point (reference date or period) to which the data refers.,,RF,,True
+EBA,EBA_RP,Related parties/Relationships,True,"Defines the relationship between the reporting institution with an entity or a person; in particular, it specifies the type of related party.",,RP,,True
+EBA,EBA_RT,Risk transfer treatment,True,Type of risk transfer (synthetic or transitional securitisations) and accounting treatment of the transaction,,RT,,True
+EBA,EBA_SC,Scope of consolidation,True,Different scopes of consolidation of reporting when different from CRR scope,,SC,,True
+EBA,EBA_ST,Securitisation structure,True,Tranche of the exposure in the securitisation structure,,ST,,True
+EBA,EBA_STRNG,STRING,True,,,STRNG,,True
+EBA,EBA_SY,Security,True,"Financial instrument that represents: an ownership position in a publicly-traded corporation (stock), a creditor relationship with governmental body or a corporation (bond), or rights to ownership as represented by an option.",,SY,,True
+EBA,EBA_String,String,True,,,String,,True
+EBA,EBA_TA,Type of activity,True,Defines the type of activity reported (e.g. asset management or custody),,TA,,True
+EBA,EBA_TI,Time interval,True,Time bands (e.g. > 60 days <= 90 days).,,TI,,True
+EBA,EBA_TR,Type of risk,True,Indicates the type of risk arising from exposures or transactions (e.g. credit risk or market risk).,,TR,,True
+EBA,EBA_ZZ,Code Lists,True,Codes for use in various metrics,,ZZ,,True
+,ECAI_ECA,ECAI_ECA,,,,,,
+ECB2,ECB2_AsSeTy,Asset Securitisation Type,True,,,AsSeTy,,True
+ECB2,ECB2_CL_FREQ,Frequency code list,True,,,CL_FREQ,,True
+ECB2,ECB2_CL_SHS_ACCNTNG_CLSSFCTN,Accounting classification,True,,,CL_SHS_ACCNTNG_CLSSFCTN,,True
+ECB2,ECB2_CL_SHS_ACC_STANDARD,Accounting Standard,True,,,CL_SHS_ACC_STANDARD,,True
+ECB2,ECB2_CL_SHS_APPRCH_PRDNTL_PRPSS,Approach for prudential purposes,True,,,CL_SHS_APPRCH_PRDNTL_PRPSS,,True
+ECB2,ECB2_CL_SHS_AREA,Area code list,True,,,CL_SHS_AREA,,True
+ECB2,ECB2_CL_SHS_COLLATERAL_AREA,Collateral geographical location,True,,,CL_SHS_COLLATERAL_AREA,,True
+ECB2,ECB2_CL_SHS_CURRENCY,Currency code list,True,,,CL_SHS_CURRENCY,,True
+ECB2,ECB2_CL_SHS_DFLT_STTS,Default status,True,Default status in accordance with Article 178 of Regulation (EU) No 575/2013,,CL_SHS_DFLT_STTS,,True
+ECB2,ECB2_CL_SHS_ENTITY_STATUS,Entity status,True,,,CL_SHS_ENTITY_STATUS,,True
+ECB2,ECB2_CL_SHS_EXPSR_CLSS,Exposure class as defined in accordance with Regulation (EU) No 575/2013,True,,,CL_SHS_EXPSR_CLSS,,True
+ECB2,ECB2_CL_SHS_FRBRNC_STTS,Status of forbearance and renegotiation,True,,,CL_SHS_FRBRNC_STTS,,True
+ECB2,ECB2_CL_SHS_GROUP_TYPE,Group type code list,True,,,CL_SHS_GROUP_TYPE,,True
+ECB2,ECB2_CL_SHS_IDENTIFIER_TYPE,Identifier type code list,True,,,CL_SHS_IDENTIFIER_TYPE,,True
+ECB2,ECB2_CL_SHS_ID_TYPE,Group/Entity ID type,True,,,CL_SHS_ID_TYPE,,True
+ECB2,ECB2_CL_SHS_IMPRMNT_ASSSSMNT_MTHD,Impairment assessment method,True,The method by which it is assessed if the instrument is subject to impairment in accord-ance with applied accounting standards. Collective and individual methods are distin-guished.,,CL_SHS_IMPRMNT_ASSSSMNT_MTHD,,True
+ECB2,ECB2_CL_SHS_IMPRMNT_STTS,Imparement status,True,,,CL_SHS_IMPRMNT_STTS,,True
+ECB2,ECB2_CL_SHS_INPUT_TYPE,Input type,True,,,CL_SHS_INPUT_TYPE,,True
+ECB2,ECB2_CL_SHS_INSTR_ESA2010,CSDB instrument ESA 2010 class code list,True,,,CL_SHS_INSTR_ESA2010,,True
+ECB2,ECB2_CL_SHS_ISSUER_AREA,Area code list,True,,,CL_SHS_ISSUER_AREA,,True
+ECB2,ECB2_CL_SHS_ISSUER_ESA2010,CSDB issuer sector 2010 code list,True,,,CL_SHS_ISSUER_ESA2010,,True
+ECB2,ECB2_CL_SHS_ISSUER_RBG,Issuer is part of the reporting group code list,True,,,CL_SHS_ISSUER_RBG,,True
+ECB2,ECB2_CL_SHS_NACE,Issuer NACE sector code list,True,,,CL_SHS_NACE,,True
+ECB2,ECB2_CL_SHS_ORGANISATION,Number,True,,,CL_SHS_ORGANISATION,,True
+ECB2,ECB2_CL_SHS_PRDNTL_PRTFL,Prudential portfolio,True,,,CL_SHS_PRDNTL_PRTFL,,True
+ECB2,ECB2_CL_SHS_PRFRMNG_STTS,Performing status,True,,,CL_SHS_PRFRMNG_STTS,,True
+ECB2,ECB2_CL_SHS_REP_BASIS,Reporting basis code list,True,,,CL_SHS_REP_BASIS,,True
+ECB2,ECB2_CL_SHS_SECTOR,Institutional sector code list,True,,,CL_SHS_SECTOR,,True
+ECB2,ECB2_CL_SHS_SRC_ENCMBRNC,Source of Encumbrance,True,,,CL_SHS_SRC_ENCMBRNC,,True
+ECB2,ECB2_CL_SHS_UNIT,Unit of measure code list,True,,,CL_SHS_UNIT,,True
+ECB2,ECB2_CL_YES_NO,Yes/no code list,True,,,CL_YES_NO,,True
+ECB2,ECB2_DT,Date,True,,,DT,,True
+ECB2,ECB2_InSeTy,Instrument Seniority Type,True,,,InSeTy,,True
+ECB2,ECB2_MNTRY,Monetary,True,,,MNTRY,,True
+ECB2,ECB2_PrAsCl,Primary Asset Classification 2,True,,,PrAsCl,,True
+ECB2,ECB2_RL,Real,True,,,RL,,True
+ECB2,ECB2_STRNG,String,True,,,STRNG,,True
+ECB2,ECB2_SecSta,Security Status,True,,,SecSta,,True
+ECB,ECNMC_ACTVTY,ECNMC_ACTVTY,,,,,,
+ECB,ECNMY,ECNMY,,,,,,
+ECB,ELGBL_CNTRL_BNK_FNDNG,ELGBL_CNTRL_BNK_FNDNG,,,,,,
+ECB,ELGBL_GRNT_INDCTR,ELGBL_GRNT_INDCTR,,,,,,
+ECB,ENTRPRS_INDCTR,ENTRPRS_INDCTR,,,,,,
+ECB,ENTTY_RL_TYP,ENTTY_RL_TYP,,,,,,
+ECB,EQUTY_FCTR_TYP,EQUTY_FCTR_TYP,,,,,,
+ECB,ERLY_RDMPTN_INCLSN_INDCTR,ERLY_RDMPTN_INCLSN_INDCTR,,,,,,
+ECB,EXCHNG_TRDBL_DRVTV_PRTCN_ARRNGMNT_ASSGNMNT_TYP,EXCHNG_TRDBL_DRVTV_PRTCN_ARRNGMNT_ASSGNMNT_TYP,,,,,,
+ECB,EXCHNG_TRDBL_DRVTV_PSTN_RL_TYP,EXCHNG_TRDBL_DRVTV_PSTN_RL_TYP,,,,,,
+ECB,EXPSR_CLSS,EXPSR_CLSS,,,,,,
+ECB,FDCRY,FDCRY,,,,,,
+ECB,FLD_NN_PRFRMNG_EXT_CRTR_INDCTR,FLD_NN_PRFRMNG_EXT_CRTR_INDCTR,,,,,,
+ECB,FNNCL_CNTRCT_TYP,FNNCL_CNTRCT_TYP,,,,,,
+ECB,FRBRNC_MSR_GRNTD_DRNG_RFRNC_PRD,FRBRNC_MSR_GRNTD_DRNG_RFRNC_PRD,,,,,,
+ECB,FRBRNC_MSR_TYP,FRBRNC_MSR_TYP,,,,,,
+ECB,FRBRNC_STTS,FRBRNC_STTS,,,,,,
+ECB,FRQNCY,FRQNCY,,,,,,
+ECB,FRTB_RSK_MSR_TYP,FRTB_RSK_MSR_TYP,,,,,,
+ECB,FVO_DSGNTN,FVO_DSGNTN,,,,,,
+ECB,FV_HRRCHY,FV_HRRCHY,,,,,,
+ECB,Float,Float,,Float,Float,,,
+ECB,GGRPHCL_ARS,GGRPHCL_ARS,,,,,,
+ECB,GIRR_RSK_FCTR,GIRR_RSK_FCTR,,,,,,
+ECB,GRP_KY_MNGMNT_PRSNNL_ASSGNMNT_TYP,GRP_KY_MNGMNT_PRSNNL_ASSGNMNT_TYP,,,,,,
+ECB,GRP_RL_TYP,GRP_RL_TYP,,,,,,
+ECB,GRP_TYP,GRP_TYP,,,,,,
+ECB,HDGD_PRTFL_ASST_LBLTY_INDCTR,HDGD_PRTFL_ASST_LBLTY_INDCTR,,,,,,
+ECB,HLD_SL_INDCTR,HLD_SL_INDCTR,,,,,,
+ECB,HQLA_INDCTR,HQLA_INDCTR,,,,,,
+ECB,IMMDT_PRNT_ANCRDT_INDCTR,IMMDT_PRNT_ANCRDT_INDCTR,,,,,,
+ECB,IMPRMNT_ASSSSMNT_MTHD,IMPRMNT_ASSSSMNT_MTHD,,,,,,
+ECB,INSTRMNT_CLLTRL_ASSGNMNT_TYP,INSTRMNT_CLLTRL_ASSGNMNT_TYP,,,,,,
+ECB,INSTRMNT_CLLTRL_INSTRMNT_ASSGNMNT_TYP,INSTRMNT_CLLTRL_INSTRMNT_ASSGNMNT_TYP,,,,,,
+ECB,INSTRMNT_ENTTY_RL_ASSGNMNT_TYP,INSTRMNT_ENTTY_RL_ASSGNMNT_TYP,,,,,,
+ECB,INSTRMNT_PRTCTN_ARRNGMNT_ASSGNMNT_TYP,INSTRMNT_PRTCTN_ARRNGMNT_ASSGNMNT_TYP,,,,,,
+ECB,INSTTTNL_SCTR,INSTTTNL_SCTR,,,,,,
+ECB,INSTTTNL_SCTR_CNTRL,INSTTTNL_SCTR_CNTRL,,,,,,
+ECB,Integer,Integer,,Integer,Integer,,,
+ECB,LGL_FRM,LGL_FRM,,,,,,
+ECB,LGL_PRCDNG_STTS,LGL_PRCDNG_STTS,,,,,,
+ECB,LNG_SCRTY_PSTN_PRDNTL_PRTFL_ASSGNMNT_ACCNTNG_CLSSFCTN_FNNCL_ASSTS_ASSGNMNT_TYP,LNG_SCRTY_PSTN_PRDNTL_PRTFL_ASSGNMNT_ACCNTNG_CLSSFCTN_FNNCL_ASSTS_ASSGNMNT_TYP,,,,,,
+ECB,LNG_SCRTY_PSTN_PRDNTL_PRTFL_ASSGNMNT_TYP,LNG_SCRTY_PSTN_PRDNTL_PRTFL_ASSGNMNT_TYP,,,,,,
+ECB,LTGTN_STTS,LTGTN_STTS,,,,,,
+ECB,LW_CRDT_RSK_INDCTR,LW_CRDT_RSK_INDCTR,,,,,,
+ECB,MLTLTRL_DVLPMNT_BNK_INDCTR,MLTLTRL_DVLPMNT_BNK_INDCTR,,,,,,
+ECB,MLTPL_FRBRNC_MSR_INDCTR,MLTPL_FRBRNC_MSR_INDCTR,,,,,,
+ECB,MN_DBTR_INDCTR,MN_DBTR_INDCTR,,,,,,
+ECB,MRKT_CP,MRKT_CP,,,,,,
+ECB,MSRMNT_MTHD,MSRMNT_MTHD,,,,,,
+ECB,MSTR_AGRMNT_ENTTY_RL_ASSGNMNT_TYP,MSTR_AGRMNT_ENTTY_RL_ASSGNMNT_TYP,,,,,,
+ECB,MSTR_AGRMNT_TYP,MSTR_AGRMNT_TYP,,,,,,
+ECB,NGTBL_SCRTY,NGTBL_SCRTY,,,,,,
+ECB,NN_PRFRMNG_PRR_FRBRNC_INDCTR,NN_PRFRMNG_PRR_FRBRNC_INDCTR,,,,,,
+ECB,OTC_DRVTV_HDG_ACCNTNG_STNDRD_TYP,OTC_DRVTV_HDG_ACCNTNG_STNDRD_TYP,,,,,,
+ECB,OVRDRFT_INDCTR,OVRDRFT_INDCTR,,,,,,
+ECB,OWN_CMPNY_INVSTMNT_INDCTR,OWN_CMPNY_INVSTMNT_INDCTR,,,,,,
+ECB,PLLNG_EFFCT_INDCTR,PLLNG_EFFCT_INDCTR,,,,,,
+ECB,PLNNNG_PRMSSN_INDCTR,PLNNNG_PRMSSN_INDCTR,,,,,,
+ECB,PRDNTL_PRTFL,PRDNTL_PRTFL,,,,,,
+ECB,PRFRMNG_FRBRN_EXPSR_PRBTN_RCLD_NN_PRFRMNG_INDCTR,PRFRMNG_FRBRN_EXPSR_PRBTN_RCLD_NN_PRFRMNG_INDCTR,,,,,,
+ECB,PRFRMNG_STTS_RSN,PRFRMNG_STTS_RSN,,,,,,
+ECB,PRJCT_FNNC_LN,PRJCT_FNNC_LN,,,,,,
+ECB,PRMRY_ASST_CLSSFCTN,PRMRY_ASST_CLSSFCTN,,,,,,
+ECB,PRMRY_ASST_CLSS_CVR_PL,PRMRY_ASST_CLSS_CVR_PL,,,,,,
+ECB,PRMRY_PRTCTN_PRVDR_INDCTR,PRMRY_PRTCTN_PRVDR_INDCTR,,,,,,
+ECB,PRPS,PRPS,,,,,,
+ECB,PRTCTN_ARRNGMNT_RL_TYP,PRTCTN_ARRNGMNT_RL_TYP,,,,,,
+ECB,PRTCTN_ARRNGMNT_RS_INDCTR,PRTCTN_ARRNGMNT_RS_INDCTR,,,,,,
+ECB,PRTCTN_VLTN_APPRCH,PRTCTN_VLTN_APPRCH,,,,,,
+ECB,PRTY_CD_TYP,PRTY_CD_TYP,,,,,,
+ECB,PRTY_TYP,PRTY_TYP,,,,,,
+ECB,PRTY_TYP_ADDRSS,PRTY_TYP_ADDRSS,,,,,,
+ECB,RCGNTN_STTS,RCGNTN_STTS,,,,,,
+ECB,RCRS,RCRS,,,,,,
+ECB,RFRNC_RT,RFRNC_RT,,,,,,
+ECB,RPRCHS_AGRMNT_TYP,RPRCHS_AGRMNT_TYP,,,,,,
+ECB,RPYMNT_RGHTS,RPYMNT_RGHTS,,,,,,
+ECB,RSCRTSTN_INDCTR,RSCRTSTN_INDCTR,,,,,,
+ECB,RSK_CLSS,RSK_CLSS,,,,,,
+ECB,RTL_EXPSR_ACCRDNG_CRR_INDCTR,RTL_EXPSR_ACCRDNG_CRR_INDCTR,,,,,,
+ECB,RTND_DBT_SCRTY_INDCTR,RTND_DBT_SCRTY_INDCTR,,,,,,
+ECB,RTNG_GRD_CRDT_QLTY,RTNG_GRD_CRDT_QLTY,,,,,,
+ECB,RTNG_GRD_TYP,RTNG_GRD_TYP,,,,,,
+ECB,RTNG_SYSTM_TYP,RTNG_SYSTM_TYP,,,,,,
+ECB,RVCBL_INDCTR,RVCBL_INDCTR,,,,,,
+ECB,RVLVNG_LN_INDCTR,RVLVNG_LN_INDCTR,,,,,,
+ECB,SBJCT_OPRTNG_LS_INDCTR,SBJCT_OPRTNG_LS_INDCTR,,,,,,
+ECB,SBRDNTD_DBT,SBRDNTD_DBT,,,,,,
+ECB,SBSDRY_JNT_VNTR_ASSCT_OTHR_ORGNSTN_ASSGNMNT_TYP,SBSDRY_JNT_VNTR_ASSCT_OTHR_ORGNSTN_ASSGNMNT_TYP,,,,,,
+ECB,SCRTSN_OTHR_CRDT_TRNSFR_TYP,SCRTSN_OTHR_CRDT_TRNSFR_TYP,,,,,,
+ECB,SCRTSTN_TRNCH_TYP,SCRTSTN_TRNCH_TYP,,,,,,
+ECB,SCRTY_ENTTY_RL_ASSGNMNT_TYP,SCRTY_ENTTY_RL_ASSGNMNT_TYP,,,,,,
+ECB,SCRTY_EXCHNG_TRDBL_DRVTV_PSTN_TYP,SCRTY_EXCHNG_TRDBL_DRVTV_PSTN_TYP,,,,,,
+ECB,SCRTY_EXCHNG_TRDBL_DRVTV_TYP,SCRTY_EXCHNG_TRDBL_DRVTV_TYP,,,,,,
+ECB,SCRTY_GRNT_LVL,SCRTY_GRNT_LVL,,,,,,
+ECB,SCRTY_LVL,SCRTY_LVL,,,,,,
+ECB,SCRTY_PSTN_RL_TYP,SCRTY_PSTN_RL_TYP,,,,,,
+ECB,SCRTY_RNK_LVL,SCRTY_RNK_LVL,,,,,,
+ECB,SCRTY_SCRTY_RPRCHS_AGRMNT_CMPNNT_ASSGNMNT_TYP,SCRTY_SCRTY_RPRCHS_AGRMNT_CMPNNT_ASSGNMNT_TYP,,,,,,
+ECB,SCTRY_BRRWNG_LNDNG_TRNSCTN_INCLDNG_CSH_CLLTRL_TYP,SCTRY_BRRWNG_LNDNG_TRNSCTN_INCLDNG_CSH_CLLTRL_TYP,,,,,,
+ECB,SFTWR_ASST_INDCTR,SFTWR_ASST_INDCTR,,,,,,
+ECB,SGNFCNT_ASST_CLSS,SGNFCNT_ASST_CLSS,,,,,,
+ECB,SGNFCNT_RSK_TRNSFR_INDCTR,SGNFCNT_RSK_TRNSFR_INDCTR,,,,,,
+ECB,SHCK_DRCTN,SHCK_DRCTN,,,,,,
+ECB,SHRT_SCRTY_PSTN_PRDNTL_PRTFL_ASSGNMNT_TYP,SHRT_SCRTY_PSTN_PRDNTL_PRTFL_ASSGNMNT_TYP,,,,,,
+ECB,SHRT_TRM_CRDT_ASSMNT_INDCTR,SHRT_TRM_CRDT_ASSMNT_INDCTR,,,,,,
+ECB,SNDCTN_SB_PRTCPTN_MMBR_INSTRMNT_INDCTR,SNDCTN_SB_PRTCPTN_MMBR_INSTRMNT_INDCTR,,,,,,
+ECB,SRC_ENCMBRNC,SRC_ENCMBRNC,,,,,,
+ECB,STRCTRD_NT_INDCTR,STRCTRD_NT_INDCTR,,,,,,
+ECB,STS_SCRTSTN_INDCTR,STS_SCRTSTN_INDCTR,,,,,,
+ECB,STTS,STTS,,,,,,
+ECB,SZ,SZ,,,,,,
+ECB,String,String,,String,String,,,
+ECB,TM_INTRVL,TM_INTRVL,,,,,,
+ECB,TRNCH_SYNTHTC_SCRTSTN_WTHT_SSPE_TYP,TRNCH_SYNTHTC_SCRTSTN_WTHT_SSPE_TYP,,,,,,
+ECB,TRNSFRRD_ASST_LG_INSTRMNT_ASSGNMNT_TYP,TRNSFRRD_ASST_LG_INSTRMNT_ASSGNMNT_TYP,,,,,,
+ECB,TYP_ACCNTNG_ITM,TYP_ACCNTNG_ITM,,,,,,
+ECB,TYP_AMRTSTN,TYP_AMRTSTN,,,,,,
+ECB,TYP_ASST_SCRTSTN,TYP_ASST_SCRTSTN,,,,,,
+ECB,TYP_CMMTMNT,TYP_CMMTMNT,,,,,,
+ECB,TYP_HDG,TYP_HDG,,,,,,
+ECB,TYP_INSTRMNT,TYP_INSTRMNT,,,,,,
+ECB,TYP_INSTRMNT_ID,TYP_INSTRMNT_ID,,,,,,
+ECB,TYP_INTRST_RT,TYP_INTRST_RT,,,,,,
+ECB,TYP_PRDCT,TYP_PRDCT,,,,,,
+ECB,TYP_PRTCTN,TYP_PRTCTN,,,,,,
+ECB,TYP_RSK,TYP_RSK,,,,,,
+ECB,UNDR_CNSTRCTN_INDCTR,UNDR_CNSTRCTN_INDCTR,,,,,,
