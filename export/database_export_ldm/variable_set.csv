@@ -1,0 +1,721 @@
+MAINTENANCE_AGENCY_ID,VARIABLE_SET_ID,NAME,CODE,DESCRIPTION
+ECB,MTRCS_F_14.00_MTRCS_REF,Variable Set for MTRCS of the Cube F_14.00,MTRCS_F_14.00_MTRCS_REF,Variable Set for MTRCS of the Cube F_14.00
+ECB,MTRCS_F_23.06_MTRCS_REF,Variable Set for MTRCS of the Cube F_23.06,MTRCS_F_23.06_MTRCS_REF,Variable Set for MTRCS of the Cube F_23.06
+ECB,3120023406042092780_REF,EBA_ATY(EBA_md69) - Reference,3120023406042092780_REF,EBA_ATY(EBA_md69) - Reference
+ECB,17186128226079046680_REF,EBA_ATY(EBA_md216) - Reference,17186128226079046680_REF,EBA_ATY(EBA_md216) - Reference
+ECB,4155188227603224196_REF,EBA_ATY(EBA_md685) - Reference,4155188227603224196_REF,EBA_ATY(EBA_md685) - Reference
+ECB,MTRCS_F_45.03_MTRCS_REF,Variable Set for MTRCS of the Cube F_45.03,MTRCS_F_45.03_MTRCS_REF,Variable Set for MTRCS of the Cube F_45.03
+ECB,4238432481266399990_REF,EBA_ATY(EBA_si169) - Reference,4238432481266399990_REF,EBA_ATY(EBA_si169) - Reference
+ECB,16298269021191872769_REF,EBA_ATY(EBA_md252) - Reference,16298269021191872769_REF,EBA_ATY(EBA_md252) - Reference
+ECB,10447639641125854752_REF,EBA_ATY(EBA_md13) - Reference,10447639641125854752_REF,EBA_ATY(EBA_md13) - Reference
+ECB,1688043581793220531_REF,EBA_ATY(EBA_md60) - Reference,1688043581793220531_REF,EBA_ATY(EBA_md60) - Reference
+ECB,15832968684166532116_REF,EBA_ATY(EBA_mi110) - Reference,15832968684166532116_REF,EBA_ATY(EBA_mi110) - Reference
+ECB,MTRCS_F_23.05_MTRCS_REF,Variable Set for MTRCS of the Cube F_23.05,MTRCS_F_23.05_MTRCS_REF,Variable Set for MTRCS of the Cube F_23.05
+ECB,MTRCS_F_19.00.e_MTRCS_REF,Variable Set for MTRCS of the Cube F_19.00.e,MTRCS_F_19.00.e_MTRCS_REF,Variable Set for MTRCS of the Cube F_19.00.e
+ECB,15781102108515958179_REF,EBA_ATY(EBA_md197) - Reference,15781102108515958179_REF,EBA_ATY(EBA_md197) - Reference
+ECB,MTRCS_F_20.03_MTRCS_REF,Variable Set for MTRCS of the Cube F_20.03,MTRCS_F_20.03_MTRCS_REF,Variable Set for MTRCS of the Cube F_20.03
+ECB,MTRCS_F_11.03.1_MTRCS_REF,Variable Set for MTRCS of the Cube F_11.03.1,MTRCS_F_11.03.1_MTRCS_REF,Variable Set for MTRCS of the Cube F_11.03.1
+ECB,MTRCS_F_13.03.1.b_MTRCS_REF,Variable Set for MTRCS of the Cube F_13.03.1.b,MTRCS_F_13.03.1.b_MTRCS_REF,Variable Set for MTRCS of the Cube F_13.03.1.b
+ECB,15873869302575820389_REF,EBA_ATY(EBA_md104) - Reference,15873869302575820389_REF,EBA_ATY(EBA_md104) - Reference
+ECB,MTRCS_F_25.02.b_MTRCS_REF,Variable Set for MTRCS of the Cube F_25.02.b,MTRCS_F_25.02.b_MTRCS_REF,Variable Set for MTRCS of the Cube F_25.02.b
+ECB,MTRCS_F_04.10_MTRCS_REF,Variable Set for MTRCS of the Cube F_04.10,MTRCS_F_04.10_MTRCS_REF,Variable Set for MTRCS of the Cube F_04.10
+ECB,14201322484001342695_REF,EBA_ATY(EBA_mi7) - Reference,14201322484001342695_REF,EBA_ATY(EBA_mi7) - Reference
+ECB,16769790065540687312_REF,EBA_ATY(EBA_md114) - Reference,16769790065540687312_REF,EBA_ATY(EBA_md114) - Reference
+ECB,MTRCS_F_16.03_MTRCS_REF,Variable Set for MTRCS of the Cube F_16.03,MTRCS_F_16.03_MTRCS_REF,Variable Set for MTRCS of the Cube F_16.03
+ECB,MTRCS_F_08.01.a_MTRCS_REF,Variable Set for MTRCS of the Cube F_08.01.a,MTRCS_F_08.01.a_MTRCS_REF,Variable Set for MTRCS of the Cube F_08.01.a
+ECB,MTRCS_F_25.01.c_MTRCS_REF,Variable Set for MTRCS of the Cube F_25.01.c,MTRCS_F_25.01.c_MTRCS_REF,Variable Set for MTRCS of the Cube F_25.01.c
+ECB,5683672298719308419_REF,EBA_ATY(EBA_mi191) - Reference,5683672298719308419_REF,EBA_ATY(EBA_mi191) - Reference
+ECB,17911574528201435670_REF,EBA_ATY(EBA_md515) - Reference,17911574528201435670_REF,EBA_ATY(EBA_md515) - Reference
+ECB,13098072663541273355_REF,EBA_ATY(EBA_md199) - Reference,13098072663541273355_REF,EBA_ATY(EBA_md199) - Reference
+ECB,14747351583251506353_REF,EBA_ATY(EBA_mi340) - Reference,14747351583251506353_REF,EBA_ATY(EBA_mi340) - Reference
+ECB,3643522002986617066_REF,EBA_ATY(EBA_md14) - Reference,3643522002986617066_REF,EBA_ATY(EBA_md14) - Reference
+ECB,14959619857164496646_REF,EBA_ATY(EBA_si476) - Reference,14959619857164496646_REF,EBA_ATY(EBA_si476) - Reference
+ECB,MTRCS_F_04.05_MTRCS_REF,Variable Set for MTRCS of the Cube F_04.05,MTRCS_F_04.05_MTRCS_REF,Variable Set for MTRCS of the Cube F_04.05
+ECB,MTRCS_F_17.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_17.02,MTRCS_F_17.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_17.02
+ECB,14260327667032302333_REF,EBA_ATY(EBA_mi135) - Reference,14260327667032302333_REF,EBA_ATY(EBA_mi135) - Reference
+ECB,MTRCS_F_24.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_24.02,MTRCS_F_24.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_24.02
+ECB,MTRCS_F_18.00.d_MTRCS_REF,Variable Set for MTRCS of the Cube F_18.00.d,MTRCS_F_18.00.d_MTRCS_REF,Variable Set for MTRCS of the Cube F_18.00.d
+ECB,MTRCS_F_04.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_04.01,MTRCS_F_04.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_04.01
+ECB,11155752204717548458_REF,EBA_ATY(EBA_mi678) - Reference,11155752204717548458_REF,EBA_ATY(EBA_mi678) - Reference
+ECB,MTRCS_F_19.00.c_MTRCS_REF,Variable Set for MTRCS of the Cube F_19.00.c,MTRCS_F_19.00.c_MTRCS_REF,Variable Set for MTRCS of the Cube F_19.00.c
+ECB,15281074544004834307_REF,EBA_ATY(EBA_mi688) - Reference,15281074544004834307_REF,EBA_ATY(EBA_mi688) - Reference
+ECB,MTRCS_F_01.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_01.01,MTRCS_F_01.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_01.01
+ECB,MTRCS_F_17.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_17.01,MTRCS_F_17.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_17.01
+ECB,15763738987323879028_REF,EBA_ATY(EBA_mi45) - Reference,15763738987323879028_REF,EBA_ATY(EBA_mi45) - Reference
+ECB,10755392938081896465_REF,EBA_ATY(EBA_md12) - Reference,10755392938081896465_REF,EBA_ATY(EBA_md12) - Reference
+ECB,9509836001316662777_REF,EBA_ATY(EBA_di113) - Reference,9509836001316662777_REF,EBA_ATY(EBA_di113) - Reference
+ECB,MTRCS_F_45.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_45.01,MTRCS_F_45.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_45.01
+ECB,1017416816873666741_REF,EBA_ATY(EBA_mi770) - Reference,1017416816873666741_REF,EBA_ATY(EBA_mi770) - Reference
+ECB,6750364677940919480_REF,EBA_ATY(EBA_md200) - Reference,6750364677940919480_REF,EBA_ATY(EBA_md200) - Reference
+ECB,MTRCS_F_10.00_MTRCS_REF,Variable Set for MTRCS of the Cube F_10.00,MTRCS_F_10.00_MTRCS_REF,Variable Set for MTRCS of the Cube F_10.00
+ECB,MTRCS_F_11.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_11.02,MTRCS_F_11.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_11.02
+ECB,2508521452773937215_REF,EBA_ATY(EBA_mi35) - Reference,2508521452773937215_REF,EBA_ATY(EBA_mi35) - Reference
+ECB,16261088245049810175_REF,EBA_ATY(EBA_md686) - Reference,16261088245049810175_REF,EBA_ATY(EBA_md686) - Reference
+ECB,MTRCS_F_11.04_MTRCS_REF,Variable Set for MTRCS of the Cube F_11.04,MTRCS_F_11.04_MTRCS_REF,Variable Set for MTRCS of the Cube F_11.04
+ECB,MTRCS_F_07.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_07.02,MTRCS_F_07.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_07.02
+ECB,17626844296030320267_REF,EBA_ATY(EBA_ri769) - Reference,17626844296030320267_REF,EBA_ATY(EBA_ri769) - Reference
+ECB,MTRCS_F_23.04_MTRCS_REF,Variable Set for MTRCS of the Cube F_23.04,MTRCS_F_23.04_MTRCS_REF,Variable Set for MTRCS of the Cube F_23.04
+ECB,MTRCS_F_04.02.2_MTRCS_REF,Variable Set for MTRCS of the Cube F_04.02.2,MTRCS_F_04.02.2_MTRCS_REF,Variable Set for MTRCS of the Cube F_04.02.2
+ECB,725273257492148005_REF,EBA_ATY(EBA_mi172) - Reference,725273257492148005_REF,EBA_ATY(EBA_mi172) - Reference
+ECB,MTRCS_F_00.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_00.01,MTRCS_F_00.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_00.01
+ECB,MTRCS_F_16.04.1_MTRCS_REF,Variable Set for MTRCS of the Cube F_16.04.1,MTRCS_F_16.04.1_MTRCS_REF,Variable Set for MTRCS of the Cube F_16.04.1
+ECB,6056665978884242883_REF,EBA_ATY(EBA_ei138) - Reference,6056665978884242883_REF,EBA_ATY(EBA_ei138) - Reference
+ECB,16556802154542118490_REF,EBA_ATY(EBA_mi9) - Reference,16556802154542118490_REF,EBA_ATY(EBA_mi9) - Reference
+ECB,MTRCS_F_40.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_40.02,MTRCS_F_40.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_40.02
+ECB,MTRCS_F_13.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_13.01,MTRCS_F_13.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_13.01
+ECB,13342484621215892839_REF,EBA_ATY(EBA_md201) - Reference,13342484621215892839_REF,EBA_ATY(EBA_md201) - Reference
+ECB,8151035684663916366_REF,EBA_ATY(EBA_md105) - Reference,8151035684663916366_REF,EBA_ATY(EBA_md105) - Reference
+ECB,988632928423637155_REF,EBA_ATY(EBA_ei365) - Reference,988632928423637155_REF,EBA_ATY(EBA_ei365) - Reference
+ECB,5124173598708528704_REF,EBA_ATY(EBA_md514) - Reference,5124173598708528704_REF,EBA_ATY(EBA_md514) - Reference
+ECB,MTRCS_F_03.00_MTRCS_REF,Variable Set for MTRCS of the Cube F_03.00,MTRCS_F_03.00_MTRCS_REF,Variable Set for MTRCS of the Cube F_03.00
+ECB,15582466232844993095_REF,EBA_ATY(EBA_mi129) - Reference,15582466232844993095_REF,EBA_ATY(EBA_mi129) - Reference
+ECB,MTRCS_F_19.00.b_MTRCS_REF,Variable Set for MTRCS of the Cube F_19.00.b,MTRCS_F_19.00.b_MTRCS_REF,Variable Set for MTRCS of the Cube F_19.00.b
+ECB,MTRCS_F_09.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_09.02,MTRCS_F_09.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_09.02
+ECB,8000921335479731010_REF,EBA_ATY(EBA_md516) - Reference,8000921335479731010_REF,EBA_ATY(EBA_md516) - Reference
+ECB,MTRCS_F_16.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_16.02,MTRCS_F_16.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_16.02
+ECB,6691857468719214238_REF,EBA_ATY(EBA_mi697) - Reference,6691857468719214238_REF,EBA_ATY(EBA_mi697) - Reference
+ECB,MTRCS_F_09.01.1_MTRCS_REF,Variable Set for MTRCS of the Cube F_09.01.1,MTRCS_F_09.01.1_MTRCS_REF,Variable Set for MTRCS of the Cube F_09.01.1
+ECB,4036245234541037893_REF,EBA_ATY(EBA_md511) - Reference,4036245234541037893_REF,EBA_ATY(EBA_md511) - Reference
+ECB,MTRCS_F_12.01.b_MTRCS_REF,Variable Set for MTRCS of the Cube F_12.01.b,MTRCS_F_12.01.b_MTRCS_REF,Variable Set for MTRCS of the Cube F_12.01.b
+ECB,2990176717101267012_REF,EBA_ATY(EBA_md512) - Reference,2990176717101267012_REF,EBA_ATY(EBA_md512) - Reference
+ECB,11294697816498749024_REF,EBA_ATY(EBA_ei218) - Reference,11294697816498749024_REF,EBA_ATY(EBA_ei218) - Reference
+ECB,16884332320913229156_REF,EBA_ATY(EBA_md73) - Reference,16884332320913229156_REF,EBA_ATY(EBA_md73) - Reference
+ECB,MTRCS_F_41.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_41.01,MTRCS_F_41.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_41.01
+ECB,MTRCS_F_08.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_08.02,MTRCS_F_08.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_08.02
+ECB,MTRCS_F_20.06_MTRCS_REF,Variable Set for MTRCS of the Cube F_20.06,MTRCS_F_20.06_MTRCS_REF,Variable Set for MTRCS of the Cube F_20.06
+ECB,MTRCS_F_11.03_MTRCS_REF,Variable Set for MTRCS of the Cube F_11.03,MTRCS_F_11.03_MTRCS_REF,Variable Set for MTRCS of the Cube F_11.03
+ECB,MTRCS_F_40.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_40.01,MTRCS_F_40.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_40.01
+ECB,MTRCS_F_07.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_07.01,MTRCS_F_07.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_07.01
+ECB,MTRCS_F_22.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_22.02,MTRCS_F_22.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_22.02
+ECB,3513660512628058048_REF,EBA_ATY(EBA_mi507) - Reference,3513660512628058048_REF,EBA_ATY(EBA_mi507) - Reference
+ECB,9346864144406551648_REF,EBA_ATY(EBA_mi195) - Reference,9346864144406551648_REF,EBA_ATY(EBA_mi195) - Reference
+ECB,MTRCS_F_04.04.1_MTRCS_REF,Variable Set for MTRCS of the Cube F_04.04.1,MTRCS_F_04.04.1_MTRCS_REF,Variable Set for MTRCS of the Cube F_04.04.1
+ECB,MTRCS_F_31.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_31.02,MTRCS_F_31.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_31.02
+ECB,14843193351371296448_REF,EBA_ATY(EBA_mi134) - Reference,14843193351371296448_REF,EBA_ATY(EBA_mi134) - Reference
+ECB,MTRCS_F_25.02.c_MTRCS_REF,Variable Set for MTRCS of the Cube F_25.02.c,MTRCS_F_25.02.c_MTRCS_REF,Variable Set for MTRCS of the Cube F_25.02.c
+ECB,15280305744003944858_REF,EBA_ATY(EBA_md149) - Reference,15280305744003944858_REF,EBA_ATY(EBA_md149) - Reference
+ECB,10310548703140933600_REF,EBA_ATY(EBA_mi696) - Reference,10310548703140933600_REF,EBA_ATY(EBA_mi696) - Reference
+ECB,MTRCS_F_02.00_MTRCS_REF,Variable Set for MTRCS of the Cube F_02.00,MTRCS_F_02.00_MTRCS_REF,Variable Set for MTRCS of the Cube F_02.00
+ECB,MTRCS_F_45.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_45.02,MTRCS_F_45.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_45.02
+ECB,MTRCS_F_25.03.b_MTRCS_REF,Variable Set for MTRCS of the Cube F_25.03.b,MTRCS_F_25.03.b_MTRCS_REF,Variable Set for MTRCS of the Cube F_25.03.b
+ECB,4433237475396205970_REF,EBA_ATY(EBA_md683) - Reference,4433237475396205970_REF,EBA_ATY(EBA_md683) - Reference
+ECB,11048243512134927963_REF,EBA_ATY(EBA_md70) - Reference,11048243512134927963_REF,EBA_ATY(EBA_md70) - Reference
+ECB,MTRCS_F_46.00_MTRCS_REF,Variable Set for MTRCS of the Cube F_46.00,MTRCS_F_46.00_MTRCS_REF,Variable Set for MTRCS of the Cube F_46.00
+ECB,MTRCS_F_05.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_05.01,MTRCS_F_05.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_05.01
+ECB,10021977646305939201_REF,EBA_ATY(EBA_mi692) - Reference,10021977646305939201_REF,EBA_ATY(EBA_mi692) - Reference
+ECB,MTRCS_F_25.02.a_MTRCS_REF,Variable Set for MTRCS of the Cube F_25.02.a,MTRCS_F_25.02.a_MTRCS_REF,Variable Set for MTRCS of the Cube F_25.02.a
+ECB,MTRCS_F_13.03.1.a_MTRCS_REF,Variable Set for MTRCS of the Cube F_13.03.1.a,MTRCS_F_13.03.1.a_MTRCS_REF,Variable Set for MTRCS of the Cube F_13.03.1.a
+ECB,MTRCS_F_08.01.b_MTRCS_REF,Variable Set for MTRCS of the Cube F_08.01.b,MTRCS_F_08.01.b_MTRCS_REF,Variable Set for MTRCS of the Cube F_08.01.b
+ECB,3022830411552321978_REF,EBA_ATY(EBA_mi693) - Reference,3022830411552321978_REF,EBA_ATY(EBA_mi693) - Reference
+ECB,14683086469168280223_REF,EBA_ATY(EBA_si477) - Reference,14683086469168280223_REF,EBA_ATY(EBA_si477) - Reference
+ECB,MTRCS_F_18.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_18.01,MTRCS_F_18.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_18.01
+ECB,2586680230449591099_REF,EBA_ATY(EBA_mi109) - Reference,2586680230449591099_REF,EBA_ATY(EBA_mi109) - Reference
+ECB,1874545491917404562_REF,EBA_ATY(EBA_mi506) - Reference,1874545491917404562_REF,EBA_ATY(EBA_mi506) - Reference
+ECB,MTRCS_F_23.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_23.02,MTRCS_F_23.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_23.02
+ECB,4934147852933068593_REF,EBA_ATY(EBA_md140) - Reference,4934147852933068593_REF,EBA_ATY(EBA_md140) - Reference
+ECB,MTRCS_F_09.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_09.01,MTRCS_F_09.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_09.01
+ECB,3306936036550784077_REF,EBA_ATY(EBA_md108) - Reference,3306936036550784077_REF,EBA_ATY(EBA_md108) - Reference
+ECB,MTRCS_F_25.03.a_MTRCS_REF,Variable Set for MTRCS of the Cube F_25.03.a,MTRCS_F_25.03.a_MTRCS_REF,Variable Set for MTRCS of the Cube F_25.03.a
+ECB,8732297734646917219_REF,EBA_ATY(EBA_md59) - Reference,8732297734646917219_REF,EBA_ATY(EBA_md59) - Reference
+ECB,MTRCS_F_44.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_44.02,MTRCS_F_44.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_44.02
+ECB,1777643580690892578_REF,EBA_ATY(EBA_md254) - Reference,1777643580690892578_REF,EBA_ATY(EBA_md254) - Reference
+ECB,14010685629810865207_REF,EBA_ATY(EBA_md203) - Reference,14010685629810865207_REF,EBA_ATY(EBA_md203) - Reference
+ECB,MTRCS_F_16.06_MTRCS_REF,Variable Set for MTRCS of the Cube F_16.06,MTRCS_F_16.06_MTRCS_REF,Variable Set for MTRCS of the Cube F_16.06
+ECB,3580546362157940484_REF,EBA_ATY(EBA_md675) - Reference,3580546362157940484_REF,EBA_ATY(EBA_md675) - Reference
+ECB,MTRCS_F_04.07_MTRCS_REF,Variable Set for MTRCS of the Cube F_04.07,MTRCS_F_04.07_MTRCS_REF,Variable Set for MTRCS of the Cube F_04.07
+ECB,MTRCS_F_04.03.1_MTRCS_REF,Variable Set for MTRCS of the Cube F_04.03.1,MTRCS_F_04.03.1_MTRCS_REF,Variable Set for MTRCS of the Cube F_04.03.1
+ECB,14543394195450354929_REF,EBA_ATY(EBA_md510) - Reference,14543394195450354929_REF,EBA_ATY(EBA_md510) - Reference
+ECB,7063043392329280990_REF,EBA_ATY(EBA_mi503) - Reference,7063043392329280990_REF,EBA_ATY(EBA_mi503) - Reference
+ECB,MTRCS_F_26.00.b_MTRCS_REF,Variable Set for MTRCS of the Cube F_26.00.b,MTRCS_F_26.00.b_MTRCS_REF,Variable Set for MTRCS of the Cube F_26.00.b
+ECB,MTRCS_F_23.03_MTRCS_REF,Variable Set for MTRCS of the Cube F_23.03,MTRCS_F_23.03_MTRCS_REF,Variable Set for MTRCS of the Cube F_23.03
+ECB,17738000420872972734_REF,EBA_ATY(EBA_ii676) - Reference,17738000420872972734_REF,EBA_ATY(EBA_ii676) - Reference
+ECB,MTRCS_F_41.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_41.02,MTRCS_F_41.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_41.02
+ECB,9338417940411742131_REF,EBA_ATY(EBA_md150) - Reference,9338417940411742131_REF,EBA_ATY(EBA_md150) - Reference
+ECB,5018436799317893249_REF,EBA_ATY(EBA_si475) - Reference,5018436799317893249_REF,EBA_ATY(EBA_si475) - Reference
+ECB,MTRCS_F_18.00.b_MTRCS_REF,Variable Set for MTRCS of the Cube F_18.00.b,MTRCS_F_18.00.b_MTRCS_REF,Variable Set for MTRCS of the Cube F_18.00.b
+ECB,9488831869283455922_REF,EBA_ATY(EBA_md147) - Reference,9488831869283455922_REF,EBA_ATY(EBA_md147) - Reference
+ECB,MTRCS_F_19.00.d_MTRCS_REF,Variable Set for MTRCS of the Cube F_19.00.d,MTRCS_F_19.00.d_MTRCS_REF,Variable Set for MTRCS of the Cube F_19.00.d
+ECB,MTRCS_F_18.00.c_MTRCS_REF,Variable Set for MTRCS of the Cube F_18.00.c,MTRCS_F_18.00.c_MTRCS_REF,Variable Set for MTRCS of the Cube F_18.00.c
+ECB,MTRCS_F_25.01.b_MTRCS_REF,Variable Set for MTRCS of the Cube F_25.01.b,MTRCS_F_25.01.b_MTRCS_REF,Variable Set for MTRCS of the Cube F_25.01.b
+ECB,4034868948470850090_REF,EBA_ATY(EBA_mi679) - Reference,4034868948470850090_REF,EBA_ATY(EBA_mi679) - Reference
+ECB,8386035556766474584_REF,EBA_ATY(EBA_mi501) - Reference,8386035556766474584_REF,EBA_ATY(EBA_mi501) - Reference
+ECB,14530696220134357986_REF,EBA_ATY(EBA_mi65) - Reference,14530696220134357986_REF,EBA_ATY(EBA_mi65) - Reference
+ECB,MTRCS_F_04.09_MTRCS_REF,Variable Set for MTRCS of the Cube F_04.09,MTRCS_F_04.09_MTRCS_REF,Variable Set for MTRCS of the Cube F_04.09
+ECB,MTRCS_F_13.03_MTRCS_REF,Variable Set for MTRCS of the Cube F_13.03,MTRCS_F_13.03_MTRCS_REF,Variable Set for MTRCS of the Cube F_13.03
+ECB,2296479326008667036_REF,EBA_ATY(EBA_mi164) - Reference,2296479326008667036_REF,EBA_ATY(EBA_mi164) - Reference
+ECB,17077482325396553192_REF,EBA_ATY(EBA_mi43) - Reference,17077482325396553192_REF,EBA_ATY(EBA_mi43) - Reference
+ECB,17220670634258440943_REF,EBA_ATY(EBA_md62) - Reference,17220670634258440943_REF,EBA_ATY(EBA_md62) - Reference
+ECB,15213274140460021143_REF,EBA_ATY(EBA_md72) - Reference,15213274140460021143_REF,EBA_ATY(EBA_md72) - Reference
+ECB,MTRCS_F_15.00.a_MTRCS_REF,Variable Set for MTRCS of the Cube F_15.00.a,MTRCS_F_15.00.a_MTRCS_REF,Variable Set for MTRCS of the Cube F_15.00.a
+ECB,MTRCS_F_47.00_MTRCS_REF,Variable Set for MTRCS of the Cube F_47.00,MTRCS_F_47.00_MTRCS_REF,Variable Set for MTRCS of the Cube F_47.00
+ECB,MTRCS_F_04.06_MTRCS_REF,Variable Set for MTRCS of the Cube F_04.06,MTRCS_F_04.06_MTRCS_REF,Variable Set for MTRCS of the Cube F_04.06
+ECB,16615736267809646416_REF,EBA_ATY(EBA_md239) - Reference,16615736267809646416_REF,EBA_ATY(EBA_md239) - Reference
+ECB,MTRCS_F_20.05.a_MTRCS_REF,Variable Set for MTRCS of the Cube F_20.05.a,MTRCS_F_20.05.a_MTRCS_REF,Variable Set for MTRCS of the Cube F_20.05.a
+ECB,10625761857040475626_REF,EBA_ATY(EBA_md67) - Reference,10625761857040475626_REF,EBA_ATY(EBA_md67) - Reference
+ECB,MTRCS_F_25.01.a_MTRCS_REF,Variable Set for MTRCS of the Cube F_25.01.a,MTRCS_F_25.01.a_MTRCS_REF,Variable Set for MTRCS of the Cube F_25.01.a
+ECB,14242093643207006424_REF,EBA_ATY(EBA_md83) - Reference,14242093643207006424_REF,EBA_ATY(EBA_md83) - Reference
+ECB,909255488769815556_REF,EBA_ATY(EBA_mi504) - Reference,909255488769815556_REF,EBA_ATY(EBA_mi504) - Reference
+ECB,4117253993722026055_REF,EBA_ATY(EBA_ii694) - Reference,4117253993722026055_REF,EBA_ATY(EBA_ii694) - Reference
+ECB,MTRCS_F_12.00_MTRCS_REF,Variable Set for MTRCS of the Cube F_12.00,MTRCS_F_12.00_MTRCS_REF,Variable Set for MTRCS of the Cube F_12.00
+ECB,MTRCS_F_20.05.b_MTRCS_REF,Variable Set for MTRCS of the Cube F_20.05.b,MTRCS_F_20.05.b_MTRCS_REF,Variable Set for MTRCS of the Cube F_20.05.b
+ECB,MTRCS_F_18.02.c_MTRCS_REF,Variable Set for MTRCS of the Cube F_18.02.c,MTRCS_F_18.02.c_MTRCS_REF,Variable Set for MTRCS of the Cube F_18.02.c
+ECB,MTRCS_F_13.02.1.b_MTRCS_REF,Variable Set for MTRCS of the Cube F_13.02.1.b,MTRCS_F_13.02.1.b_MTRCS_REF,Variable Set for MTRCS of the Cube F_13.02.1.b
+ECB,MTRCS_F_31.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_31.01,MTRCS_F_31.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_31.01
+ECB,9767750558645521852_REF,EBA_ATY(EBA_mi691) - Reference,9767750558645521852_REF,EBA_ATY(EBA_mi691) - Reference
+ECB,9677777298412393391_REF,EBA_ATY(EBA_md509) - Reference,9677777298412393391_REF,EBA_ATY(EBA_md509) - Reference
+ECB,MTRCS_F_30.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_30.01,MTRCS_F_30.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_30.01
+ECB,18078116867075660175_REF,EBA_ATY(EBA_md202) - Reference,18078116867075660175_REF,EBA_ATY(EBA_md202) - Reference
+ECB,MTRCS_F_16.07.b_MTRCS_REF,Variable Set for MTRCS of the Cube F_16.07.b,MTRCS_F_16.07.b_MTRCS_REF,Variable Set for MTRCS of the Cube F_16.07.b
+ECB,MTRCS_F_24.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_24.01,MTRCS_F_24.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_24.01
+ECB,8531648081192822646_REF,EBA_ATY(EBA_md186) - Reference,8531648081192822646_REF,EBA_ATY(EBA_md186) - Reference
+ECB,MTRCS_F_16.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_16.01,MTRCS_F_16.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_16.01
+ECB,MTRCS_F_24.03_MTRCS_REF,Variable Set for MTRCS of the Cube F_24.03,MTRCS_F_24.03_MTRCS_REF,Variable Set for MTRCS of the Cube F_24.03
+ECB,9348397123312128136_REF,EBA_ATY(EBA_md103) - Reference,9348397123312128136_REF,EBA_ATY(EBA_md103) - Reference
+ECB,9611914866463986113_REF,EBA_ATY(EBA_md249) - Reference,9611914866463986113_REF,EBA_ATY(EBA_md249) - Reference
+ECB,MTRCS_F_06.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_06.01,MTRCS_F_06.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_06.01
+ECB,13417561674237711791_REF,EBA_ATY(EBA_mi508) - Reference,13417561674237711791_REF,EBA_ATY(EBA_mi508) - Reference
+ECB,MTRCS_F_20.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_20.01,MTRCS_F_20.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_20.01
+ECB,8237426778662573009_REF,EBA_ATY(EBA_md684) - Reference,8237426778662573009_REF,EBA_ATY(EBA_md684) - Reference
+ECB,MTRCS_F_17.03_MTRCS_REF,Variable Set for MTRCS of the Cube F_17.03,MTRCS_F_17.03_MTRCS_REF,Variable Set for MTRCS of the Cube F_17.03
+ECB,8872822698139644453_REF,EBA_ATY(EBA_si299) - Reference,8872822698139644453_REF,EBA_ATY(EBA_si299) - Reference
+ECB,15861555230092883852_REF,EBA_ATY(EBA_pi221) - Reference,15861555230092883852_REF,EBA_ATY(EBA_pi221) - Reference
+ECB,13340907475493141665_REF,EBA_ATY(EBA_md85) - Reference,13340907475493141665_REF,EBA_ATY(EBA_md85) - Reference
+ECB,2035851618792055694_REF,EBA_ATY(EBA_md11) - Reference,2035851618792055694_REF,EBA_ATY(EBA_md11) - Reference
+ECB,11381913425434114974_REF,EBA_ATY(EBA_mi682) - Reference,11381913425434114974_REF,EBA_ATY(EBA_mi682) - Reference
+ECB,18275956648139188358_REF,EBA_ATY(EBA_ei364) - Reference,18275956648139188358_REF,EBA_ATY(EBA_ei364) - Reference
+ECB,MTRCS_F_11.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_11.01,MTRCS_F_11.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_11.01
+ECB,MTRCS_F_44.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_44.01,MTRCS_F_44.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_44.01
+ECB,MTRCS_F_44.03_MTRCS_REF,Variable Set for MTRCS of the Cube F_44.03,MTRCS_F_44.03_MTRCS_REF,Variable Set for MTRCS of the Cube F_44.03
+ECB,MTRCS_F_43.00_MTRCS_REF,Variable Set for MTRCS of the Cube F_43.00,MTRCS_F_43.00_MTRCS_REF,Variable Set for MTRCS of the Cube F_43.00
+ECB,14908322317594720467_REF,EBA_ATY(EBA_mi136) - Reference,14908322317594720467_REF,EBA_ATY(EBA_mi136) - Reference
+ECB,MTRCS_F_20.07.1_MTRCS_REF,Variable Set for MTRCS of the Cube F_20.07.1,MTRCS_F_20.07.1_MTRCS_REF,Variable Set for MTRCS of the Cube F_20.07.1
+ECB,MTRCS_F_19.00.a_MTRCS_REF,Variable Set for MTRCS of the Cube F_19.00.a,MTRCS_F_19.00.a_MTRCS_REF,Variable Set for MTRCS of the Cube F_19.00.a
+ECB,16827164688508751619_REF,EBA_ATY(EBA_mi339) - Reference,16827164688508751619_REF,EBA_ATY(EBA_mi339) - Reference
+ECB,MTRCS_F_20.04_MTRCS_REF,Variable Set for MTRCS of the Cube F_20.04,MTRCS_F_20.04_MTRCS_REF,Variable Set for MTRCS of the Cube F_20.04
+ECB,1914567176785075883_REF,EBA_ATY(EBA_ii699) - Reference,1914567176785075883_REF,EBA_ATY(EBA_ii699) - Reference
+ECB,5514973550143905855_REF,EBA_ATY(EBA_md687) - Reference,5514973550143905855_REF,EBA_ATY(EBA_md687) - Reference
+ECB,MTRCS_F_22.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_22.01,MTRCS_F_22.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_22.01
+ECB,MTRCS_F_21.00_MTRCS_REF,Variable Set for MTRCS of the Cube F_21.00,MTRCS_F_21.00_MTRCS_REF,Variable Set for MTRCS of the Cube F_21.00
+ECB,6749189447780161481_REF,EBA_ATY(EBA_mi689) - Reference,6749189447780161481_REF,EBA_ATY(EBA_mi689) - Reference
+ECB,9850692450922271703_REF,EBA_ATY(EBA_mi500) - Reference,9850692450922271703_REF,EBA_ATY(EBA_mi500) - Reference
+ECB,13109409736578551112_REF,EBA_ATY(EBA_mi505) - Reference,13109409736578551112_REF,EBA_ATY(EBA_mi505) - Reference
+ECB,707240439644672668_REF,EBA_ATY(EBA_mi502) - Reference,707240439644672668_REF,EBA_ATY(EBA_mi502) - Reference
+ECB,11207418868416368889_REF,EBA_ATY(EBA_mi772) - Reference,11207418868416368889_REF,EBA_ATY(EBA_mi772) - Reference
+ECB,MTRCS_F_44.04_MTRCS_REF,Variable Set for MTRCS of the Cube F_44.04,MTRCS_F_44.04_MTRCS_REF,Variable Set for MTRCS of the Cube F_44.04
+ECB,5201938199921205623_REF,EBA_ATY(EBA_md242) - Reference,5201938199921205623_REF,EBA_ATY(EBA_md242) - Reference
+ECB,18200570361412812649_REF,EBA_ATY(EBA_mi37) - Reference,18200570361412812649_REF,EBA_ATY(EBA_mi37) - Reference
+ECB,13701869675344776781_REF,EBA_ATY(EBA_md151) - Reference,13701869675344776781_REF,EBA_ATY(EBA_md151) - Reference
+ECB,MTRCS_F_30.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_30.02,MTRCS_F_30.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_30.02
+ECB,1343878533097320678_REF,EBA_ATY(EBA_md131) - Reference,1343878533097320678_REF,EBA_ATY(EBA_md131) - Reference
+ECB,MTRCS_F_16.04_MTRCS_REF,Variable Set for MTRCS of the Cube F_16.04,MTRCS_F_16.04_MTRCS_REF,Variable Set for MTRCS of the Cube F_16.04
+ECB,11551214758248798519_REF,EBA_ATY(EBA_md210) - Reference,11551214758248798519_REF,EBA_ATY(EBA_md210) - Reference
+ECB,10370576766397065305_REF,EBA_ATY(EBA_md233) - Reference,10370576766397065305_REF,EBA_ATY(EBA_md233) - Reference
+ECB,2075401706210063639_REF,EBA_ATY(EBA_mi66) - Reference,2075401706210063639_REF,EBA_ATY(EBA_mi66) - Reference
+ECB,MTRCS_F_04.08_MTRCS_REF,Variable Set for MTRCS of the Cube F_04.08,MTRCS_F_04.08_MTRCS_REF,Variable Set for MTRCS of the Cube F_04.08
+ECB,MTRCS_F_20.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_20.02,MTRCS_F_20.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_20.02
+ECB,MTRCS_F_23.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_23.01,MTRCS_F_23.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_23.01
+ECB,11105292696563128214_REF,EBA_ATY(EBA_md71) - Reference,11105292696563128214_REF,EBA_ATY(EBA_md71) - Reference
+ECB,MTRCS_F_42.00_MTRCS_REF,Variable Set for MTRCS of the Cube F_42.00,MTRCS_F_42.00_MTRCS_REF,Variable Set for MTRCS of the Cube F_42.00
+ECB,MTRCS_F_18.02.a_MTRCS_REF,Variable Set for MTRCS of the Cube F_18.02.a,MTRCS_F_18.02.a_MTRCS_REF,Variable Set for MTRCS of the Cube F_18.02.a
+ECB,MTRCS_F_16.07.a_MTRCS_REF,Variable Set for MTRCS of the Cube F_16.07.a,MTRCS_F_16.07.a_MTRCS_REF,Variable Set for MTRCS of the Cube F_16.07.a
+ECB,10276723308362691963_REF,EBA_ATY(EBA_ri695) - Reference,10276723308362691963_REF,EBA_ATY(EBA_ri695) - Reference
+ECB,MTRCS_F_15.00.b_MTRCS_REF,Variable Set for MTRCS of the Cube F_15.00.b,MTRCS_F_15.00.b_MTRCS_REF,Variable Set for MTRCS of the Cube F_15.00.b
+ECB,13954865385766232297_REF,EBA_ATY(EBA_md771) - Reference,13954865385766232297_REF,EBA_ATY(EBA_md771) - Reference
+ECB,MTRCS_F_25.01.d_MTRCS_REF,Variable Set for MTRCS of the Cube F_25.01.d,MTRCS_F_25.01.d_MTRCS_REF,Variable Set for MTRCS of the Cube F_25.01.d
+ECB,2970692285882776276_REF,EBA_ATY(EBA_md139) - Reference,2970692285882776276_REF,EBA_ATY(EBA_md139) - Reference
+ECB,MTRCS_F_18.00.e_MTRCS_REF,Variable Set for MTRCS of the Cube F_18.00.e,MTRCS_F_18.00.e_MTRCS_REF,Variable Set for MTRCS of the Cube F_18.00.e
+ECB,MTRCS_F_18.02.b_MTRCS_REF,Variable Set for MTRCS of the Cube F_18.02.b,MTRCS_F_18.02.b_MTRCS_REF,Variable Set for MTRCS of the Cube F_18.02.b
+ECB,6631604508003842444_REF,EBA_ATY(EBA_md251) - Reference,6631604508003842444_REF,EBA_ATY(EBA_md251) - Reference
+ECB,16327465111797747933_REF,EBA_ATY(EBA_md241) - Reference,16327465111797747933_REF,EBA_ATY(EBA_md241) - Reference
+ECB,MTRCS_F_04.02.1_MTRCS_REF,Variable Set for MTRCS of the Cube F_04.02.1,MTRCS_F_04.02.1_MTRCS_REF,Variable Set for MTRCS of the Cube F_04.02.1
+ECB,MTRCS_F_01.03_MTRCS_REF,Variable Set for MTRCS of the Cube F_01.03,MTRCS_F_01.03_MTRCS_REF,Variable Set for MTRCS of the Cube F_01.03
+ECB,MTRCS_F_01.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_01.02,MTRCS_F_01.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_01.02
+ECB,9544537712173802836_REF,EBA_ATY(EBA_mi690) - Reference,9544537712173802836_REF,EBA_ATY(EBA_mi690) - Reference
+ECB,11122883669815963861_REF,EBA_ATY(EBA_md677) - Reference,11122883669815963861_REF,EBA_ATY(EBA_md677) - Reference
+ECB,MTRCS_F_12.01.a_MTRCS_REF,Variable Set for MTRCS of the Cube F_12.01.a,MTRCS_F_12.01.a_MTRCS_REF,Variable Set for MTRCS of the Cube F_12.01.a
+ECB,7526256445328679720_REF,EBA_ATY(EBA_md240) - Reference,7526256445328679720_REF,EBA_ATY(EBA_md240) - Reference
+ECB,MTRCS_F_13.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_13.02,MTRCS_F_13.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_13.02
+ECB,637091515190721272_REF,EBA_ATY(EBA_mi287) - Reference,637091515190721272_REF,EBA_ATY(EBA_mi287) - Reference
+ECB,MTRCS_F_16.05_MTRCS_REF,Variable Set for MTRCS of the Cube F_16.05,MTRCS_F_16.05_MTRCS_REF,Variable Set for MTRCS of the Cube F_16.05
+ECB,MTRCS_F_12.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_12.02,MTRCS_F_12.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_12.02
+ECB,MTRCS_F_26.00.a_MTRCS_REF,Variable Set for MTRCS of the Cube F_26.00.a,MTRCS_F_26.00.a_MTRCS_REF,Variable Set for MTRCS of the Cube F_26.00.a
+ECB,MTRCS_F_18.00.a_MTRCS_REF,Variable Set for MTRCS of the Cube F_18.00.a,MTRCS_F_18.00.a_MTRCS_REF,Variable Set for MTRCS of the Cube F_18.00.a
+ECB,MTRCS_F_13.02.1.a_MTRCS_REF,Variable Set for MTRCS of the Cube F_13.02.1.a,MTRCS_F_13.02.1.a_MTRCS_REF,Variable Set for MTRCS of the Cube F_13.02.1.a
+ECB,7845788412536202589_REF,EBA_ATY(EBA_md46) - Reference,7845788412536202589_REF,EBA_ATY(EBA_md46) - Reference
+ECB,15737067412521553465_REF,EBA_ATY(EBA_md513) - Reference,15737067412521553465_REF,EBA_ATY(EBA_md513) - Reference
+ECB,826386289683186479_REF,EBA_ATY(EBA_mi53) - Reference,826386289683186479_REF,EBA_ATY(EBA_mi53) - Reference
+ECB,1468140901604897379_REF,EBA_ATY(EBA_si288) - Reference,1468140901604897379_REF,EBA_ATY(EBA_si288) - Reference
+ECB,9866734509798057745_REF,EBA_ATY(EBA_pi223) - Reference,9866734509798057745_REF,EBA_ATY(EBA_pi223) - Reference
+ECB,1395812268453013078_REF,EBA_ATY(EBA_ei219) - Reference,1395812268453013078_REF,EBA_ATY(EBA_ei219) - Reference
+ECB,9832991519487986304_REF,EBA_ATY(EBA_si289) - Reference,9832991519487986304_REF,EBA_ATY(EBA_si289) - Reference
+ECB,10170972515839255245_REF,EBA_ATY(EBA_mi170) - Reference,10170972515839255245_REF,EBA_ATY(EBA_mi170) - Reference
+ECB,13008077944443989364_REF,EBA_ATY(EBA_ei152) - Reference,13008077944443989364_REF,EBA_ATY(EBA_ei152) - Reference
+ECB,15827577643655367818_REF,EBA_ATY(EBA_si168) - Reference,15827577643655367818_REF,EBA_ATY(EBA_si168) - Reference
+ECB,RECL_PSTL_CD,Postal code where the collateral is located,RECL_PSTL_CD,Postal code where the collateral is located
+ECB,MTRCS_F_36.01.c_MTRCS_REF,MTRCS_F_36.01.c_MTRCS_REF,MTRCS_F_36.01.c_MTRCS_REF,
+ECB,8304924972630651527_REF,EBA_ATY(EBA_ei207) - Reference,8304924972630651527_REF,EBA_ATY(EBA_ei207) - Reference
+ECB,2974830385347868493_REF,EBA_ATY(EBA_ei4) - Reference,2974830385347868493_REF,EBA_ATY(EBA_ei4) - Reference
+ECB,TYP_FCT,Type of facet,TYP_FCT,Set of allowed types of facets
+EBA,EBA_7297566420415073364,EBA_ATY(EBA_md675),7297566420415073364,
+EBA,EBA_15585376292621693064,EBA_ATY([EBA_mi340]),15585376292621693064,"Details the data type (e.g. monetary, percentage, string) of the data point. In XBRL, it is the ""primary item"". 
+Generally, it indicates the ""metrics"" of the Main category provided (i.e. answers the question: how is measured?).
+It should be defined for each data point. 
+In the case of monetary values, when the data point is referred to a (change during a) period of time, the member name shall finish in ""(flow)"". When the member name has other terminations, the data point is a measurement at a date (i.e. ""stock"")."
+EBA,EBA_4492196362141618351,EBA_ATY(EBA_mi340),4492196362141618351,
+EBA,EBA_18440333072770672174,EBA_ATY(EBA_md147),18440333072770672174,
+EBA,EBA_970881211989962538,EBA_ATY(EBA_md252),970881211989962538,
+EBA,EBA_9343811512142656844,EBA_ATY(EBA_mi159),9343811512142656844,
+EBA,EBA_9460647717196484910,EBA_ATY(EBA_md105),9460647717196484910,
+EBA,EBA_14237901206357965237,EBA_ATY(EBA_md151),14237901206357965237,
+EBA,EBA_14782401022276115780,EBA_ATY(EBA_md202),14782401022276115780,
+EBA,EBA_11157093638208050105,EBA_ATY(EBA_md216),11157093638208050105,
+EBA,EBA_14717269689211174824,EBA_ATY(EBA_md149),14717269689211174824,
+EBA,EBA_4429920262232308032,EBA_ATY(EBA_mi772),4429920262232308032,
+EBA,EBA_14140516149278037314,EBA_ATY(EBA_md249),14140516149278037314,
+EBA,EBA_14466135065692067719,EBA_ATY([EBA_mi7|EBA_mi508|EBA_mi136|EBA_mi506|EBA_mi53|EBA_mi505|EBA_mi507]),14466135065692067719,"Details the data type (e.g. monetary, percentage, string) of the data point. In XBRL, it is the ""primary item"". 
+Generally, it indicates the ""metrics"" of the Main category provided (i.e. answers the question: how is measured?).
+It should be defined for each data point. 
+In the case of monetary values, when the data point is referred to a (change during a) period of time, the member name shall finish in ""(flow)"". When the member name has other terminations, the data point is a measurement at a date (i.e. ""stock"")."
+EBA,EBA_4457154621247041878,EBA_ATY(EBA_md203),4457154621247041878,
+EBA,EBA_1578997817283599000,EBA_ATY(EBA_ii676),1578997817283599000,
+EBA,EBA_12156118467239371640,EBA_ATY(EBA_mi693),12156118467239371640,
+EBA,EBA_10294479025975435038,EBA_ATY(EBA_mi697),10294479025975435038,
+EBA,EBA_9198654112419647559,EBA_ATY(EBA_md201),9198654112419647559,
+EBA,EBA_9670157326672713850,EBA_ATY([EBA_ei364|EBA_mi9|EBA_si168|EBA_mi170|EBA_ei152|EBA_ei138|EBA_ei218|EBA_mi134|EBA_ei219|EBA_pi221|EBA_mi53|EBA_pi223|EBA_di113|EBA_md103|EBA_ei365|EBA_mi129|EBA_si288]),9670157326672713850,"Details the data type (e.g. monetary, percentage, string) of the data point. In XBRL, it is the ""primary item"". 
+Generally, it indicates the ""metrics"" of the Main category provided (i.e. answers the question: how is measured?).
+It should be defined for each data point. 
+In the case of monetary values, when the data point is referred to a (change during a) period of time, the member name shall finish in ""(flow)"". When the member name has other terminations, the data point is a measurement at a date (i.e. ""stock"")."
+EBA,EBA_7548593735695521529,EBA_ATY([EBA_mi501|EBA_mi170|EBA_mi53|EBA_mi500]),7548593735695521529,"Details the data type (e.g. monetary, percentage, string) of the data point. In XBRL, it is the ""primary item"". 
+Generally, it indicates the ""metrics"" of the Main category provided (i.e. answers the question: how is measured?).
+It should be defined for each data point. 
+In the case of monetary values, when the data point is referred to a (change during a) period of time, the member name shall finish in ""(flow)"". When the member name has other terminations, the data point is a measurement at a date (i.e. ""stock"")."
+EBA,EBA_17313761609889498750,EBA_ATY(EBA_md70),17313761609889498750,
+EBA,EBA_9787159133079550312,EBA_ATY(EBA_md240),9787159133079550312,
+EBA,EBA_8895365827025944555,EBA_ATY(EBA_mi457),8895365827025944555,
+EBA,EBA_17825073792822755192,EBA_ATY(EBA_md516),17825073792822755192,
+EBA,EBA_17127223044912856094,EBA_ATY([EBA_md683|EBA_md685|EBA_md687|EBA_md684|EBA_mi503|EBA_md686]),17127223044912856094,"Details the data type (e.g. monetary, percentage, string) of the data point. In XBRL, it is the ""primary item"". 
+Generally, it indicates the ""metrics"" of the Main category provided (i.e. answers the question: how is measured?).
+It should be defined for each data point. 
+In the case of monetary values, when the data point is referred to a (change during a) period of time, the member name shall finish in ""(flow)"". When the member name has other terminations, the data point is a measurement at a date (i.e. ""stock"")."
+EBA,EBA_11975497208556218727,EBA_ATY([EBA_md103|EBA_md210|EBA_md13]),11975497208556218727,"Details the data type (e.g. monetary, percentage, string) of the data point. In XBRL, it is the ""primary item"". 
+Generally, it indicates the ""metrics"" of the Main category provided (i.e. answers the question: how is measured?).
+It should be defined for each data point. 
+In the case of monetary values, when the data point is referred to a (change during a) period of time, the member name shall finish in ""(flow)"". When the member name has other terminations, the data point is a measurement at a date (i.e. ""stock"")."
+EBA,EBA_8228120436041376903,EBA_ATY(EBA_mi505),8228120436041376903,
+EBA,EBA_9953958970010584506,EBA_ATY([EBA_mi339|EBA_mi136]),9953958970010584506,"Details the data type (e.g. monetary, percentage, string) of the data point. In XBRL, it is the ""primary item"". 
+Generally, it indicates the ""metrics"" of the Main category provided (i.e. answers the question: how is measured?).
+It should be defined for each data point. 
+In the case of monetary values, when the data point is referred to a (change during a) period of time, the member name shall finish in ""(flow)"". When the member name has other terminations, the data point is a measurement at a date (i.e. ""stock"")."
+EBA,EBA_18030343957810508219,EBA_ATY([EBA_mi164]),18030343957810508219,"Details the data type (e.g. monetary, percentage, string) of the data point. In XBRL, it is the ""primary item"". 
+Generally, it indicates the ""metrics"" of the Main category provided (i.e. answers the question: how is measured?).
+It should be defined for each data point. 
+In the case of monetary values, when the data point is referred to a (change during a) period of time, the member name shall finish in ""(flow)"". When the member name has other terminations, the data point is a measurement at a date (i.e. ""stock"")."
+EBA,EBA_15948336968249749664,EBA_ATY(EBA_md46),15948336968249749664,
+EBA,EBA_6568288170937653887,EBA_ATY([EBA_mi7|EBA_md140|EBA_md515|EBA_md203|EBA_md105|EBA_md254|EBA_md514|EBA_md516|EBA_md242]),6568288170937653887,"Details the data type (e.g. monetary, percentage, string) of the data point. In XBRL, it is the ""primary item"". 
+Generally, it indicates the ""metrics"" of the Main category provided (i.e. answers the question: how is measured?).
+It should be defined for each data point. 
+In the case of monetary values, when the data point is referred to a (change during a) period of time, the member name shall finish in ""(flow)"". When the member name has other terminations, the data point is a measurement at a date (i.e. ""stock"")."
+EBA,EBA_2250689115574519802,EBA_ATY(EBA_di113),2250689115574519802,
+EBA,EBA_2161190500527136313,EBA_ATY(EBA_ii694),2161190500527136313,
+EBA,EBA_12714954377393457120,EBA_ATY([EBA_md103|EBA_mi287|EBA_mi129|EBA_mi53]),12714954377393457120,"Details the data type (e.g. monetary, percentage, string) of the data point. In XBRL, it is the ""primary item"". 
+Generally, it indicates the ""metrics"" of the Main category provided (i.e. answers the question: how is measured?).
+It should be defined for each data point. 
+In the case of monetary values, when the data point is referred to a (change during a) period of time, the member name shall finish in ""(flow)"". When the member name has other terminations, the data point is a measurement at a date (i.e. ""stock"")."
+EBA,EBA_9026145844569263569,EBA_ATY([EBA_mi457|EBA_mi172|EBA_mi170|EBA_mi53|EBA_mi287]),9026145844569263569,"Details the data type (e.g. monetary, percentage, string) of the data point. In XBRL, it is the ""primary item"". 
+Generally, it indicates the ""metrics"" of the Main category provided (i.e. answers the question: how is measured?).
+It should be defined for each data point. 
+In the case of monetary values, when the data point is referred to a (change during a) period of time, the member name shall finish in ""(flow)"". When the member name has other terminations, the data point is a measurement at a date (i.e. ""stock"")."
+EBA,EBA_1642050618857539674,EBA_ATY(EBA_md511),1642050618857539674,
+EBA,EBA_1310593032472528505,EBA_ATY(EBA_md233),1310593032472528505,
+EBA,EBA_4526649700965348292,EBA_ATY(EBA_mi110),4526649700965348292,
+EBA,EBA_7998179386806129332,EBA_ATY(EBA_mi43),7998179386806129332,
+EBA,EBA_17263975452837246078,EBA_ATY([EBA_mi501|EBA_mi500|EBA_mi53|EBA_mi170]),17263975452837246078,"Details the data type (e.g. monetary, percentage, string) of the data point. In XBRL, it is the ""primary item"". 
+Generally, it indicates the ""metrics"" of the Main category provided (i.e. answers the question: how is measured?).
+It should be defined for each data point. 
+In the case of monetary values, when the data point is referred to a (change during a) period of time, the member name shall finish in ""(flow)"". When the member name has other terminations, the data point is a measurement at a date (i.e. ""stock"")."
+EBA,EBA_12066025718223367442,EBA_ATY(EBA_mi65),12066025718223367442,
+EBA,EBA_16910089619137529619,EBA_ATY(EBA_md197),16910089619137529619,
+EBA,EBA_7425012908509512988,EBA_ATY([EBA_md103|EBA_md301]),7425012908509512988,"Details the data type (e.g. monetary, percentage, string) of the data point. In XBRL, it is the ""primary item"". 
+Generally, it indicates the ""metrics"" of the Main category provided (i.e. answers the question: how is measured?).
+It should be defined for each data point. 
+In the case of monetary values, when the data point is referred to a (change during a) period of time, the member name shall finish in ""(flow)"". When the member name has other terminations, the data point is a measurement at a date (i.e. ""stock"")."
+EBA,EBA_7045330879861808887,EBA_ATY(EBA_md199),7045330879861808887,
+EBA,EBA_3318790052671735794,EBA_ATY(EBA_md72),3318790052671735794,
+EBA,EBA_4125453834206329623,EBA_ATY(EBA_mi135),4125453834206329623,
+EBA,EBA_7479284637091345067,EBA_ATY(EBA_md150),7479284637091345067,
+EBA,EBA_14207604135783268980,EBA_ATY(EBA_mi696),14207604135783268980,
+EBA,EBA_15523337097091448283,EBA_ATY([EBA_md103]),15523337097091448283,"Details the data type (e.g. monetary, percentage, string) of the data point. In XBRL, it is the ""primary item"". 
+Generally, it indicates the ""metrics"" of the Main category provided (i.e. answers the question: how is measured?).
+It should be defined for each data point. 
+In the case of monetary values, when the data point is referred to a (change during a) period of time, the member name shall finish in ""(flow)"". When the member name has other terminations, the data point is a measurement at a date (i.e. ""stock"")."
+EBA,EBA_13130641130737682833,EBA_ATY([EBA_mi287|EBA_mi504|EBA_mi53]),13130641130737682833,"Details the data type (e.g. monetary, percentage, string) of the data point. In XBRL, it is the ""primary item"". 
+Generally, it indicates the ""metrics"" of the Main category provided (i.e. answers the question: how is measured?).
+It should be defined for each data point. 
+In the case of monetary values, when the data point is referred to a (change during a) period of time, the member name shall finish in ""(flow)"". When the member name has other terminations, the data point is a measurement at a date (i.e. ""stock"")."
+EBA,EBA_4382339117424893742,EBA_ATY(EBA_si475),4382339117424893742,
+EBA,EBA_18224627658329936503,EBA_ATY([EBA_mi287|EBA_mi136]),18224627658329936503,"Details the data type (e.g. monetary, percentage, string) of the data point. In XBRL, it is the ""primary item"". 
+Generally, it indicates the ""metrics"" of the Main category provided (i.e. answers the question: how is measured?).
+It should be defined for each data point. 
+In the case of monetary values, when the data point is referred to a (change during a) period of time, the member name shall finish in ""(flow)"". When the member name has other terminations, the data point is a measurement at a date (i.e. ""stock"")."
+EBA,EBA_5945154987020393668,EBA_ATY(EBA_md11),5945154987020393668,
+EBA,EBA_5774915741176803306,EBA_ATY(EBA_si299),5774915741176803306,
+EBA,EBA_16583082910069749599,EBA_ATY([EBA_mi7|EBA_mi508|EBA_mi136|EBA_mi53|EBA_mi507]),16583082910069749599,"Details the data type (e.g. monetary, percentage, string) of the data point. In XBRL, it is the ""primary item"". 
+Generally, it indicates the ""metrics"" of the Main category provided (i.e. answers the question: how is measured?).
+It should be defined for each data point. 
+In the case of monetary values, when the data point is referred to a (change during a) period of time, the member name shall finish in ""(flow)"". When the member name has other terminations, the data point is a measurement at a date (i.e. ""stock"")."
+EBA,EBA_6639797572247728135,EBA_ATY(EBA_ei365),6639797572247728135,
+EBA,EBA_14850964577352639345,EBA_ATY(EBA_md131),14850964577352639345,
+EBA,EBA_10236929010232105220,EBA_ATY(EBA_md241),10236929010232105220,
+EBA,EBA_17125032251173697978,EBA_ATY(EBA_md14),17125032251173697978,
+EBA,EBA_7581480664087459498,EBA_ATY(EBA_md686),7581480664087459498,
+EBA,EBA_10257793885188895877,EBA_ATY(EBA_mi134),10257793885188895877,
+EBA,EBA_8358054682599877032,EBA_ATY([EBA_mi682|EBA_md677|EBA_md675|EBA_mi136]),8358054682599877032,"Details the data type (e.g. monetary, percentage, string) of the data point. In XBRL, it is the ""primary item"". 
+Generally, it indicates the ""metrics"" of the Main category provided (i.e. answers the question: how is measured?).
+It should be defined for each data point. 
+In the case of monetary values, when the data point is referred to a (change during a) period of time, the member name shall finish in ""(flow)"". When the member name has other terminations, the data point is a measurement at a date (i.e. ""stock"")."
+EBA,EBA_17627108811016234439,EBA_ATY([EBA_md104|EBA_md186|EBA_md12|EBA_md59|EBA_md60|EBA_md83|EBA_md69|EBA_md147|EBA_mi191|EBA_md131|EBA_md11]),17627108811016234439,"Details the data type (e.g. monetary, percentage, string) of the data point. In XBRL, it is the ""primary item"". 
+Generally, it indicates the ""metrics"" of the Main category provided (i.e. answers the question: how is measured?).
+It should be defined for each data point. 
+In the case of monetary values, when the data point is referred to a (change during a) period of time, the member name shall finish in ""(flow)"". When the member name has other terminations, the data point is a measurement at a date (i.e. ""stock"")."
+EBA,EBA_17191325927746173861,EBA_ATY([EBA_mi697|EBA_mi696|EBA_ri695|EBA_ri769]),17191325927746173861,"Details the data type (e.g. monetary, percentage, string) of the data point. In XBRL, it is the ""primary item"". 
+Generally, it indicates the ""metrics"" of the Main category provided (i.e. answers the question: how is measured?).
+It should be defined for each data point. 
+In the case of monetary values, when the data point is referred to a (change during a) period of time, the member name shall finish in ""(flow)"". When the member name has other terminations, the data point is a measurement at a date (i.e. ""stock"")."
+EBA,EBA_2384983838098687046,EBA_ATY(EBA_md301),2384983838098687046,
+EBA,EBA_12322696276208132147,EBA_ATY(EBA_mi507),12322696276208132147,
+EBA,EBA_7921557948676610779,EBA_ATY(EBA_md512),7921557948676610779,
+EBA,EBA_8147403423836981172,EBA_ATY([EBA_mi7|EBA_mi503]),8147403423836981172,"Details the data type (e.g. monetary, percentage, string) of the data point. In XBRL, it is the ""primary item"". 
+Generally, it indicates the ""metrics"" of the Main category provided (i.e. answers the question: how is measured?).
+It should be defined for each data point. 
+In the case of monetary values, when the data point is referred to a (change during a) period of time, the member name shall finish in ""(flow)"". When the member name has other terminations, the data point is a measurement at a date (i.e. ""stock"")."
+EBA,EBA_7609207427873815892,EBA_ATY(EBA_mi66),7609207427873815892,
+EBA,EBA_14769371500360874292,EBA_ATY([EBA_mi195|EBA_mi53|EBA_mi43]),14769371500360874292,"Details the data type (e.g. monetary, percentage, string) of the data point. In XBRL, it is the ""primary item"". 
+Generally, it indicates the ""metrics"" of the Main category provided (i.e. answers the question: how is measured?).
+It should be defined for each data point. 
+In the case of monetary values, when the data point is referred to a (change during a) period of time, the member name shall finish in ""(flow)"". When the member name has other terminations, the data point is a measurement at a date (i.e. ""stock"")."
+EBA,EBA_3209592754950576281,EBA_ATY([EBA_mi7|EBA_mi53]),3209592754950576281,"Details the data type (e.g. monetary, percentage, string) of the data point. In XBRL, it is the ""primary item"". 
+Generally, it indicates the ""metrics"" of the Main category provided (i.e. answers the question: how is measured?).
+It should be defined for each data point. 
+In the case of monetary values, when the data point is referred to a (change during a) period of time, the member name shall finish in ""(flow)"". When the member name has other terminations, the data point is a measurement at a date (i.e. ""stock"")."
+EBA,EBA_8293002594605645818,EBA_ATY([EBA_mi7|EBA_mi298|EBA_mi53]),8293002594605645818,"Details the data type (e.g. monetary, percentage, string) of the data point. In XBRL, it is the ""primary item"". 
+Generally, it indicates the ""metrics"" of the Main category provided (i.e. answers the question: how is measured?).
+It should be defined for each data point. 
+In the case of monetary values, when the data point is referred to a (change during a) period of time, the member name shall finish in ""(flow)"". When the member name has other terminations, the data point is a measurement at a date (i.e. ""stock"")."
+EBA,EBA_8602270086129288343,EBA_ATY([EBA_mi679|EBA_mi66]),8602270086129288343,"Details the data type (e.g. monetary, percentage, string) of the data point. In XBRL, it is the ""primary item"". 
+Generally, it indicates the ""metrics"" of the Main category provided (i.e. answers the question: how is measured?).
+It should be defined for each data point. 
+In the case of monetary values, when the data point is referred to a (change during a) period of time, the member name shall finish in ""(flow)"". When the member name has other terminations, the data point is a measurement at a date (i.e. ""stock"")."
+EBA,EBA_11219267847583223909,EBA_ATY(EBA_md67),11219267847583223909,
+EBA,EBA_6372333497785021038,EBA_ATY(EBA_si477),6372333497785021038,
+EBA,EBA_18132232946860015519,EBA_ATY(EBA_mi172),18132232946860015519,
+EBA,EBA_6401222181158503537,EBA_ATY([EBA_ii694]),6401222181158503537,"Details the data type (e.g. monetary, percentage, string) of the data point. In XBRL, it is the ""primary item"". 
+Generally, it indicates the ""metrics"" of the Main category provided (i.e. answers the question: how is measured?).
+It should be defined for each data point. 
+In the case of monetary values, when the data point is referred to a (change during a) period of time, the member name shall finish in ""(flow)"". When the member name has other terminations, the data point is a measurement at a date (i.e. ""stock"")."
+EBA,EBA_6320094546664999686,EBA_ATY(EBA_md239),6320094546664999686,
+EBA,EBA_4550550471780180616,EBA_ATY([EBA_mi53|EBA_mi191|EBA_mi129|EBA_mi45]),4550550471780180616,"Details the data type (e.g. monetary, percentage, string) of the data point. In XBRL, it is the ""primary item"". 
+Generally, it indicates the ""metrics"" of the Main category provided (i.e. answers the question: how is measured?).
+It should be defined for each data point. 
+In the case of monetary values, when the data point is referred to a (change during a) period of time, the member name shall finish in ""(flow)"". When the member name has other terminations, the data point is a measurement at a date (i.e. ""stock"")."
+EBA,EBA_15550006259839329275,EBA_ATY([EBA_mi679|EBA_mi691|EBA_mi66|EBA_mi678|EBA_mi690]),15550006259839329275,"Details the data type (e.g. monetary, percentage, string) of the data point. In XBRL, it is the ""primary item"". 
+Generally, it indicates the ""metrics"" of the Main category provided (i.e. answers the question: how is measured?).
+It should be defined for each data point. 
+In the case of monetary values, when the data point is referred to a (change during a) period of time, the member name shall finish in ""(flow)"". When the member name has other terminations, the data point is a measurement at a date (i.e. ""stock"")."
+EBA,EBA_16370839230798678979,EBA_ATY([EBA_mi35]),16370839230798678979,"Details the data type (e.g. monetary, percentage, string) of the data point. In XBRL, it is the ""primary item"". 
+Generally, it indicates the ""metrics"" of the Main category provided (i.e. answers the question: how is measured?).
+It should be defined for each data point. 
+In the case of monetary values, when the data point is referred to a (change during a) period of time, the member name shall finish in ""(flow)"". When the member name has other terminations, the data point is a measurement at a date (i.e. ""stock"")."
+EBA,EBA_6032785342211626857,EBA_ATY(EBA_md771),6032785342211626857,
+EBA,EBA_17378198488385969370,EBA_ATY([EBA_mi420|EBA_mi53|EBA_mi170]),17378198488385969370,"Details the data type (e.g. monetary, percentage, string) of the data point. In XBRL, it is the ""primary item"". 
+Generally, it indicates the ""metrics"" of the Main category provided (i.e. answers the question: how is measured?).
+It should be defined for each data point. 
+In the case of monetary values, when the data point is referred to a (change during a) period of time, the member name shall finish in ""(flow)"". When the member name has other terminations, the data point is a measurement at a date (i.e. ""stock"")."
+EBA,EBA_11189239488883364149,EBA_ATY([EBA_mi340|EBA_mi339|EBA_mi770]),11189239488883364149,"Details the data type (e.g. monetary, percentage, string) of the data point. In XBRL, it is the ""primary item"". 
+Generally, it indicates the ""metrics"" of the Main category provided (i.e. answers the question: how is measured?).
+It should be defined for each data point. 
+In the case of monetary values, when the data point is referred to a (change during a) period of time, the member name shall finish in ""(flow)"". When the member name has other terminations, the data point is a measurement at a date (i.e. ""stock"")."
+EBA,EBA_15953367190040392590,EBA_ATY([EBA_mi7|EBA_md106|EBA_md140|EBA_md203|EBA_mi159|EBA_md105|EBA_md254|EBA_md242]),15953367190040392590,"Details the data type (e.g. monetary, percentage, string) of the data point. In XBRL, it is the ""primary item"". 
+Generally, it indicates the ""metrics"" of the Main category provided (i.e. answers the question: how is measured?).
+It should be defined for each data point. 
+In the case of monetary values, when the data point is referred to a (change during a) period of time, the member name shall finish in ""(flow)"". When the member name has other terminations, the data point is a measurement at a date (i.e. ""stock"")."
+EBA,EBA_6468138710767302007,EBA_ATY(EBA_md59),6468138710767302007,
+EBA,EBA_13226661534802794917,EBA_ATY(EBA_md210),13226661534802794917,
+EBA,EBA_17809237732712617651,EBA_ATY(EBA_md677),17809237732712617651,
+EBA,EBA_17362572299350332613,EBA_ATY(EBA_mi298),17362572299350332613,
+EBA,EBA_11861560565284774065,EBA_ATY(EBA_mi45),11861560565284774065,
+EBA,EBA_15838870426528719135,EBA_ATY([EBA_mi159|EBA_mi53|EBA_mi136]),15838870426528719135,"Details the data type (e.g. monetary, percentage, string) of the data point. In XBRL, it is the ""primary item"". 
+Generally, it indicates the ""metrics"" of the Main category provided (i.e. answers the question: how is measured?).
+It should be defined for each data point. 
+In the case of monetary values, when the data point is referred to a (change during a) period of time, the member name shall finish in ""(flow)"". When the member name has other terminations, the data point is a measurement at a date (i.e. ""stock"")."
+EBA,EBA_18378666056225110169,EBA_ATY([EBA_md675]),18378666056225110169,"Details the data type (e.g. monetary, percentage, string) of the data point. In XBRL, it is the ""primary item"". 
+Generally, it indicates the ""metrics"" of the Main category provided (i.e. answers the question: how is measured?).
+It should be defined for each data point. 
+In the case of monetary values, when the data point is referred to a (change during a) period of time, the member name shall finish in ""(flow)"". When the member name has other terminations, the data point is a measurement at a date (i.e. ""stock"")."
+EBA,EBA_2101772158558890786,EBA_ATY([EBA_mi507]),2101772158558890786,"Details the data type (e.g. monetary, percentage, string) of the data point. In XBRL, it is the ""primary item"". 
+Generally, it indicates the ""metrics"" of the Main category provided (i.e. answers the question: how is measured?).
+It should be defined for each data point. 
+In the case of monetary values, when the data point is referred to a (change during a) period of time, the member name shall finish in ""(flow)"". When the member name has other terminations, the data point is a measurement at a date (i.e. ""stock"")."
+EBA,EBA_14855964201864291528,EBA_ATY(EBA_md69),14855964201864291528,
+EBA,EBA_2604851733428632515,EBA_ATY([EBA_mi9|EBA_si289|EBA_mi53|EBA_si299|EBA_si169|EBA_pi221]),2604851733428632515,"Details the data type (e.g. monetary, percentage, string) of the data point. In XBRL, it is the ""primary item"". 
+Generally, it indicates the ""metrics"" of the Main category provided (i.e. answers the question: how is measured?).
+It should be defined for each data point. 
+In the case of monetary values, when the data point is referred to a (change during a) period of time, the member name shall finish in ""(flow)"". When the member name has other terminations, the data point is a measurement at a date (i.e. ""stock"")."
+EBA,EBA_8196255648753012831,EBA_ATY(EBA_ei364),8196255648753012831,
+EBA,EBA_13360990123029225806,EBA_ATY([EBA_mi691|EBA_mi690]),13360990123029225806,"Details the data type (e.g. monetary, percentage, string) of the data point. In XBRL, it is the ""primary item"". 
+Generally, it indicates the ""metrics"" of the Main category provided (i.e. answers the question: how is measured?).
+It should be defined for each data point. 
+In the case of monetary values, when the data point is referred to a (change during a) period of time, the member name shall finish in ""(flow)"". When the member name has other terminations, the data point is a measurement at a date (i.e. ""stock"")."
+EBA,EBA_5051766378422399098,EBA_ATY(EBA_md514),5051766378422399098,
+EBA,EBA_7694579520749019536,EBA_ATY(EBA_mi506),7694579520749019536,
+EBA,EBA_16559686217265382380,EBA_ATY(EBA_md12),16559686217265382380,
+EBA,EBA_5741440665934247772,EBA_ATY([EBA_mi693|EBA_mi692]),5741440665934247772,"Details the data type (e.g. monetary, percentage, string) of the data point. In XBRL, it is the ""primary item"". 
+Generally, it indicates the ""metrics"" of the Main category provided (i.e. answers the question: how is measured?).
+It should be defined for each data point. 
+In the case of monetary values, when the data point is referred to a (change during a) period of time, the member name shall finish in ""(flow)"". When the member name has other terminations, the data point is a measurement at a date (i.e. ""stock"")."
+EBA,EBA_1917884139335732578,EBA_ATY(EBA_ri695),1917884139335732578,
+EBA,EBA_7216936475377850959,EBA_ATY(EBA_mi37),7216936475377850959,
+EBA,EBA_2433331335632809293,EBA_ATY([EBA_mi7|EBA_mi172|EBA_mi170|EBA_mi53|EBA_mi287]),2433331335632809293,"Details the data type (e.g. monetary, percentage, string) of the data point. In XBRL, it is the ""primary item"". 
+Generally, it indicates the ""metrics"" of the Main category provided (i.e. answers the question: how is measured?).
+It should be defined for each data point. 
+In the case of monetary values, when the data point is referred to a (change during a) period of time, the member name shall finish in ""(flow)"". When the member name has other terminations, the data point is a measurement at a date (i.e. ""stock"")."
+EBA,EBA_908702916109331650,EBA_ATY([EBA_mi9|EBA_mi53|EBA_si477|EBA_si169|EBA_pi221]),908702916109331650,"Details the data type (e.g. monetary, percentage, string) of the data point. In XBRL, it is the ""primary item"". 
+Generally, it indicates the ""metrics"" of the Main category provided (i.e. answers the question: how is measured?).
+It should be defined for each data point. 
+In the case of monetary values, when the data point is referred to a (change during a) period of time, the member name shall finish in ""(flow)"". When the member name has other terminations, the data point is a measurement at a date (i.e. ""stock"")."
+EBA,EBA_17201151667545604860,EBA_ATY([EBA_mi679|EBA_mi678|EBA_mi66]),17201151667545604860,"Details the data type (e.g. monetary, percentage, string) of the data point. In XBRL, it is the ""primary item"". 
+Generally, it indicates the ""metrics"" of the Main category provided (i.e. answers the question: how is measured?).
+It should be defined for each data point. 
+In the case of monetary values, when the data point is referred to a (change during a) period of time, the member name shall finish in ""(flow)"". When the member name has other terminations, the data point is a measurement at a date (i.e. ""stock"")."
+EBA,EBA_8302698495765502926,EBA_ATY([EBA_md72|EBA_md216|EBA_md199|EBA_md200|EBA_md114|EBA_md241|EBA_md233|EBA_md62|EBA_md108|EBA_mi53|EBA_mi109|EBA_md85|EBA_md149|EBA_mi110|EBA_md70|EBA_md150|EBA_md197|EBA_mi65|EBA_md71|EBA_md151]),8302698495765502926,"Details the data type (e.g. monetary, percentage, string) of the data point. In XBRL, it is the ""primary item"". 
+Generally, it indicates the ""metrics"" of the Main category provided (i.e. answers the question: how is measured?).
+It should be defined for each data point. 
+In the case of monetary values, when the data point is referred to a (change during a) period of time, the member name shall finish in ""(flow)"". When the member name has other terminations, the data point is a measurement at a date (i.e. ""stock"")."
+EBA,EBA_9996703501657266628,EBA_ATY(EBA_md73),9996703501657266628,
+EBA,EBA_18266296114317069670,EBA_ATY(EBA_mi678),18266296114317069670,
+EBA,EBA_17542850676281456190,EBA_ATY([EBA_mi298|EBA_mi136]),17542850676281456190,"Details the data type (e.g. monetary, percentage, string) of the data point. In XBRL, it is the ""primary item"". 
+Generally, it indicates the ""metrics"" of the Main category provided (i.e. answers the question: how is measured?).
+It should be defined for each data point. 
+In the case of monetary values, when the data point is referred to a (change during a) period of time, the member name shall finish in ""(flow)"". When the member name has other terminations, the data point is a measurement at a date (i.e. ""stock"")."
+EBA,EBA_9121519415410717152,EBA_ATY(EBA_md108),9121519415410717152,
+EBA,EBA_4151719411465112673,EBA_ATY(EBA_ri769),4151719411465112673,
+EBA,EBA_15192174181990375939,EBA_ATY(EBA_md254),15192174181990375939,
+EBA,EBA_355617794779780073,EBA_ATY([EBA_mi503|EBA_mi136]),355617794779780073,"Details the data type (e.g. monetary, percentage, string) of the data point. In XBRL, it is the ""primary item"". 
+Generally, it indicates the ""metrics"" of the Main category provided (i.e. answers the question: how is measured?).
+It should be defined for each data point. 
+In the case of monetary values, when the data point is referred to a (change during a) period of time, the member name shall finish in ""(flow)"". When the member name has other terminations, the data point is a measurement at a date (i.e. ""stock"")."
+EBA,EBA_6136860281974494833,EBA_ATY(EBA_mi682),6136860281974494833,
+EBA,EBA_2582120091229145198,EBA_ATY(EBA_md106),2582120091229145198,
+EBA,EBA_1255182455840490801,EBA_ATY(EBA_md242),1255182455840490801,
+EBA,EBA_16568609369428861768,EBA_ATY(EBA_md251),16568609369428861768,
+EBA,EBA_306583151356615624,EBA_ATY([EBA_mi135|EBA_mi129|EBA_md249]),306583151356615624,"Details the data type (e.g. monetary, percentage, string) of the data point. In XBRL, it is the ""primary item"". 
+Generally, it indicates the ""metrics"" of the Main category provided (i.e. answers the question: how is measured?).
+It should be defined for each data point. 
+In the case of monetary values, when the data point is referred to a (change during a) period of time, the member name shall finish in ""(flow)"". When the member name has other terminations, the data point is a measurement at a date (i.e. ""stock"")."
+EBA,EBA_15031794347871449198,EBA_ATY([EBA_md210|EBA_md13]),15031794347871449198,"Details the data type (e.g. monetary, percentage, string) of the data point. In XBRL, it is the ""primary item"". 
+Generally, it indicates the ""metrics"" of the Main category provided (i.e. answers the question: how is measured?).
+It should be defined for each data point. 
+In the case of monetary values, when the data point is referred to a (change during a) period of time, the member name shall finish in ""(flow)"". When the member name has other terminations, the data point is a measurement at a date (i.e. ""stock"")."
+EBA,EBA_6999744889880554488,EBA_ATY([EBA_mi689|EBA_mi688]),6999744889880554488,"Details the data type (e.g. monetary, percentage, string) of the data point. In XBRL, it is the ""primary item"". 
+Generally, it indicates the ""metrics"" of the Main category provided (i.e. answers the question: how is measured?).
+It should be defined for each data point. 
+In the case of monetary values, when the data point is referred to a (change during a) period of time, the member name shall finish in ""(flow)"". When the member name has other terminations, the data point is a measurement at a date (i.e. ""stock"")."
+EBA,EBA_3734078955945207964,EBA_ATY([EBA_mi8|EBA_mi159|EBA_mi53]),3734078955945207964,"Details the data type (e.g. monetary, percentage, string) of the data point. In XBRL, it is the ""primary item"". 
+Generally, it indicates the ""metrics"" of the Main category provided (i.e. answers the question: how is measured?).
+It should be defined for each data point. 
+In the case of monetary values, when the data point is referred to a (change during a) period of time, the member name shall finish in ""(flow)"". When the member name has other terminations, the data point is a measurement at a date (i.e. ""stock"")."
+EBA,EBA_1678309879497812044,EBA_ATY([EBA_mi7|EBA_mi508|EBA_mi504|EBA_mi136|EBA_mi53|EBA_mi507]),1678309879497812044,"Details the data type (e.g. monetary, percentage, string) of the data point. In XBRL, it is the ""primary item"". 
+Generally, it indicates the ""metrics"" of the Main category provided (i.e. answers the question: how is measured?).
+It should be defined for each data point. 
+In the case of monetary values, when the data point is referred to a (change during a) period of time, the member name shall finish in ""(flow)"". When the member name has other terminations, the data point is a measurement at a date (i.e. ""stock"")."
+EBA,EBA_6553115306727480298,EBA_ATY([EBA_ei364|EBA_mi9|EBA_mi170|EBA_ei152|EBA_ei138|EBA_mi134|EBA_ei218|EBA_si476|EBA_pi221|EBA_mi53|EBA_pi223|EBA_di113|EBA_md103|EBA_ei365|EBA_si475|EBA_mi129|EBA_ei219]),6553115306727480298,"Details the data type (e.g. monetary, percentage, string) of the data point. In XBRL, it is the ""primary item"". 
+Generally, it indicates the ""metrics"" of the Main category provided (i.e. answers the question: how is measured?).
+It should be defined for each data point. 
+In the case of monetary values, when the data point is referred to a (change during a) period of time, the member name shall finish in ""(flow)"". When the member name has other terminations, the data point is a measurement at a date (i.e. ""stock"")."
+EBA,EBA_2453417093421073784,EBA_ATY(EBA_md85),2453417093421073784,
+EBA,EBA_12752734694081081489,EBA_ATY(EBA_mi501),12752734694081081489,
+EBA,EBA_12422367236279988940,EBA_ATY(EBA_mi195),12422367236279988940,
+EBA,EBA_2533183658658807666,EBA_ATY([EBA_mi287|EBA_mi172]),2533183658658807666,"Details the data type (e.g. monetary, percentage, string) of the data point. In XBRL, it is the ""primary item"". 
+Generally, it indicates the ""metrics"" of the Main category provided (i.e. answers the question: how is measured?).
+It should be defined for each data point. 
+In the case of monetary values, when the data point is referred to a (change during a) period of time, the member name shall finish in ""(flow)"". When the member name has other terminations, the data point is a measurement at a date (i.e. ""stock"")."
+EBA,EBA_1145387069914959121,EBA_ATY(EBA_mi8),1145387069914959121,
+EBA,EBA_17968217138701766952,EBA_ATY(EBA_md513),17968217138701766952,
+EBA,EBA_1027476932794269362,EBA_ATY(EBA_ei138),1027476932794269362,
+EBA,EBA_2877768726554420407,EBA_ATY([EBA_mi504|EBA_mi53]),2877768726554420407,"Details the data type (e.g. monetary, percentage, string) of the data point. In XBRL, it is the ""primary item"". 
+Generally, it indicates the ""metrics"" of the Main category provided (i.e. answers the question: how is measured?).
+It should be defined for each data point. 
+In the case of monetary values, when the data point is referred to a (change during a) period of time, the member name shall finish in ""(flow)"". When the member name has other terminations, the data point is a measurement at a date (i.e. ""stock"")."
+EBA,EBA_17023929735460116275,EBA_ATY(EBA_md510),17023929735460116275,
+EBA,EBA_17394749200842978972,EBA_ATY(EBA_md687),17394749200842978972,
+EBA,EBA_13781417329170290542,EBA_ATY([EBA_mi287|EBA_mi339]),13781417329170290542,"Details the data type (e.g. monetary, percentage, string) of the data point. In XBRL, it is the ""primary item"". 
+Generally, it indicates the ""metrics"" of the Main category provided (i.e. answers the question: how is measured?).
+It should be defined for each data point. 
+In the case of monetary values, when the data point is referred to a (change during a) period of time, the member name shall finish in ""(flow)"". When the member name has other terminations, the data point is a measurement at a date (i.e. ""stock"")."
+EBA,EBA_13585119110611606349,EBA_ATY([EBA_mi53|EBA_mi159|EBA_mi136]),13585119110611606349,"Details the data type (e.g. monetary, percentage, string) of the data point. In XBRL, it is the ""primary item"". 
+Generally, it indicates the ""metrics"" of the Main category provided (i.e. answers the question: how is measured?).
+It should be defined for each data point. 
+In the case of monetary values, when the data point is referred to a (change during a) period of time, the member name shall finish in ""(flow)"". When the member name has other terminations, the data point is a measurement at a date (i.e. ""stock"")."
+EBA,EBA_6773206181498867364,EBA_ATY([EBA_mi7|EBA_mi504|EBA_mi136|EBA_mi508|EBA_mi53|EBA_mi507]),6773206181498867364,"Details the data type (e.g. monetary, percentage, string) of the data point. In XBRL, it is the ""primary item"". 
+Generally, it indicates the ""metrics"" of the Main category provided (i.e. answers the question: how is measured?).
+It should be defined for each data point. 
+In the case of monetary values, when the data point is referred to a (change during a) period of time, the member name shall finish in ""(flow)"". When the member name has other terminations, the data point is a measurement at a date (i.e. ""stock"")."
+EBA,EBA_2757155370240655130,EBA_ATY(EBA_mi688),2757155370240655130,
+EBA,EBA_17150163622528850248,EBA_ATY(EBA_md71),17150163622528850248,
+EBA,EBA_17039949313590957786,EBA_ATY(EBA_md685),17039949313590957786,
+EBA,EBA_11300007302910151273,EBA_ATY(EBA_mi691),11300007302910151273,
+EBA,EBA_15380925474745723920,EBA_ATY([EBA_ii676]),15380925474745723920,"Details the data type (e.g. monetary, percentage, string) of the data point. In XBRL, it is the ""primary item"". 
+Generally, it indicates the ""metrics"" of the Main category provided (i.e. answers the question: how is measured?).
+It should be defined for each data point. 
+In the case of monetary values, when the data point is referred to a (change during a) period of time, the member name shall finish in ""(flow)"". When the member name has other terminations, the data point is a measurement at a date (i.e. ""stock"")."
+EBA,EBA_9923272301668272591,EBA_ATY(EBA_md684),9923272301668272591,
+EBA,EBA_10158457710816052101,EBA_ATY(EBA_mi502),10158457710816052101,
+EBA,EBA_11983129890249206153,EBA_ATY(EBA_mi500),11983129890249206153,
+EBA,EBA_10001260238303603832,EBA_ATY([EBA_mi53|EBA_mi170]),10001260238303603832,"Details the data type (e.g. monetary, percentage, string) of the data point. In XBRL, it is the ""primary item"". 
+Generally, it indicates the ""metrics"" of the Main category provided (i.e. answers the question: how is measured?).
+It should be defined for each data point. 
+In the case of monetary values, when the data point is referred to a (change during a) period of time, the member name shall finish in ""(flow)"". When the member name has other terminations, the data point is a measurement at a date (i.e. ""stock"")."
+EBA,EBA_16126564944431720418,EBA_ATY(EBA_md104),16126564944431720418,
+EBA,EBA_1731670863685709133,EBA_ATY(EBA_mi689),1731670863685709133,
+EBA,EBA_11803276423861279223,EBA_ATY([EBA_md67]),11803276423861279223,"Details the data type (e.g. monetary, percentage, string) of the data point. In XBRL, it is the ""primary item"". 
+Generally, it indicates the ""metrics"" of the Main category provided (i.e. answers the question: how is measured?).
+It should be defined for each data point. 
+In the case of monetary values, when the data point is referred to a (change during a) period of time, the member name shall finish in ""(flow)"". When the member name has other terminations, the data point is a measurement at a date (i.e. ""stock"")."
+EBA,EBA_998795982918575574,EBA_ATY([EBA_mi287]),998795982918575574,"Details the data type (e.g. monetary, percentage, string) of the data point. In XBRL, it is the ""primary item"". 
+Generally, it indicates the ""metrics"" of the Main category provided (i.e. answers the question: how is measured?).
+It should be defined for each data point. 
+In the case of monetary values, when the data point is referred to a (change during a) period of time, the member name shall finish in ""(flow)"". When the member name has other terminations, the data point is a measurement at a date (i.e. ""stock"")."
+EBA,EBA_13073812415081027283,EBA_ATY([EBA_mi34|EBA_mi37|EBA_mi53]),13073812415081027283,"Details the data type (e.g. monetary, percentage, string) of the data point. In XBRL, it is the ""primary item"". 
+Generally, it indicates the ""metrics"" of the Main category provided (i.e. answers the question: how is measured?).
+It should be defined for each data point. 
+In the case of monetary values, when the data point is referred to a (change during a) period of time, the member name shall finish in ""(flow)"". When the member name has other terminations, the data point is a measurement at a date (i.e. ""stock"")."
+EBA,EBA_14720315306139245657,EBA_ATY(EBA_si169),14720315306139245657,
+EBA,EBA_9228188412307327281,EBA_ATY(EBA_md515),9228188412307327281,
+EBA,EBA_9250586439682908467,EBA_ATY([EBA_mi7]),9250586439682908467,"Details the data type (e.g. monetary, percentage, string) of the data point. In XBRL, it is the ""primary item"". 
+Generally, it indicates the ""metrics"" of the Main category provided (i.e. answers the question: how is measured?).
+It should be defined for each data point. 
+In the case of monetary values, when the data point is referred to a (change during a) period of time, the member name shall finish in ""(flow)"". When the member name has other terminations, the data point is a measurement at a date (i.e. ""stock"")."
+EBA,EBA_3979864799129720644,EBA_ATY(EBA_md140),3979864799129720644,
+EBA,EBA_17228414408754932630,EBA_ATY(EBA_mi109),17228414408754932630,
+EBA,EBA_5389922017240836850,EBA_ATY([EBA_md201|EBA_md239|EBA_md252|EBA_md103|EBA_md202|EBA_md240]),5389922017240836850,"Details the data type (e.g. monetary, percentage, string) of the data point. In XBRL, it is the ""primary item"". 
+Generally, it indicates the ""metrics"" of the Main category provided (i.e. answers the question: how is measured?).
+It should be defined for each data point. 
+In the case of monetary values, when the data point is referred to a (change during a) period of time, the member name shall finish in ""(flow)"". When the member name has other terminations, the data point is a measurement at a date (i.e. ""stock"")."
+EBA,EBA_7940345363080024832,EBA_ATY(EBA_md683),7940345363080024832,
+EBA,EBA_14336257457227958878,EBA_ATY(EBA_si476),14336257457227958878,
+EBA,EBA_10431168129131004067,EBA_ATY([EBA_md677|EBA_md771|EBA_md67]),10431168129131004067,"Details the data type (e.g. monetary, percentage, string) of the data point. In XBRL, it is the ""primary item"". 
+Generally, it indicates the ""metrics"" of the Main category provided (i.e. answers the question: how is measured?).
+It should be defined for each data point. 
+In the case of monetary values, when the data point is referred to a (change during a) period of time, the member name shall finish in ""(flow)"". When the member name has other terminations, the data point is a measurement at a date (i.e. ""stock"")."
+EBA,EBA_10169228275803094796,EBA_ATY([EBA_md677|EBA_md67]),10169228275803094796,"Details the data type (e.g. monetary, percentage, string) of the data point. In XBRL, it is the ""primary item"". 
+Generally, it indicates the ""metrics"" of the Main category provided (i.e. answers the question: how is measured?).
+It should be defined for each data point. 
+In the case of monetary values, when the data point is referred to a (change during a) period of time, the member name shall finish in ""(flow)"". When the member name has other terminations, the data point is a measurement at a date (i.e. ""stock"")."
+EBA,EBA_13051618864322748511,EBA_ATY([EBA_ii676|EBA_mi136]),13051618864322748511,"Details the data type (e.g. monetary, percentage, string) of the data point. In XBRL, it is the ""primary item"". 
+Generally, it indicates the ""metrics"" of the Main category provided (i.e. answers the question: how is measured?).
+It should be defined for each data point. 
+In the case of monetary values, when the data point is referred to a (change during a) period of time, the member name shall finish in ""(flow)"". When the member name has other terminations, the data point is a measurement at a date (i.e. ""stock"")."
+EBA,EBA_17730055579700846142,EBA_ATY([EBA_mi502|EBA_mi53]),17730055579700846142,"Details the data type (e.g. monetary, percentage, string) of the data point. In XBRL, it is the ""primary item"". 
+Generally, it indicates the ""metrics"" of the Main category provided (i.e. answers the question: how is measured?).
+It should be defined for each data point. 
+In the case of monetary values, when the data point is referred to a (change during a) period of time, the member name shall finish in ""(flow)"". When the member name has other terminations, the data point is a measurement at a date (i.e. ""stock"")."
+EBA,EBA_8776245487178564258,EBA_ATY(EBA_mi9),8776245487178564258,
+EBA,EBA_8703195666662489891,EBA_ATY(EBA_mi690),8703195666662489891,
+EBA,EBA_2547900164479790001,EBA_ATY(EBA_md13),2547900164479790001,
+EBA,EBA_17346419575900125981,EBA_ATY(EBA_md509),17346419575900125981,
+EBA,EBA_10048351927562189256,EBA_ATY(EBA_md83),10048351927562189256,
+EBA,EBA_13179012148550052910,EBA_ATY([EBA_mi53|EBA_mi7|EBA_mi504|EBA_mi503]),13179012148550052910,"Details the data type (e.g. monetary, percentage, string) of the data point. In XBRL, it is the ""primary item"". 
+Generally, it indicates the ""metrics"" of the Main category provided (i.e. answers the question: how is measured?).
+It should be defined for each data point. 
+In the case of monetary values, when the data point is referred to a (change during a) period of time, the member name shall finish in ""(flow)"". When the member name has other terminations, the data point is a measurement at a date (i.e. ""stock"")."
+EBA,EBA_4587144591691214044,EBA_ATY([EBA_mi37|EBA_mi53]),4587144591691214044,"Details the data type (e.g. monetary, percentage, string) of the data point. In XBRL, it is the ""primary item"". 
+Generally, it indicates the ""metrics"" of the Main category provided (i.e. answers the question: how is measured?).
+It should be defined for each data point. 
+In the case of monetary values, when the data point is referred to a (change during a) period of time, the member name shall finish in ""(flow)"". When the member name has other terminations, the data point is a measurement at a date (i.e. ""stock"")."
+EBA,EBA_6228350531448385490,EBA_ATY([EBA_mi7|EBA_mi504|EBA_mi136]),6228350531448385490,"Details the data type (e.g. monetary, percentage, string) of the data point. In XBRL, it is the ""primary item"". 
+Generally, it indicates the ""metrics"" of the Main category provided (i.e. answers the question: how is measured?).
+It should be defined for each data point. 
+In the case of monetary values, when the data point is referred to a (change during a) period of time, the member name shall finish in ""(flow)"". When the member name has other terminations, the data point is a measurement at a date (i.e. ""stock"")."
+EBA,EBA_3311632833299677454,EBA_ATY([EBA_md46|EBA_md251|EBA_mi53|EBA_md14|EBA_md73|EBA_md139]),3311632833299677454,"Details the data type (e.g. monetary, percentage, string) of the data point. In XBRL, it is the ""primary item"". 
+Generally, it indicates the ""metrics"" of the Main category provided (i.e. answers the question: how is measured?).
+It should be defined for each data point. 
+In the case of monetary values, when the data point is referred to a (change during a) period of time, the member name shall finish in ""(flow)"". When the member name has other terminations, the data point is a measurement at a date (i.e. ""stock"")."
+EBA,EBA_8618637197431205668,EBA_ATY(EBA_mi692),8618637197431205668,
+EBA,EBA_9206333243553622948,EBA_ATY(EBA_md62),9206333243553622948,
+EBA,EBA_7072593806842095709,EBA_ATY([EBA_mi7|EBA_md511|EBA_md509|EBA_md513|EBA_md515|EBA_md203|EBA_md512|EBA_md510|EBA_md514|EBA_md516|EBA_mi772]),7072593806842095709,"Details the data type (e.g. monetary, percentage, string) of the data point. In XBRL, it is the ""primary item"". 
+Generally, it indicates the ""metrics"" of the Main category provided (i.e. answers the question: how is measured?).
+It should be defined for each data point. 
+In the case of monetary values, when the data point is referred to a (change during a) period of time, the member name shall finish in ""(flow)"". When the member name has other terminations, the data point is a measurement at a date (i.e. ""stock"")."
+EBA,EBA_9245042771024028468,EBA_ATY(EBA_md186),9245042771024028468,
+EBA,EBA_13772013673128075671,EBA_ATY(EBA_mi508),13772013673128075671,
+EBA,EBA_15937377230108731835,EBA_ATY(EBA_md114),15937377230108731835,
+EBA,EBA_10186677196114433684,EBA_ATY([EBA_mi7|EBA_md511|EBA_md509|EBA_md513|EBA_md515|EBA_md203|EBA_md512|EBA_md510|EBA_md514|EBA_md516]),10186677196114433684,"Details the data type (e.g. monetary, percentage, string) of the data point. In XBRL, it is the ""primary item"". 
+Generally, it indicates the ""metrics"" of the Main category provided (i.e. answers the question: how is measured?).
+It should be defined for each data point. 
+In the case of monetary values, when the data point is referred to a (change during a) period of time, the member name shall finish in ""(flow)"". When the member name has other terminations, the data point is a measurement at a date (i.e. ""stock"")."
+EBA,EBA_11640510403163192298,EBA_ATY(EBA_mi164),11640510403163192298,
+EBA,EBA_15959337786267308971,EBA_ATY(EBA_mi770),15959337786267308971,
+EBA,EBA_10086988373380389889,EBA_ATY(EBA_md60),10086988373380389889,
+EBA,EBA_1302313428082739600,EBA_ATY(EBA_md200),1302313428082739600,
+EBA,EBA_14838766789351368950,EBA_ATY(EBA_md139),14838766789351368950,
+EBA,EBA_1471496352342457132,EBA_ATY([EBA_mi339]),1471496352342457132,"Details the data type (e.g. monetary, percentage, string) of the data point. In XBRL, it is the ""primary item"". 
+Generally, it indicates the ""metrics"" of the Main category provided (i.e. answers the question: how is measured?).
+It should be defined for each data point. 
+In the case of monetary values, when the data point is referred to a (change during a) period of time, the member name shall finish in ""(flow)"". When the member name has other terminations, the data point is a measurement at a date (i.e. ""stock"")."
+EBA,EBA_8090216358456386042,EBA_ATY(EBA_mi34),8090216358456386042,
+EBA,EBA_2144806945479782033,EBA_ATY([EBA_mi7|EBA_mi136|EBA_mi508|EBA_mi506|EBA_mi53|EBA_mi505|EBA_mi507]),2144806945479782033,"Details the data type (e.g. monetary, percentage, string) of the data point. In XBRL, it is the ""primary item"". 
+Generally, it indicates the ""metrics"" of the Main category provided (i.e. answers the question: how is measured?).
+It should be defined for each data point. 
+In the case of monetary values, when the data point is referred to a (change during a) period of time, the member name shall finish in ""(flow)"". When the member name has other terminations, the data point is a measurement at a date (i.e. ""stock"")."
+EBA,EBA_12845040784202940501,EBA_ATY(EBA_mi339),12845040784202940501,
+EBA,EBA_17885408158842391463,EBA_ATY(EBA_mi679),17885408158842391463,
+EBA,EBA_2688836106544112767,EBA_ATY(EBA_mi503),2688836106544112767,
+EBA,EBA_15168898319371599562,EBA_ATY([EBA_mi136]),15168898319371599562,"Details the data type (e.g. monetary, percentage, string) of the data point. In XBRL, it is the ""primary item"". 
+Generally, it indicates the ""metrics"" of the Main category provided (i.e. answers the question: how is measured?).
+It should be defined for each data point. 
+In the case of monetary values, when the data point is referred to a (change during a) period of time, the member name shall finish in ""(flow)"". When the member name has other terminations, the data point is a measurement at a date (i.e. ""stock"")."
+EBA,EBA_9088624250072106664,EBA_ATY([EBA_mi129]),9088624250072106664,"Details the data type (e.g. monetary, percentage, string) of the data point. In XBRL, it is the ""primary item"". 
+Generally, it indicates the ""metrics"" of the Main category provided (i.e. answers the question: how is measured?).
+It should be defined for each data point. 
+In the case of monetary values, when the data point is referred to a (change during a) period of time, the member name shall finish in ""(flow)"". When the member name has other terminations, the data point is a measurement at a date (i.e. ""stock"")."
+EBA,EBA_16398537051390904562,EBA_ATY(EBA_ii699),16398537051390904562,
+EBA,EBA_3383954437573185347,EBA_ATY([EBA_md103|EBA_ii699]),3383954437573185347,"Details the data type (e.g. monetary, percentage, string) of the data point. In XBRL, it is the ""primary item"". 
+Generally, it indicates the ""metrics"" of the Main category provided (i.e. answers the question: how is measured?).
+It should be defined for each data point. 
+In the case of monetary values, when the data point is referred to a (change during a) period of time, the member name shall finish in ""(flow)"". When the member name has other terminations, the data point is a measurement at a date (i.e. ""stock"")."
+EBA,EBA_10090642575023122747,EBA_ATY(EBA_mi191),10090642575023122747,
+EBA,EBA_14171737012905495604,EBA_ATY([EBA_mi287|EBA_mi53]),14171737012905495604,"Details the data type (e.g. monetary, percentage, string) of the data point. In XBRL, it is the ""primary item"". 
+Generally, it indicates the ""metrics"" of the Main category provided (i.e. answers the question: how is measured?).
+It should be defined for each data point. 
+In the case of monetary values, when the data point is referred to a (change during a) period of time, the member name shall finish in ""(flow)"". When the member name has other terminations, the data point is a measurement at a date (i.e. ""stock"")."
+EBA,EBA_11521991906781943314,EBA_ATY(EBA_mi35),11521991906781943314,
+EBA,EBA_417878055955018661,EBA_ATY(EBA_pi223),417878055955018661,
+EBA,EBA_16981497299458238488,EBA_ATY([EBA_mi53|EBA_mi136]),16981497299458238488,"Details the data type (e.g. monetary, percentage, string) of the data point. In XBRL, it is the ""primary item"". 
+Generally, it indicates the ""metrics"" of the Main category provided (i.e. answers the question: how is measured?).
+It should be defined for each data point. 
+In the case of monetary values, when the data point is referred to a (change during a) period of time, the member name shall finish in ""(flow)"". When the member name has other terminations, the data point is a measurement at a date (i.e. ""stock"")."
+EBA,EBA_16912801527622893716,EBA_ATY([EBA_ei207|EBA_ei4]),16912801527622893716,"Details the data type (e.g. monetary, percentage, string) of the data point. In XBRL, it is the ""primary item"". 
+Generally, it indicates the ""metrics"" of the Main category provided (i.e. answers the question: how is measured?).
+It should be defined for each data point. 
+In the case of monetary values, when the data point is referred to a (change during a) period of time, the member name shall finish in ""(flow)"". When the member name has other terminations, the data point is a measurement at a date (i.e. ""stock"")."
+EBA,EBA_12241821843951129933,EBA_ATY(EBA_mi170),12241821843951129933,
+EBA,EBA_679327798966221814,EBA_ATY(EBA_ei219),679327798966221814,
+EBA,EBA_14888085587780007808,EBA_ATY(EBA_mi136),14888085587780007808,
+EBA,EBA_5761047437904009774,EBA_ATY(EBA_ei207),5761047437904009774,
+EBA,EBA_4281556020126421551,EBA_ATY([EBA_mi53]),4281556020126421551,"Details the data type (e.g. monetary, percentage, string) of the data point. In XBRL, it is the ""primary item"". 
+Generally, it indicates the ""metrics"" of the Main category provided (i.e. answers the question: how is measured?).
+It should be defined for each data point. 
+In the case of monetary values, when the data point is referred to a (change during a) period of time, the member name shall finish in ""(flow)"". When the member name has other terminations, the data point is a measurement at a date (i.e. ""stock"")."
+EBA,EBA_12587082855268351149,EBA_ATY(EBA_md103),12587082855268351149,
+EBA,EBA_17314727852076773279,EBA_ATY(EBA_si288),17314727852076773279,
+EBA,EBA_8231468321123390510,EBA_ATY(EBA_mi53),8231468321123390510,
+EBA,EBA_3814216245397380505,EBA_ATY(EBA_ei218),3814216245397380505,
+EBA,EBA_17597139074539808599,EBA_ATY(EBA_si289),17597139074539808599,
+EBA,EBA_4799565562160387939,EBA_ATY(EBA_mi129),4799565562160387939,
+EBA,EBA_1678671815251824578,EBA_ATY(EBA_mi287),1678671815251824578,
+EBA,EBA_12228486103355220067,EBA_ATY(EBA_ei152),12228486103355220067,
+EBA,EBA_7817958153591656798,EBA_ATY(EBA_pi221),7817958153591656798,
+EBA,EBA_1466148639018143510,EBA_ATY(EBA_ei4),1466148639018143510,
+EBA,EBA_5774174031714583151,EBA_ATY(EBA_mi7),5774174031714583151,
+EBA,EBA_18384437438483779822,EBA_ATY(EBA_si168),18384437438483779822,
+EBA,EBA_1297198329170426540,EBA_ATY(EBA_mi420),1297198329170426540,
+EBA,EBA_7623249057078686648,EBA_ATY(EBA_mi504),7623249057078686648,
