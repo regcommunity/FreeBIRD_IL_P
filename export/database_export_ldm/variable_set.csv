@@ -1,246 +1,122 @@
 MAINTENANCE_AGENCY_ID,VARIABLE_SET_ID,NAME,CODE,DESCRIPTION
-ECB,MTRCS_F_14.00_MTRCS_REF,Variable Set for MTRCS of the Cube F_14.00,MTRCS_F_14.00_MTRCS_REF,Variable Set for MTRCS of the Cube F_14.00
-ECB,MTRCS_F_23.06_MTRCS_REF,Variable Set for MTRCS of the Cube F_23.06,MTRCS_F_23.06_MTRCS_REF,Variable Set for MTRCS of the Cube F_23.06
 ECB,3120023406042092780_REF,EBA_ATY(EBA_md69) - Reference,3120023406042092780_REF,EBA_ATY(EBA_md69) - Reference
 ECB,17186128226079046680_REF,EBA_ATY(EBA_md216) - Reference,17186128226079046680_REF,EBA_ATY(EBA_md216) - Reference
 ECB,4155188227603224196_REF,EBA_ATY(EBA_md685) - Reference,4155188227603224196_REF,EBA_ATY(EBA_md685) - Reference
-ECB,MTRCS_F_45.03_MTRCS_REF,Variable Set for MTRCS of the Cube F_45.03,MTRCS_F_45.03_MTRCS_REF,Variable Set for MTRCS of the Cube F_45.03
 ECB,4238432481266399990_REF,EBA_ATY(EBA_si169) - Reference,4238432481266399990_REF,EBA_ATY(EBA_si169) - Reference
 ECB,16298269021191872769_REF,EBA_ATY(EBA_md252) - Reference,16298269021191872769_REF,EBA_ATY(EBA_md252) - Reference
 ECB,10447639641125854752_REF,EBA_ATY(EBA_md13) - Reference,10447639641125854752_REF,EBA_ATY(EBA_md13) - Reference
 ECB,1688043581793220531_REF,EBA_ATY(EBA_md60) - Reference,1688043581793220531_REF,EBA_ATY(EBA_md60) - Reference
 ECB,15832968684166532116_REF,EBA_ATY(EBA_mi110) - Reference,15832968684166532116_REF,EBA_ATY(EBA_mi110) - Reference
-ECB,MTRCS_F_23.05_MTRCS_REF,Variable Set for MTRCS of the Cube F_23.05,MTRCS_F_23.05_MTRCS_REF,Variable Set for MTRCS of the Cube F_23.05
-ECB,MTRCS_F_19.00.e_MTRCS_REF,Variable Set for MTRCS of the Cube F_19.00.e,MTRCS_F_19.00.e_MTRCS_REF,Variable Set for MTRCS of the Cube F_19.00.e
 ECB,15781102108515958179_REF,EBA_ATY(EBA_md197) - Reference,15781102108515958179_REF,EBA_ATY(EBA_md197) - Reference
-ECB,MTRCS_F_20.03_MTRCS_REF,Variable Set for MTRCS of the Cube F_20.03,MTRCS_F_20.03_MTRCS_REF,Variable Set for MTRCS of the Cube F_20.03
-ECB,MTRCS_F_11.03.1_MTRCS_REF,Variable Set for MTRCS of the Cube F_11.03.1,MTRCS_F_11.03.1_MTRCS_REF,Variable Set for MTRCS of the Cube F_11.03.1
-ECB,MTRCS_F_13.03.1.b_MTRCS_REF,Variable Set for MTRCS of the Cube F_13.03.1.b,MTRCS_F_13.03.1.b_MTRCS_REF,Variable Set for MTRCS of the Cube F_13.03.1.b
 ECB,15873869302575820389_REF,EBA_ATY(EBA_md104) - Reference,15873869302575820389_REF,EBA_ATY(EBA_md104) - Reference
-ECB,MTRCS_F_25.02.b_MTRCS_REF,Variable Set for MTRCS of the Cube F_25.02.b,MTRCS_F_25.02.b_MTRCS_REF,Variable Set for MTRCS of the Cube F_25.02.b
-ECB,MTRCS_F_04.10_MTRCS_REF,Variable Set for MTRCS of the Cube F_04.10,MTRCS_F_04.10_MTRCS_REF,Variable Set for MTRCS of the Cube F_04.10
 ECB,14201322484001342695_REF,EBA_ATY(EBA_mi7) - Reference,14201322484001342695_REF,EBA_ATY(EBA_mi7) - Reference
 ECB,16769790065540687312_REF,EBA_ATY(EBA_md114) - Reference,16769790065540687312_REF,EBA_ATY(EBA_md114) - Reference
-ECB,MTRCS_F_16.03_MTRCS_REF,Variable Set for MTRCS of the Cube F_16.03,MTRCS_F_16.03_MTRCS_REF,Variable Set for MTRCS of the Cube F_16.03
-ECB,MTRCS_F_08.01.a_MTRCS_REF,Variable Set for MTRCS of the Cube F_08.01.a,MTRCS_F_08.01.a_MTRCS_REF,Variable Set for MTRCS of the Cube F_08.01.a
-ECB,MTRCS_F_25.01.c_MTRCS_REF,Variable Set for MTRCS of the Cube F_25.01.c,MTRCS_F_25.01.c_MTRCS_REF,Variable Set for MTRCS of the Cube F_25.01.c
 ECB,5683672298719308419_REF,EBA_ATY(EBA_mi191) - Reference,5683672298719308419_REF,EBA_ATY(EBA_mi191) - Reference
 ECB,17911574528201435670_REF,EBA_ATY(EBA_md515) - Reference,17911574528201435670_REF,EBA_ATY(EBA_md515) - Reference
 ECB,13098072663541273355_REF,EBA_ATY(EBA_md199) - Reference,13098072663541273355_REF,EBA_ATY(EBA_md199) - Reference
 ECB,14747351583251506353_REF,EBA_ATY(EBA_mi340) - Reference,14747351583251506353_REF,EBA_ATY(EBA_mi340) - Reference
 ECB,3643522002986617066_REF,EBA_ATY(EBA_md14) - Reference,3643522002986617066_REF,EBA_ATY(EBA_md14) - Reference
 ECB,14959619857164496646_REF,EBA_ATY(EBA_si476) - Reference,14959619857164496646_REF,EBA_ATY(EBA_si476) - Reference
-ECB,MTRCS_F_04.05_MTRCS_REF,Variable Set for MTRCS of the Cube F_04.05,MTRCS_F_04.05_MTRCS_REF,Variable Set for MTRCS of the Cube F_04.05
-ECB,MTRCS_F_17.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_17.02,MTRCS_F_17.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_17.02
 ECB,14260327667032302333_REF,EBA_ATY(EBA_mi135) - Reference,14260327667032302333_REF,EBA_ATY(EBA_mi135) - Reference
-ECB,MTRCS_F_24.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_24.02,MTRCS_F_24.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_24.02
-ECB,MTRCS_F_18.00.d_MTRCS_REF,Variable Set for MTRCS of the Cube F_18.00.d,MTRCS_F_18.00.d_MTRCS_REF,Variable Set for MTRCS of the Cube F_18.00.d
-ECB,MTRCS_F_04.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_04.01,MTRCS_F_04.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_04.01
 ECB,11155752204717548458_REF,EBA_ATY(EBA_mi678) - Reference,11155752204717548458_REF,EBA_ATY(EBA_mi678) - Reference
-ECB,MTRCS_F_19.00.c_MTRCS_REF,Variable Set for MTRCS of the Cube F_19.00.c,MTRCS_F_19.00.c_MTRCS_REF,Variable Set for MTRCS of the Cube F_19.00.c
 ECB,15281074544004834307_REF,EBA_ATY(EBA_mi688) - Reference,15281074544004834307_REF,EBA_ATY(EBA_mi688) - Reference
-ECB,MTRCS_F_01.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_01.01,MTRCS_F_01.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_01.01
-ECB,MTRCS_F_17.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_17.01,MTRCS_F_17.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_17.01
-ECB,15763738987323879028_REF,EBA_ATY(EBA_mi45) - Reference,15763738987323879028_REF,EBA_ATY(EBA_mi45) - Reference
 ECB,10755392938081896465_REF,EBA_ATY(EBA_md12) - Reference,10755392938081896465_REF,EBA_ATY(EBA_md12) - Reference
 ECB,9509836001316662777_REF,EBA_ATY(EBA_di113) - Reference,9509836001316662777_REF,EBA_ATY(EBA_di113) - Reference
-ECB,MTRCS_F_45.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_45.01,MTRCS_F_45.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_45.01
 ECB,1017416816873666741_REF,EBA_ATY(EBA_mi770) - Reference,1017416816873666741_REF,EBA_ATY(EBA_mi770) - Reference
 ECB,6750364677940919480_REF,EBA_ATY(EBA_md200) - Reference,6750364677940919480_REF,EBA_ATY(EBA_md200) - Reference
-ECB,MTRCS_F_10.00_MTRCS_REF,Variable Set for MTRCS of the Cube F_10.00,MTRCS_F_10.00_MTRCS_REF,Variable Set for MTRCS of the Cube F_10.00
-ECB,MTRCS_F_11.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_11.02,MTRCS_F_11.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_11.02
 ECB,2508521452773937215_REF,EBA_ATY(EBA_mi35) - Reference,2508521452773937215_REF,EBA_ATY(EBA_mi35) - Reference
 ECB,16261088245049810175_REF,EBA_ATY(EBA_md686) - Reference,16261088245049810175_REF,EBA_ATY(EBA_md686) - Reference
-ECB,MTRCS_F_11.04_MTRCS_REF,Variable Set for MTRCS of the Cube F_11.04,MTRCS_F_11.04_MTRCS_REF,Variable Set for MTRCS of the Cube F_11.04
-ECB,MTRCS_F_07.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_07.02,MTRCS_F_07.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_07.02
 ECB,17626844296030320267_REF,EBA_ATY(EBA_ri769) - Reference,17626844296030320267_REF,EBA_ATY(EBA_ri769) - Reference
-ECB,MTRCS_F_23.04_MTRCS_REF,Variable Set for MTRCS of the Cube F_23.04,MTRCS_F_23.04_MTRCS_REF,Variable Set for MTRCS of the Cube F_23.04
-ECB,MTRCS_F_04.02.2_MTRCS_REF,Variable Set for MTRCS of the Cube F_04.02.2,MTRCS_F_04.02.2_MTRCS_REF,Variable Set for MTRCS of the Cube F_04.02.2
 ECB,725273257492148005_REF,EBA_ATY(EBA_mi172) - Reference,725273257492148005_REF,EBA_ATY(EBA_mi172) - Reference
-ECB,MTRCS_F_00.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_00.01,MTRCS_F_00.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_00.01
-ECB,MTRCS_F_16.04.1_MTRCS_REF,Variable Set for MTRCS of the Cube F_16.04.1,MTRCS_F_16.04.1_MTRCS_REF,Variable Set for MTRCS of the Cube F_16.04.1
 ECB,6056665978884242883_REF,EBA_ATY(EBA_ei138) - Reference,6056665978884242883_REF,EBA_ATY(EBA_ei138) - Reference
 ECB,16556802154542118490_REF,EBA_ATY(EBA_mi9) - Reference,16556802154542118490_REF,EBA_ATY(EBA_mi9) - Reference
-ECB,MTRCS_F_40.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_40.02,MTRCS_F_40.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_40.02
-ECB,MTRCS_F_13.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_13.01,MTRCS_F_13.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_13.01
 ECB,13342484621215892839_REF,EBA_ATY(EBA_md201) - Reference,13342484621215892839_REF,EBA_ATY(EBA_md201) - Reference
 ECB,8151035684663916366_REF,EBA_ATY(EBA_md105) - Reference,8151035684663916366_REF,EBA_ATY(EBA_md105) - Reference
 ECB,988632928423637155_REF,EBA_ATY(EBA_ei365) - Reference,988632928423637155_REF,EBA_ATY(EBA_ei365) - Reference
 ECB,5124173598708528704_REF,EBA_ATY(EBA_md514) - Reference,5124173598708528704_REF,EBA_ATY(EBA_md514) - Reference
-ECB,MTRCS_F_03.00_MTRCS_REF,Variable Set for MTRCS of the Cube F_03.00,MTRCS_F_03.00_MTRCS_REF,Variable Set for MTRCS of the Cube F_03.00
 ECB,15582466232844993095_REF,EBA_ATY(EBA_mi129) - Reference,15582466232844993095_REF,EBA_ATY(EBA_mi129) - Reference
-ECB,MTRCS_F_19.00.b_MTRCS_REF,Variable Set for MTRCS of the Cube F_19.00.b,MTRCS_F_19.00.b_MTRCS_REF,Variable Set for MTRCS of the Cube F_19.00.b
-ECB,MTRCS_F_09.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_09.02,MTRCS_F_09.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_09.02
 ECB,8000921335479731010_REF,EBA_ATY(EBA_md516) - Reference,8000921335479731010_REF,EBA_ATY(EBA_md516) - Reference
-ECB,MTRCS_F_16.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_16.02,MTRCS_F_16.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_16.02
 ECB,6691857468719214238_REF,EBA_ATY(EBA_mi697) - Reference,6691857468719214238_REF,EBA_ATY(EBA_mi697) - Reference
-ECB,MTRCS_F_09.01.1_MTRCS_REF,Variable Set for MTRCS of the Cube F_09.01.1,MTRCS_F_09.01.1_MTRCS_REF,Variable Set for MTRCS of the Cube F_09.01.1
 ECB,4036245234541037893_REF,EBA_ATY(EBA_md511) - Reference,4036245234541037893_REF,EBA_ATY(EBA_md511) - Reference
-ECB,MTRCS_F_12.01.b_MTRCS_REF,Variable Set for MTRCS of the Cube F_12.01.b,MTRCS_F_12.01.b_MTRCS_REF,Variable Set for MTRCS of the Cube F_12.01.b
 ECB,2990176717101267012_REF,EBA_ATY(EBA_md512) - Reference,2990176717101267012_REF,EBA_ATY(EBA_md512) - Reference
 ECB,11294697816498749024_REF,EBA_ATY(EBA_ei218) - Reference,11294697816498749024_REF,EBA_ATY(EBA_ei218) - Reference
 ECB,16884332320913229156_REF,EBA_ATY(EBA_md73) - Reference,16884332320913229156_REF,EBA_ATY(EBA_md73) - Reference
-ECB,MTRCS_F_41.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_41.01,MTRCS_F_41.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_41.01
-ECB,MTRCS_F_08.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_08.02,MTRCS_F_08.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_08.02
-ECB,MTRCS_F_20.06_MTRCS_REF,Variable Set for MTRCS of the Cube F_20.06,MTRCS_F_20.06_MTRCS_REF,Variable Set for MTRCS of the Cube F_20.06
-ECB,MTRCS_F_11.03_MTRCS_REF,Variable Set for MTRCS of the Cube F_11.03,MTRCS_F_11.03_MTRCS_REF,Variable Set for MTRCS of the Cube F_11.03
-ECB,MTRCS_F_40.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_40.01,MTRCS_F_40.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_40.01
-ECB,MTRCS_F_07.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_07.01,MTRCS_F_07.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_07.01
-ECB,MTRCS_F_22.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_22.02,MTRCS_F_22.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_22.02
 ECB,3513660512628058048_REF,EBA_ATY(EBA_mi507) - Reference,3513660512628058048_REF,EBA_ATY(EBA_mi507) - Reference
 ECB,9346864144406551648_REF,EBA_ATY(EBA_mi195) - Reference,9346864144406551648_REF,EBA_ATY(EBA_mi195) - Reference
-ECB,MTRCS_F_04.04.1_MTRCS_REF,Variable Set for MTRCS of the Cube F_04.04.1,MTRCS_F_04.04.1_MTRCS_REF,Variable Set for MTRCS of the Cube F_04.04.1
-ECB,MTRCS_F_31.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_31.02,MTRCS_F_31.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_31.02
 ECB,14843193351371296448_REF,EBA_ATY(EBA_mi134) - Reference,14843193351371296448_REF,EBA_ATY(EBA_mi134) - Reference
-ECB,MTRCS_F_25.02.c_MTRCS_REF,Variable Set for MTRCS of the Cube F_25.02.c,MTRCS_F_25.02.c_MTRCS_REF,Variable Set for MTRCS of the Cube F_25.02.c
 ECB,15280305744003944858_REF,EBA_ATY(EBA_md149) - Reference,15280305744003944858_REF,EBA_ATY(EBA_md149) - Reference
 ECB,10310548703140933600_REF,EBA_ATY(EBA_mi696) - Reference,10310548703140933600_REF,EBA_ATY(EBA_mi696) - Reference
-ECB,MTRCS_F_02.00_MTRCS_REF,Variable Set for MTRCS of the Cube F_02.00,MTRCS_F_02.00_MTRCS_REF,Variable Set for MTRCS of the Cube F_02.00
-ECB,MTRCS_F_45.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_45.02,MTRCS_F_45.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_45.02
-ECB,MTRCS_F_25.03.b_MTRCS_REF,Variable Set for MTRCS of the Cube F_25.03.b,MTRCS_F_25.03.b_MTRCS_REF,Variable Set for MTRCS of the Cube F_25.03.b
 ECB,4433237475396205970_REF,EBA_ATY(EBA_md683) - Reference,4433237475396205970_REF,EBA_ATY(EBA_md683) - Reference
 ECB,11048243512134927963_REF,EBA_ATY(EBA_md70) - Reference,11048243512134927963_REF,EBA_ATY(EBA_md70) - Reference
-ECB,MTRCS_F_46.00_MTRCS_REF,Variable Set for MTRCS of the Cube F_46.00,MTRCS_F_46.00_MTRCS_REF,Variable Set for MTRCS of the Cube F_46.00
-ECB,MTRCS_F_05.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_05.01,MTRCS_F_05.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_05.01
 ECB,10021977646305939201_REF,EBA_ATY(EBA_mi692) - Reference,10021977646305939201_REF,EBA_ATY(EBA_mi692) - Reference
-ECB,MTRCS_F_25.02.a_MTRCS_REF,Variable Set for MTRCS of the Cube F_25.02.a,MTRCS_F_25.02.a_MTRCS_REF,Variable Set for MTRCS of the Cube F_25.02.a
-ECB,MTRCS_F_13.03.1.a_MTRCS_REF,Variable Set for MTRCS of the Cube F_13.03.1.a,MTRCS_F_13.03.1.a_MTRCS_REF,Variable Set for MTRCS of the Cube F_13.03.1.a
-ECB,MTRCS_F_08.01.b_MTRCS_REF,Variable Set for MTRCS of the Cube F_08.01.b,MTRCS_F_08.01.b_MTRCS_REF,Variable Set for MTRCS of the Cube F_08.01.b
 ECB,3022830411552321978_REF,EBA_ATY(EBA_mi693) - Reference,3022830411552321978_REF,EBA_ATY(EBA_mi693) - Reference
 ECB,14683086469168280223_REF,EBA_ATY(EBA_si477) - Reference,14683086469168280223_REF,EBA_ATY(EBA_si477) - Reference
-ECB,MTRCS_F_18.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_18.01,MTRCS_F_18.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_18.01
 ECB,2586680230449591099_REF,EBA_ATY(EBA_mi109) - Reference,2586680230449591099_REF,EBA_ATY(EBA_mi109) - Reference
 ECB,1874545491917404562_REF,EBA_ATY(EBA_mi506) - Reference,1874545491917404562_REF,EBA_ATY(EBA_mi506) - Reference
-ECB,MTRCS_F_23.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_23.02,MTRCS_F_23.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_23.02
 ECB,4934147852933068593_REF,EBA_ATY(EBA_md140) - Reference,4934147852933068593_REF,EBA_ATY(EBA_md140) - Reference
-ECB,MTRCS_F_09.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_09.01,MTRCS_F_09.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_09.01
 ECB,3306936036550784077_REF,EBA_ATY(EBA_md108) - Reference,3306936036550784077_REF,EBA_ATY(EBA_md108) - Reference
-ECB,MTRCS_F_25.03.a_MTRCS_REF,Variable Set for MTRCS of the Cube F_25.03.a,MTRCS_F_25.03.a_MTRCS_REF,Variable Set for MTRCS of the Cube F_25.03.a
 ECB,8732297734646917219_REF,EBA_ATY(EBA_md59) - Reference,8732297734646917219_REF,EBA_ATY(EBA_md59) - Reference
-ECB,MTRCS_F_44.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_44.02,MTRCS_F_44.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_44.02
 ECB,1777643580690892578_REF,EBA_ATY(EBA_md254) - Reference,1777643580690892578_REF,EBA_ATY(EBA_md254) - Reference
 ECB,14010685629810865207_REF,EBA_ATY(EBA_md203) - Reference,14010685629810865207_REF,EBA_ATY(EBA_md203) - Reference
-ECB,MTRCS_F_16.06_MTRCS_REF,Variable Set for MTRCS of the Cube F_16.06,MTRCS_F_16.06_MTRCS_REF,Variable Set for MTRCS of the Cube F_16.06
 ECB,3580546362157940484_REF,EBA_ATY(EBA_md675) - Reference,3580546362157940484_REF,EBA_ATY(EBA_md675) - Reference
-ECB,MTRCS_F_04.07_MTRCS_REF,Variable Set for MTRCS of the Cube F_04.07,MTRCS_F_04.07_MTRCS_REF,Variable Set for MTRCS of the Cube F_04.07
-ECB,MTRCS_F_04.03.1_MTRCS_REF,Variable Set for MTRCS of the Cube F_04.03.1,MTRCS_F_04.03.1_MTRCS_REF,Variable Set for MTRCS of the Cube F_04.03.1
 ECB,14543394195450354929_REF,EBA_ATY(EBA_md510) - Reference,14543394195450354929_REF,EBA_ATY(EBA_md510) - Reference
 ECB,7063043392329280990_REF,EBA_ATY(EBA_mi503) - Reference,7063043392329280990_REF,EBA_ATY(EBA_mi503) - Reference
-ECB,MTRCS_F_26.00.b_MTRCS_REF,Variable Set for MTRCS of the Cube F_26.00.b,MTRCS_F_26.00.b_MTRCS_REF,Variable Set for MTRCS of the Cube F_26.00.b
-ECB,MTRCS_F_23.03_MTRCS_REF,Variable Set for MTRCS of the Cube F_23.03,MTRCS_F_23.03_MTRCS_REF,Variable Set for MTRCS of the Cube F_23.03
 ECB,17738000420872972734_REF,EBA_ATY(EBA_ii676) - Reference,17738000420872972734_REF,EBA_ATY(EBA_ii676) - Reference
-ECB,MTRCS_F_41.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_41.02,MTRCS_F_41.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_41.02
 ECB,9338417940411742131_REF,EBA_ATY(EBA_md150) - Reference,9338417940411742131_REF,EBA_ATY(EBA_md150) - Reference
 ECB,5018436799317893249_REF,EBA_ATY(EBA_si475) - Reference,5018436799317893249_REF,EBA_ATY(EBA_si475) - Reference
-ECB,MTRCS_F_18.00.b_MTRCS_REF,Variable Set for MTRCS of the Cube F_18.00.b,MTRCS_F_18.00.b_MTRCS_REF,Variable Set for MTRCS of the Cube F_18.00.b
 ECB,9488831869283455922_REF,EBA_ATY(EBA_md147) - Reference,9488831869283455922_REF,EBA_ATY(EBA_md147) - Reference
-ECB,MTRCS_F_19.00.d_MTRCS_REF,Variable Set for MTRCS of the Cube F_19.00.d,MTRCS_F_19.00.d_MTRCS_REF,Variable Set for MTRCS of the Cube F_19.00.d
-ECB,MTRCS_F_18.00.c_MTRCS_REF,Variable Set for MTRCS of the Cube F_18.00.c,MTRCS_F_18.00.c_MTRCS_REF,Variable Set for MTRCS of the Cube F_18.00.c
-ECB,MTRCS_F_25.01.b_MTRCS_REF,Variable Set for MTRCS of the Cube F_25.01.b,MTRCS_F_25.01.b_MTRCS_REF,Variable Set for MTRCS of the Cube F_25.01.b
 ECB,4034868948470850090_REF,EBA_ATY(EBA_mi679) - Reference,4034868948470850090_REF,EBA_ATY(EBA_mi679) - Reference
 ECB,8386035556766474584_REF,EBA_ATY(EBA_mi501) - Reference,8386035556766474584_REF,EBA_ATY(EBA_mi501) - Reference
 ECB,14530696220134357986_REF,EBA_ATY(EBA_mi65) - Reference,14530696220134357986_REF,EBA_ATY(EBA_mi65) - Reference
-ECB,MTRCS_F_04.09_MTRCS_REF,Variable Set for MTRCS of the Cube F_04.09,MTRCS_F_04.09_MTRCS_REF,Variable Set for MTRCS of the Cube F_04.09
-ECB,MTRCS_F_13.03_MTRCS_REF,Variable Set for MTRCS of the Cube F_13.03,MTRCS_F_13.03_MTRCS_REF,Variable Set for MTRCS of the Cube F_13.03
 ECB,2296479326008667036_REF,EBA_ATY(EBA_mi164) - Reference,2296479326008667036_REF,EBA_ATY(EBA_mi164) - Reference
 ECB,17077482325396553192_REF,EBA_ATY(EBA_mi43) - Reference,17077482325396553192_REF,EBA_ATY(EBA_mi43) - Reference
 ECB,17220670634258440943_REF,EBA_ATY(EBA_md62) - Reference,17220670634258440943_REF,EBA_ATY(EBA_md62) - Reference
 ECB,15213274140460021143_REF,EBA_ATY(EBA_md72) - Reference,15213274140460021143_REF,EBA_ATY(EBA_md72) - Reference
-ECB,MTRCS_F_15.00.a_MTRCS_REF,Variable Set for MTRCS of the Cube F_15.00.a,MTRCS_F_15.00.a_MTRCS_REF,Variable Set for MTRCS of the Cube F_15.00.a
-ECB,MTRCS_F_47.00_MTRCS_REF,Variable Set for MTRCS of the Cube F_47.00,MTRCS_F_47.00_MTRCS_REF,Variable Set for MTRCS of the Cube F_47.00
-ECB,MTRCS_F_04.06_MTRCS_REF,Variable Set for MTRCS of the Cube F_04.06,MTRCS_F_04.06_MTRCS_REF,Variable Set for MTRCS of the Cube F_04.06
 ECB,16615736267809646416_REF,EBA_ATY(EBA_md239) - Reference,16615736267809646416_REF,EBA_ATY(EBA_md239) - Reference
-ECB,MTRCS_F_20.05.a_MTRCS_REF,Variable Set for MTRCS of the Cube F_20.05.a,MTRCS_F_20.05.a_MTRCS_REF,Variable Set for MTRCS of the Cube F_20.05.a
 ECB,10625761857040475626_REF,EBA_ATY(EBA_md67) - Reference,10625761857040475626_REF,EBA_ATY(EBA_md67) - Reference
-ECB,MTRCS_F_25.01.a_MTRCS_REF,Variable Set for MTRCS of the Cube F_25.01.a,MTRCS_F_25.01.a_MTRCS_REF,Variable Set for MTRCS of the Cube F_25.01.a
 ECB,14242093643207006424_REF,EBA_ATY(EBA_md83) - Reference,14242093643207006424_REF,EBA_ATY(EBA_md83) - Reference
 ECB,909255488769815556_REF,EBA_ATY(EBA_mi504) - Reference,909255488769815556_REF,EBA_ATY(EBA_mi504) - Reference
 ECB,4117253993722026055_REF,EBA_ATY(EBA_ii694) - Reference,4117253993722026055_REF,EBA_ATY(EBA_ii694) - Reference
-ECB,MTRCS_F_12.00_MTRCS_REF,Variable Set for MTRCS of the Cube F_12.00,MTRCS_F_12.00_MTRCS_REF,Variable Set for MTRCS of the Cube F_12.00
-ECB,MTRCS_F_20.05.b_MTRCS_REF,Variable Set for MTRCS of the Cube F_20.05.b,MTRCS_F_20.05.b_MTRCS_REF,Variable Set for MTRCS of the Cube F_20.05.b
-ECB,MTRCS_F_18.02.c_MTRCS_REF,Variable Set for MTRCS of the Cube F_18.02.c,MTRCS_F_18.02.c_MTRCS_REF,Variable Set for MTRCS of the Cube F_18.02.c
-ECB,MTRCS_F_13.02.1.b_MTRCS_REF,Variable Set for MTRCS of the Cube F_13.02.1.b,MTRCS_F_13.02.1.b_MTRCS_REF,Variable Set for MTRCS of the Cube F_13.02.1.b
-ECB,MTRCS_F_31.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_31.01,MTRCS_F_31.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_31.01
 ECB,9767750558645521852_REF,EBA_ATY(EBA_mi691) - Reference,9767750558645521852_REF,EBA_ATY(EBA_mi691) - Reference
 ECB,9677777298412393391_REF,EBA_ATY(EBA_md509) - Reference,9677777298412393391_REF,EBA_ATY(EBA_md509) - Reference
-ECB,MTRCS_F_30.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_30.01,MTRCS_F_30.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_30.01
 ECB,18078116867075660175_REF,EBA_ATY(EBA_md202) - Reference,18078116867075660175_REF,EBA_ATY(EBA_md202) - Reference
-ECB,MTRCS_F_16.07.b_MTRCS_REF,Variable Set for MTRCS of the Cube F_16.07.b,MTRCS_F_16.07.b_MTRCS_REF,Variable Set for MTRCS of the Cube F_16.07.b
-ECB,MTRCS_F_24.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_24.01,MTRCS_F_24.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_24.01
 ECB,8531648081192822646_REF,EBA_ATY(EBA_md186) - Reference,8531648081192822646_REF,EBA_ATY(EBA_md186) - Reference
-ECB,MTRCS_F_16.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_16.01,MTRCS_F_16.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_16.01
-ECB,MTRCS_F_24.03_MTRCS_REF,Variable Set for MTRCS of the Cube F_24.03,MTRCS_F_24.03_MTRCS_REF,Variable Set for MTRCS of the Cube F_24.03
 ECB,9348397123312128136_REF,EBA_ATY(EBA_md103) - Reference,9348397123312128136_REF,EBA_ATY(EBA_md103) - Reference
 ECB,9611914866463986113_REF,EBA_ATY(EBA_md249) - Reference,9611914866463986113_REF,EBA_ATY(EBA_md249) - Reference
-ECB,MTRCS_F_06.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_06.01,MTRCS_F_06.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_06.01
 ECB,13417561674237711791_REF,EBA_ATY(EBA_mi508) - Reference,13417561674237711791_REF,EBA_ATY(EBA_mi508) - Reference
-ECB,MTRCS_F_20.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_20.01,MTRCS_F_20.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_20.01
 ECB,8237426778662573009_REF,EBA_ATY(EBA_md684) - Reference,8237426778662573009_REF,EBA_ATY(EBA_md684) - Reference
-ECB,MTRCS_F_17.03_MTRCS_REF,Variable Set for MTRCS of the Cube F_17.03,MTRCS_F_17.03_MTRCS_REF,Variable Set for MTRCS of the Cube F_17.03
 ECB,8872822698139644453_REF,EBA_ATY(EBA_si299) - Reference,8872822698139644453_REF,EBA_ATY(EBA_si299) - Reference
 ECB,15861555230092883852_REF,EBA_ATY(EBA_pi221) - Reference,15861555230092883852_REF,EBA_ATY(EBA_pi221) - Reference
 ECB,13340907475493141665_REF,EBA_ATY(EBA_md85) - Reference,13340907475493141665_REF,EBA_ATY(EBA_md85) - Reference
 ECB,2035851618792055694_REF,EBA_ATY(EBA_md11) - Reference,2035851618792055694_REF,EBA_ATY(EBA_md11) - Reference
 ECB,11381913425434114974_REF,EBA_ATY(EBA_mi682) - Reference,11381913425434114974_REF,EBA_ATY(EBA_mi682) - Reference
 ECB,18275956648139188358_REF,EBA_ATY(EBA_ei364) - Reference,18275956648139188358_REF,EBA_ATY(EBA_ei364) - Reference
-ECB,MTRCS_F_11.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_11.01,MTRCS_F_11.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_11.01
-ECB,MTRCS_F_44.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_44.01,MTRCS_F_44.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_44.01
-ECB,MTRCS_F_44.03_MTRCS_REF,Variable Set for MTRCS of the Cube F_44.03,MTRCS_F_44.03_MTRCS_REF,Variable Set for MTRCS of the Cube F_44.03
-ECB,MTRCS_F_43.00_MTRCS_REF,Variable Set for MTRCS of the Cube F_43.00,MTRCS_F_43.00_MTRCS_REF,Variable Set for MTRCS of the Cube F_43.00
 ECB,14908322317594720467_REF,EBA_ATY(EBA_mi136) - Reference,14908322317594720467_REF,EBA_ATY(EBA_mi136) - Reference
-ECB,MTRCS_F_20.07.1_MTRCS_REF,Variable Set for MTRCS of the Cube F_20.07.1,MTRCS_F_20.07.1_MTRCS_REF,Variable Set for MTRCS of the Cube F_20.07.1
-ECB,MTRCS_F_19.00.a_MTRCS_REF,Variable Set for MTRCS of the Cube F_19.00.a,MTRCS_F_19.00.a_MTRCS_REF,Variable Set for MTRCS of the Cube F_19.00.a
 ECB,16827164688508751619_REF,EBA_ATY(EBA_mi339) - Reference,16827164688508751619_REF,EBA_ATY(EBA_mi339) - Reference
-ECB,MTRCS_F_20.04_MTRCS_REF,Variable Set for MTRCS of the Cube F_20.04,MTRCS_F_20.04_MTRCS_REF,Variable Set for MTRCS of the Cube F_20.04
 ECB,1914567176785075883_REF,EBA_ATY(EBA_ii699) - Reference,1914567176785075883_REF,EBA_ATY(EBA_ii699) - Reference
 ECB,5514973550143905855_REF,EBA_ATY(EBA_md687) - Reference,5514973550143905855_REF,EBA_ATY(EBA_md687) - Reference
-ECB,MTRCS_F_22.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_22.01,MTRCS_F_22.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_22.01
-ECB,MTRCS_F_21.00_MTRCS_REF,Variable Set for MTRCS of the Cube F_21.00,MTRCS_F_21.00_MTRCS_REF,Variable Set for MTRCS of the Cube F_21.00
 ECB,6749189447780161481_REF,EBA_ATY(EBA_mi689) - Reference,6749189447780161481_REF,EBA_ATY(EBA_mi689) - Reference
 ECB,9850692450922271703_REF,EBA_ATY(EBA_mi500) - Reference,9850692450922271703_REF,EBA_ATY(EBA_mi500) - Reference
 ECB,13109409736578551112_REF,EBA_ATY(EBA_mi505) - Reference,13109409736578551112_REF,EBA_ATY(EBA_mi505) - Reference
 ECB,707240439644672668_REF,EBA_ATY(EBA_mi502) - Reference,707240439644672668_REF,EBA_ATY(EBA_mi502) - Reference
 ECB,11207418868416368889_REF,EBA_ATY(EBA_mi772) - Reference,11207418868416368889_REF,EBA_ATY(EBA_mi772) - Reference
-ECB,MTRCS_F_44.04_MTRCS_REF,Variable Set for MTRCS of the Cube F_44.04,MTRCS_F_44.04_MTRCS_REF,Variable Set for MTRCS of the Cube F_44.04
 ECB,5201938199921205623_REF,EBA_ATY(EBA_md242) - Reference,5201938199921205623_REF,EBA_ATY(EBA_md242) - Reference
 ECB,18200570361412812649_REF,EBA_ATY(EBA_mi37) - Reference,18200570361412812649_REF,EBA_ATY(EBA_mi37) - Reference
 ECB,13701869675344776781_REF,EBA_ATY(EBA_md151) - Reference,13701869675344776781_REF,EBA_ATY(EBA_md151) - Reference
-ECB,MTRCS_F_30.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_30.02,MTRCS_F_30.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_30.02
 ECB,1343878533097320678_REF,EBA_ATY(EBA_md131) - Reference,1343878533097320678_REF,EBA_ATY(EBA_md131) - Reference
-ECB,MTRCS_F_16.04_MTRCS_REF,Variable Set for MTRCS of the Cube F_16.04,MTRCS_F_16.04_MTRCS_REF,Variable Set for MTRCS of the Cube F_16.04
 ECB,11551214758248798519_REF,EBA_ATY(EBA_md210) - Reference,11551214758248798519_REF,EBA_ATY(EBA_md210) - Reference
 ECB,10370576766397065305_REF,EBA_ATY(EBA_md233) - Reference,10370576766397065305_REF,EBA_ATY(EBA_md233) - Reference
 ECB,2075401706210063639_REF,EBA_ATY(EBA_mi66) - Reference,2075401706210063639_REF,EBA_ATY(EBA_mi66) - Reference
-ECB,MTRCS_F_04.08_MTRCS_REF,Variable Set for MTRCS of the Cube F_04.08,MTRCS_F_04.08_MTRCS_REF,Variable Set for MTRCS of the Cube F_04.08
-ECB,MTRCS_F_20.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_20.02,MTRCS_F_20.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_20.02
-ECB,MTRCS_F_23.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_23.01,MTRCS_F_23.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_23.01
 ECB,11105292696563128214_REF,EBA_ATY(EBA_md71) - Reference,11105292696563128214_REF,EBA_ATY(EBA_md71) - Reference
-ECB,MTRCS_F_42.00_MTRCS_REF,Variable Set for MTRCS of the Cube F_42.00,MTRCS_F_42.00_MTRCS_REF,Variable Set for MTRCS of the Cube F_42.00
-ECB,MTRCS_F_18.02.a_MTRCS_REF,Variable Set for MTRCS of the Cube F_18.02.a,MTRCS_F_18.02.a_MTRCS_REF,Variable Set for MTRCS of the Cube F_18.02.a
-ECB,MTRCS_F_16.07.a_MTRCS_REF,Variable Set for MTRCS of the Cube F_16.07.a,MTRCS_F_16.07.a_MTRCS_REF,Variable Set for MTRCS of the Cube F_16.07.a
 ECB,10276723308362691963_REF,EBA_ATY(EBA_ri695) - Reference,10276723308362691963_REF,EBA_ATY(EBA_ri695) - Reference
-ECB,MTRCS_F_15.00.b_MTRCS_REF,Variable Set for MTRCS of the Cube F_15.00.b,MTRCS_F_15.00.b_MTRCS_REF,Variable Set for MTRCS of the Cube F_15.00.b
 ECB,13954865385766232297_REF,EBA_ATY(EBA_md771) - Reference,13954865385766232297_REF,EBA_ATY(EBA_md771) - Reference
-ECB,MTRCS_F_25.01.d_MTRCS_REF,Variable Set for MTRCS of the Cube F_25.01.d,MTRCS_F_25.01.d_MTRCS_REF,Variable Set for MTRCS of the Cube F_25.01.d
 ECB,2970692285882776276_REF,EBA_ATY(EBA_md139) - Reference,2970692285882776276_REF,EBA_ATY(EBA_md139) - Reference
-ECB,MTRCS_F_18.00.e_MTRCS_REF,Variable Set for MTRCS of the Cube F_18.00.e,MTRCS_F_18.00.e_MTRCS_REF,Variable Set for MTRCS of the Cube F_18.00.e
-ECB,MTRCS_F_18.02.b_MTRCS_REF,Variable Set for MTRCS of the Cube F_18.02.b,MTRCS_F_18.02.b_MTRCS_REF,Variable Set for MTRCS of the Cube F_18.02.b
 ECB,6631604508003842444_REF,EBA_ATY(EBA_md251) - Reference,6631604508003842444_REF,EBA_ATY(EBA_md251) - Reference
 ECB,16327465111797747933_REF,EBA_ATY(EBA_md241) - Reference,16327465111797747933_REF,EBA_ATY(EBA_md241) - Reference
-ECB,MTRCS_F_04.02.1_MTRCS_REF,Variable Set for MTRCS of the Cube F_04.02.1,MTRCS_F_04.02.1_MTRCS_REF,Variable Set for MTRCS of the Cube F_04.02.1
-ECB,MTRCS_F_01.03_MTRCS_REF,Variable Set for MTRCS of the Cube F_01.03,MTRCS_F_01.03_MTRCS_REF,Variable Set for MTRCS of the Cube F_01.03
-ECB,MTRCS_F_01.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_01.02,MTRCS_F_01.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_01.02
 ECB,9544537712173802836_REF,EBA_ATY(EBA_mi690) - Reference,9544537712173802836_REF,EBA_ATY(EBA_mi690) - Reference
 ECB,11122883669815963861_REF,EBA_ATY(EBA_md677) - Reference,11122883669815963861_REF,EBA_ATY(EBA_md677) - Reference
-ECB,MTRCS_F_12.01.a_MTRCS_REF,Variable Set for MTRCS of the Cube F_12.01.a,MTRCS_F_12.01.a_MTRCS_REF,Variable Set for MTRCS of the Cube F_12.01.a
 ECB,7526256445328679720_REF,EBA_ATY(EBA_md240) - Reference,7526256445328679720_REF,EBA_ATY(EBA_md240) - Reference
-ECB,MTRCS_F_13.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_13.02,MTRCS_F_13.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_13.02
 ECB,637091515190721272_REF,EBA_ATY(EBA_mi287) - Reference,637091515190721272_REF,EBA_ATY(EBA_mi287) - Reference
-ECB,MTRCS_F_16.05_MTRCS_REF,Variable Set for MTRCS of the Cube F_16.05,MTRCS_F_16.05_MTRCS_REF,Variable Set for MTRCS of the Cube F_16.05
-ECB,MTRCS_F_12.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_12.02,MTRCS_F_12.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_12.02
-ECB,MTRCS_F_26.00.a_MTRCS_REF,Variable Set for MTRCS of the Cube F_26.00.a,MTRCS_F_26.00.a_MTRCS_REF,Variable Set for MTRCS of the Cube F_26.00.a
-ECB,MTRCS_F_18.00.a_MTRCS_REF,Variable Set for MTRCS of the Cube F_18.00.a,MTRCS_F_18.00.a_MTRCS_REF,Variable Set for MTRCS of the Cube F_18.00.a
-ECB,MTRCS_F_13.02.1.a_MTRCS_REF,Variable Set for MTRCS of the Cube F_13.02.1.a,MTRCS_F_13.02.1.a_MTRCS_REF,Variable Set for MTRCS of the Cube F_13.02.1.a
 ECB,7845788412536202589_REF,EBA_ATY(EBA_md46) - Reference,7845788412536202589_REF,EBA_ATY(EBA_md46) - Reference
 ECB,15737067412521553465_REF,EBA_ATY(EBA_md513) - Reference,15737067412521553465_REF,EBA_ATY(EBA_md513) - Reference
 ECB,826386289683186479_REF,EBA_ATY(EBA_mi53) - Reference,826386289683186479_REF,EBA_ATY(EBA_mi53) - Reference
@@ -251,11 +127,51 @@ ECB,9832991519487986304_REF,EBA_ATY(EBA_si289) - Reference,9832991519487986304_R
 ECB,10170972515839255245_REF,EBA_ATY(EBA_mi170) - Reference,10170972515839255245_REF,EBA_ATY(EBA_mi170) - Reference
 ECB,13008077944443989364_REF,EBA_ATY(EBA_ei152) - Reference,13008077944443989364_REF,EBA_ATY(EBA_ei152) - Reference
 ECB,15827577643655367818_REF,EBA_ATY(EBA_si168) - Reference,15827577643655367818_REF,EBA_ATY(EBA_si168) - Reference
-ECB,RECL_PSTL_CD,Postal code where the collateral is located,RECL_PSTL_CD,Postal code where the collateral is located
-ECB,MTRCS_F_36.01.c_MTRCS_REF,MTRCS_F_36.01.c_MTRCS_REF,MTRCS_F_36.01.c_MTRCS_REF,
-ECB,8304924972630651527_REF,EBA_ATY(EBA_ei207) - Reference,8304924972630651527_REF,EBA_ATY(EBA_ei207) - Reference
-ECB,2974830385347868493_REF,EBA_ATY(EBA_ei4) - Reference,2974830385347868493_REF,EBA_ATY(EBA_ei4) - Reference
-ECB,TYP_FCT,Type of facet,TYP_FCT,Set of allowed types of facets
+EBA,EBA_6303834010684347067,EBA_ATY(EBA_mi292),6303834010684347067,
+EBA,EBA_8275672049140942608,EBA_ATY(EBA_ei328),8275672049140942608,
+EBA,EBA_18301630854030064082,EBA_ATY([EBA_mi290]),18301630854030064082,"Details the data type (e.g. monetary, percentage, string) of the data point. In XBRL, it is the ""primary item"". 
+Generally, it indicates the ""metrics"" of the Main category provided (i.e. answers the question: how is measured?).
+It should be defined for each data point. 
+In the case of monetary values, when the data point is referred to a (change during a) period of time, the member name shall finish in ""(flow)"". When the member name has other terminations, the data point is a measurement at a date (i.e. ""stock"")."
+EBA,EBA_1421770878445515372,EBA_ATY([EBA_mi287|EBA_mi129]),1421770878445515372,"Details the data type (e.g. monetary, percentage, string) of the data point. In XBRL, it is the ""primary item"". 
+Generally, it indicates the ""metrics"" of the Main category provided (i.e. answers the question: how is measured?).
+It should be defined for each data point. 
+In the case of monetary values, when the data point is referred to a (change during a) period of time, the member name shall finish in ""(flow)"". When the member name has other terminations, the data point is a measurement at a date (i.e. ""stock"")."
+EBA,EBA_12715721752481883426,EBA_ATY([EBA_mi295|EBA_mi292|EBA_mi297]),12715721752481883426,"Details the data type (e.g. monetary, percentage, string) of the data point. In XBRL, it is the ""primary item"". 
+Generally, it indicates the ""metrics"" of the Main category provided (i.e. answers the question: how is measured?).
+It should be defined for each data point. 
+In the case of monetary values, when the data point is referred to a (change during a) period of time, the member name shall finish in ""(flow)"". When the member name has other terminations, the data point is a measurement at a date (i.e. ""stock"")."
+EBA,EBA_6932333233812382963,EBA_ATY([EBA_mi290|EBA_mi129|EBA_mi53|EBA_mi287]),6932333233812382963,"Details the data type (e.g. monetary, percentage, string) of the data point. In XBRL, it is the ""primary item"". 
+Generally, it indicates the ""metrics"" of the Main category provided (i.e. answers the question: how is measured?).
+It should be defined for each data point. 
+In the case of monetary values, when the data point is referred to a (change during a) period of time, the member name shall finish in ""(flow)"". When the member name has other terminations, the data point is a measurement at a date (i.e. ""stock"")."
+EBA,EBA_4418743859069788106,EBA_ATY(EBA_mi296),4418743859069788106,
+EBA,EBA_3416672486839596463,EBA_ATY(EBA_mi297),3416672486839596463,
+EBA,EBA_2445085011552409139,EBA_ATY([EBA_si294|EBA_si293|EBA_bi327|EBA_ei328]),2445085011552409139,"Details the data type (e.g. monetary, percentage, string) of the data point. In XBRL, it is the ""primary item"". 
+Generally, it indicates the ""metrics"" of the Main category provided (i.e. answers the question: how is measured?).
+It should be defined for each data point. 
+In the case of monetary values, when the data point is referred to a (change during a) period of time, the member name shall finish in ""(flow)"". When the member name has other terminations, the data point is a measurement at a date (i.e. ""stock"")."
+EBA,EBA_16251736786404837591,EBA_ATY([EBA_mi279]),16251736786404837591,"Details the data type (e.g. monetary, percentage, string) of the data point. In XBRL, it is the ""primary item"". 
+Generally, it indicates the ""metrics"" of the Main category provided (i.e. answers the question: how is measured?).
+It should be defined for each data point. 
+In the case of monetary values, when the data point is referred to a (change during a) period of time, the member name shall finish in ""(flow)"". When the member name has other terminations, the data point is a measurement at a date (i.e. ""stock"")."
+EBA,EBA_14255792799439718750,EBA_ATY([EBA_mi296]),14255792799439718750,"Details the data type (e.g. monetary, percentage, string) of the data point. In XBRL, it is the ""primary item"". 
+Generally, it indicates the ""metrics"" of the Main category provided (i.e. answers the question: how is measured?).
+It should be defined for each data point. 
+In the case of monetary values, when the data point is referred to a (change during a) period of time, the member name shall finish in ""(flow)"". When the member name has other terminations, the data point is a measurement at a date (i.e. ""stock"")."
+EBA,EBA_14257806722875719973,EBA_ATY(EBA_bi327),14257806722875719973,
+EBA,EBA_5321271655764211193,EBA_ATY(EBA_si293),5321271655764211193,
+EBA,EBA_13837824826804460883,EBA_ATY([EBA_mi290|EBA_mi129]),13837824826804460883,"Details the data type (e.g. monetary, percentage, string) of the data point. In XBRL, it is the ""primary item"". 
+Generally, it indicates the ""metrics"" of the Main category provided (i.e. answers the question: how is measured?).
+It should be defined for each data point. 
+In the case of monetary values, when the data point is referred to a (change during a) period of time, the member name shall finish in ""(flow)"". When the member name has other terminations, the data point is a measurement at a date (i.e. ""stock"")."
+EBA,EBA_6759061105215175931,EBA_ATY(EBA_mi295),6759061105215175931,
+EBA,EBA_15449180842948967859,EBA_ATY([EBA_mi53|EBA_mi287|EBA_mi291|EBA_mi296]),15449180842948967859,"Details the data type (e.g. monetary, percentage, string) of the data point. In XBRL, it is the ""primary item"". 
+Generally, it indicates the ""metrics"" of the Main category provided (i.e. answers the question: how is measured?).
+It should be defined for each data point. 
+In the case of monetary values, when the data point is referred to a (change during a) period of time, the member name shall finish in ""(flow)"". When the member name has other terminations, the data point is a measurement at a date (i.e. ""stock"")."
+EBA,EBA_1665851491782084238,EBA_ATY(EBA_mi291),1665851491782084238,
+EBA,EBA_2834314127039447594,EBA_ATY(EBA_mi279),2834314127039447594,
 EBA,EBA_7297566420415073364,EBA_ATY(EBA_md675),7297566420415073364,
 EBA,EBA_15585376292621693064,EBA_ATY([EBA_mi340]),15585376292621693064,"Details the data type (e.g. monetary, percentage, string) of the data point. In XBRL, it is the ""primary item"". 
 Generally, it indicates the ""metrics"" of the Main category provided (i.e. answers the question: how is measured?).
@@ -667,12 +583,22 @@ Generally, it indicates the ""metrics"" of the Main category provided (i.e. answ
 It should be defined for each data point. 
 In the case of monetary values, when the data point is referred to a (change during a) period of time, the member name shall finish in ""(flow)"". When the member name has other terminations, the data point is a measurement at a date (i.e. ""stock"")."
 EBA,EBA_12845040784202940501,EBA_ATY(EBA_mi339),12845040784202940501,
+EBA,EBA_16284181356545560043,EBA_ATY(EBA_si294),16284181356545560043,
+EBA,EBA_4026498334911229732,EBA_ATY([EBA_mi290|EBA_mi53]),4026498334911229732,"Details the data type (e.g. monetary, percentage, string) of the data point. In XBRL, it is the ""primary item"". 
+Generally, it indicates the ""metrics"" of the Main category provided (i.e. answers the question: how is measured?).
+It should be defined for each data point. 
+In the case of monetary values, when the data point is referred to a (change during a) period of time, the member name shall finish in ""(flow)"". When the member name has other terminations, the data point is a measurement at a date (i.e. ""stock"")."
+EBA,EBA_15087420942491997638,EBA_ATY([EBA_mi129|EBA_mi53]),15087420942491997638,"Details the data type (e.g. monetary, percentage, string) of the data point. In XBRL, it is the ""primary item"". 
+Generally, it indicates the ""metrics"" of the Main category provided (i.e. answers the question: how is measured?).
+It should be defined for each data point. 
+In the case of monetary values, when the data point is referred to a (change during a) period of time, the member name shall finish in ""(flow)"". When the member name has other terminations, the data point is a measurement at a date (i.e. ""stock"")."
 EBA,EBA_17885408158842391463,EBA_ATY(EBA_mi679),17885408158842391463,
 EBA,EBA_2688836106544112767,EBA_ATY(EBA_mi503),2688836106544112767,
 EBA,EBA_15168898319371599562,EBA_ATY([EBA_mi136]),15168898319371599562,"Details the data type (e.g. monetary, percentage, string) of the data point. In XBRL, it is the ""primary item"". 
 Generally, it indicates the ""metrics"" of the Main category provided (i.e. answers the question: how is measured?).
 It should be defined for each data point. 
 In the case of monetary values, when the data point is referred to a (change during a) period of time, the member name shall finish in ""(flow)"". When the member name has other terminations, the data point is a measurement at a date (i.e. ""stock"")."
+EBA,EBA_14436927151026818162,EBA_ATY(EBA_mi290),14436927151026818162,
 EBA,EBA_9088624250072106664,EBA_ATY([EBA_mi129]),9088624250072106664,"Details the data type (e.g. monetary, percentage, string) of the data point. In XBRL, it is the ""primary item"". 
 Generally, it indicates the ""metrics"" of the Main category provided (i.e. answers the question: how is measured?).
 It should be defined for each data point. 
@@ -719,3 +645,181 @@ EBA,EBA_5774174031714583151,EBA_ATY(EBA_mi7),5774174031714583151,
 EBA,EBA_18384437438483779822,EBA_ATY(EBA_si168),18384437438483779822,
 EBA,EBA_1297198329170426540,EBA_ATY(EBA_mi420),1297198329170426540,
 EBA,EBA_7623249057078686648,EBA_ATY(EBA_mi504),7623249057078686648,
+ECB6,ECB6_EBA_46612,Variable set for combination EBA_46612,EBA_46612,Variable set for combination EBA_46612
+ECB6,ECB6_EBA_84895,Variable set for combination EBA_84895,EBA_84895,Variable set for combination EBA_84895
+ECB6,ECB6_EBA_35903,Variable set for combination EBA_35903,EBA_35903,Variable set for combination EBA_35903
+ECB6,ECB6_EBA_35904,Variable set for combination EBA_35904,EBA_35904,Variable set for combination EBA_35904
+ECB6,ECB6_EBA_35902,Variable set for combination EBA_35902,EBA_35902,Variable set for combination EBA_35902
+ECB6,ECB6_EBA_35901,Variable set for combination EBA_35901,EBA_35901,Variable set for combination EBA_35901
+ECB6,ECB6_EBA_35905,Variable set for combination EBA_35905,EBA_35905,Variable set for combination EBA_35905
+ECB6,ECB6_EBA_37883,Variable set for combination EBA_37883,EBA_37883,Variable set for combination EBA_37883
+ECB6,ECB6_EBA_155639,Variable set for combination EBA_155639,EBA_155639,Variable set for combination EBA_155639
+ECB6,ECB6_EBA_32375,Variable set for combination EBA_32375,EBA_32375,Variable set for combination EBA_32375
+ECB6,ECB6_EBA_32354,Variable set for combination EBA_32354,EBA_32354,Variable set for combination EBA_32354
+ECB6,ECB6_EBA_152247,Variable set for combination EBA_152247,EBA_152247,Variable set for combination EBA_152247
+ECB6,ECB6_EBA_152253,Variable set for combination EBA_152253,EBA_152253,Variable set for combination EBA_152253
+ECB6,ECB6_EBA_152268,Variable set for combination EBA_152268,EBA_152268,Variable set for combination EBA_152268
+ECB6,ECB6_EBA_152270,Variable set for combination EBA_152270,EBA_152270,Variable set for combination EBA_152270
+ECB,MTRCS_F_25.01.d_MTRCS_REF,Variable Set for MTRCS of the Cube F_25.01.d,MTRCS_F_25.01.d_MTRCS_REF,Variable Set for MTRCS of the Cube F_25.01.d
+ECB,MTRCS_F_18.00.c_MTRCS_REF,Variable Set for MTRCS of the Cube F_18.00.c,MTRCS_F_18.00.c_MTRCS_REF,Variable Set for MTRCS of the Cube F_18.00.c
+ECB,MTRCS_F_04.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_04.01,MTRCS_F_04.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_04.01
+ECB,MTRCS_F_13.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_13.01,MTRCS_F_13.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_13.01
+ECB,MTRCS_F_04.05_MTRCS_REF,Variable Set for MTRCS of the Cube F_04.05,MTRCS_F_04.05_MTRCS_REF,Variable Set for MTRCS of the Cube F_04.05
+ECB,MTRCS_F_12.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_12.02,MTRCS_F_12.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_12.02
+ECB,MTRCS_F_20.04_MTRCS_REF,Variable Set for MTRCS of the Cube F_20.04,MTRCS_F_20.04_MTRCS_REF,Variable Set for MTRCS of the Cube F_20.04
+ECB,MTRCS_F_13.03.1.a_MTRCS_REF,Variable Set for MTRCS of the Cube F_13.03.1.a,MTRCS_F_13.03.1.a_MTRCS_REF,Variable Set for MTRCS of the Cube F_13.03.1.a
+ECB,MTRCS_F_26.00.b_MTRCS_REF,Variable Set for MTRCS of the Cube F_26.00.b,MTRCS_F_26.00.b_MTRCS_REF,Variable Set for MTRCS of the Cube F_26.00.b
+ECB,MTRCS_F_13.03.1.b_MTRCS_REF,Variable Set for MTRCS of the Cube F_13.03.1.b,MTRCS_F_13.03.1.b_MTRCS_REF,Variable Set for MTRCS of the Cube F_13.03.1.b
+ECB,MTRCS_F_00.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_00.01,MTRCS_F_00.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_00.01
+ECB,MTRCS_F_41.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_41.02,MTRCS_F_41.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_41.02
+ECB,MTRCS_F_44.04_MTRCS_REF,Variable Set for MTRCS of the Cube F_44.04,MTRCS_F_44.04_MTRCS_REF,Variable Set for MTRCS of the Cube F_44.04
+ECB,MTRCS_F_08.01.a_MTRCS_REF,Variable Set for MTRCS of the Cube F_08.01.a,MTRCS_F_08.01.a_MTRCS_REF,Variable Set for MTRCS of the Cube F_08.01.a
+ECB,MTRCS_F_20.05.a_MTRCS_REF,Variable Set for MTRCS of the Cube F_20.05.a,MTRCS_F_20.05.a_MTRCS_REF,Variable Set for MTRCS of the Cube F_20.05.a
+ECB,MTRCS_F_25.02.b_MTRCS_REF,Variable Set for MTRCS of the Cube F_25.02.b,MTRCS_F_25.02.b_MTRCS_REF,Variable Set for MTRCS of the Cube F_25.02.b
+ECB,MTRCS_F_04.03.1_MTRCS_REF,Variable Set for MTRCS of the Cube F_04.03.1,MTRCS_F_04.03.1_MTRCS_REF,Variable Set for MTRCS of the Cube F_04.03.1
+ECB,MTRCS_F_04.02.1_MTRCS_REF,Variable Set for MTRCS of the Cube F_04.02.1,MTRCS_F_04.02.1_MTRCS_REF,Variable Set for MTRCS of the Cube F_04.02.1
+ECB,MTRCS_F_17.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_17.02,MTRCS_F_17.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_17.02
+ECB,MTRCS_F_18.02.a_MTRCS_REF,Variable Set for MTRCS of the Cube F_18.02.a,MTRCS_F_18.02.a_MTRCS_REF,Variable Set for MTRCS of the Cube F_18.02.a
+ECB,MTRCS_F_18.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_18.01,MTRCS_F_18.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_18.01
+ECB,MTRCS_F_16.04.1_MTRCS_REF,Variable Set for MTRCS of the Cube F_16.04.1,MTRCS_F_16.04.1_MTRCS_REF,Variable Set for MTRCS of the Cube F_16.04.1
+ECB,MTRCS_F_13.02.1.a_MTRCS_REF,Variable Set for MTRCS of the Cube F_13.02.1.a,MTRCS_F_13.02.1.a_MTRCS_REF,Variable Set for MTRCS of the Cube F_13.02.1.a
+ECB,MTRCS_F_19.00.b_MTRCS_REF,Variable Set for MTRCS of the Cube F_19.00.b,MTRCS_F_19.00.b_MTRCS_REF,Variable Set for MTRCS of the Cube F_19.00.b
+ECB,MTRCS_F_04.07_MTRCS_REF,Variable Set for MTRCS of the Cube F_04.07,MTRCS_F_04.07_MTRCS_REF,Variable Set for MTRCS of the Cube F_04.07
+ECB,MTRCS_F_16.03_MTRCS_REF,Variable Set for MTRCS of the Cube F_16.03,MTRCS_F_16.03_MTRCS_REF,Variable Set for MTRCS of the Cube F_16.03
+ECB,MTRCS_F_45.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_45.01,MTRCS_F_45.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_45.01
+ECB,MTRCS_F_18.02.c_MTRCS_REF,Variable Set for MTRCS of the Cube F_18.02.c,MTRCS_F_18.02.c_MTRCS_REF,Variable Set for MTRCS of the Cube F_18.02.c
+ECB,MTRCS_F_17.03_MTRCS_REF,Variable Set for MTRCS of the Cube F_17.03,MTRCS_F_17.03_MTRCS_REF,Variable Set for MTRCS of the Cube F_17.03
+ECB,MTRCS_F_04.02.2_MTRCS_REF,Variable Set for MTRCS of the Cube F_04.02.2,MTRCS_F_04.02.2_MTRCS_REF,Variable Set for MTRCS of the Cube F_04.02.2
+ECB,MTRCS_F_45.03_MTRCS_REF,Variable Set for MTRCS of the Cube F_45.03,MTRCS_F_45.03_MTRCS_REF,Variable Set for MTRCS of the Cube F_45.03
+ECB,MTRCS_F_19.00.e_MTRCS_REF,Variable Set for MTRCS of the Cube F_19.00.e,MTRCS_F_19.00.e_MTRCS_REF,Variable Set for MTRCS of the Cube F_19.00.e
+ECB,MTRCS_F_20.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_20.02,MTRCS_F_20.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_20.02
+ECB,MTRCS_F_31.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_31.01,MTRCS_F_31.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_31.01
+ECB,MTRCS_F_16.04_MTRCS_REF,Variable Set for MTRCS of the Cube F_16.04,MTRCS_F_16.04_MTRCS_REF,Variable Set for MTRCS of the Cube F_16.04
+ECB,MTRCS_F_40.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_40.02,MTRCS_F_40.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_40.02
+ECB,MTRCS_F_16.07.b_MTRCS_REF,Variable Set for MTRCS of the Cube F_16.07.b,MTRCS_F_16.07.b_MTRCS_REF,Variable Set for MTRCS of the Cube F_16.07.b
+ECB,MTRCS_F_22.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_22.02,MTRCS_F_22.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_22.02
+ECB,MTRCS_F_14.00_MTRCS_REF,Variable Set for MTRCS of the Cube F_14.00,MTRCS_F_14.00_MTRCS_REF,Variable Set for MTRCS of the Cube F_14.00
+ECB,MTRCS_F_18.00.d_MTRCS_REF,Variable Set for MTRCS of the Cube F_18.00.d,MTRCS_F_18.00.d_MTRCS_REF,Variable Set for MTRCS of the Cube F_18.00.d
+ECB,MTRCS_F_21.00_MTRCS_REF,Variable Set for MTRCS of the Cube F_21.00,MTRCS_F_21.00_MTRCS_REF,Variable Set for MTRCS of the Cube F_21.00
+ECB,MTRCS_F_17.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_17.01,MTRCS_F_17.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_17.01
+ECB,MTRCS_F_16.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_16.01,MTRCS_F_16.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_16.01
+ECB,MTRCS_F_23.04_MTRCS_REF,Variable Set for MTRCS of the Cube F_23.04,MTRCS_F_23.04_MTRCS_REF,Variable Set for MTRCS of the Cube F_23.04
+ECB,MTRCS_F_25.02.a_MTRCS_REF,Variable Set for MTRCS of the Cube F_25.02.a,MTRCS_F_25.02.a_MTRCS_REF,Variable Set for MTRCS of the Cube F_25.02.a
+ECB,MTRCS_F_20.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_20.01,MTRCS_F_20.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_20.01
+ECB,MTRCS_F_44.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_44.01,MTRCS_F_44.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_44.01
+ECB,MTRCS_F_25.03.a_MTRCS_REF,Variable Set for MTRCS of the Cube F_25.03.a,MTRCS_F_25.03.a_MTRCS_REF,Variable Set for MTRCS of the Cube F_25.03.a
+ECB,MTRCS_F_11.03.1_MTRCS_REF,Variable Set for MTRCS of the Cube F_11.03.1,MTRCS_F_11.03.1_MTRCS_REF,Variable Set for MTRCS of the Cube F_11.03.1
+ECB,MTRCS_F_15.00.a_MTRCS_REF,Variable Set for MTRCS of the Cube F_15.00.a,MTRCS_F_15.00.a_MTRCS_REF,Variable Set for MTRCS of the Cube F_15.00.a
+ECB,MTRCS_F_25.01.c_MTRCS_REF,Variable Set for MTRCS of the Cube F_25.01.c,MTRCS_F_25.01.c_MTRCS_REF,Variable Set for MTRCS of the Cube F_25.01.c
+ECB,MTRCS_F_13.03_MTRCS_REF,Variable Set for MTRCS of the Cube F_13.03,MTRCS_F_13.03_MTRCS_REF,Variable Set for MTRCS of the Cube F_13.03
+ECB,MTRCS_F_01.03_MTRCS_REF,Variable Set for MTRCS of the Cube F_01.03,MTRCS_F_01.03_MTRCS_REF,Variable Set for MTRCS of the Cube F_01.03
+ECB,MTRCS_F_23.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_23.02,MTRCS_F_23.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_23.02
+ECB,MTRCS_F_12.00_MTRCS_REF,Variable Set for MTRCS of the Cube F_12.00,MTRCS_F_12.00_MTRCS_REF,Variable Set for MTRCS of the Cube F_12.00
+ECB,MTRCS_F_13.02.1.b_MTRCS_REF,Variable Set for MTRCS of the Cube F_13.02.1.b,MTRCS_F_13.02.1.b_MTRCS_REF,Variable Set for MTRCS of the Cube F_13.02.1.b
+ECB,MTRCS_F_20.05.b_MTRCS_REF,Variable Set for MTRCS of the Cube F_20.05.b,MTRCS_F_20.05.b_MTRCS_REF,Variable Set for MTRCS of the Cube F_20.05.b
+ECB,MTRCS_F_25.03.b_MTRCS_REF,Variable Set for MTRCS of the Cube F_25.03.b,MTRCS_F_25.03.b_MTRCS_REF,Variable Set for MTRCS of the Cube F_25.03.b
+ECB,MTRCS_F_44.03_MTRCS_REF,Variable Set for MTRCS of the Cube F_44.03,MTRCS_F_44.03_MTRCS_REF,Variable Set for MTRCS of the Cube F_44.03
+ECB,MTRCS_F_19.00.d_MTRCS_REF,Variable Set for MTRCS of the Cube F_19.00.d,MTRCS_F_19.00.d_MTRCS_REF,Variable Set for MTRCS of the Cube F_19.00.d
+ECB,MTRCS_F_02.00_MTRCS_REF,Variable Set for MTRCS of the Cube F_02.00,MTRCS_F_02.00_MTRCS_REF,Variable Set for MTRCS of the Cube F_02.00
+ECB,MTRCS_F_24.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_24.01,MTRCS_F_24.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_24.01
+ECB,MTRCS_F_04.09_MTRCS_REF,Variable Set for MTRCS of the Cube F_04.09,MTRCS_F_04.09_MTRCS_REF,Variable Set for MTRCS of the Cube F_04.09
+ECB,MTRCS_F_25.01.a_MTRCS_REF,Variable Set for MTRCS of the Cube F_25.01.a,MTRCS_F_25.01.a_MTRCS_REF,Variable Set for MTRCS of the Cube F_25.01.a
+ECB,MTRCS_F_08.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_08.02,MTRCS_F_08.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_08.02
+ECB,MTRCS_F_20.03_MTRCS_REF,Variable Set for MTRCS of the Cube F_20.03,MTRCS_F_20.03_MTRCS_REF,Variable Set for MTRCS of the Cube F_20.03
+ECB,MTRCS_F_30.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_30.01,MTRCS_F_30.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_30.01
+ECB,MTRCS_F_08.01.b_MTRCS_REF,Variable Set for MTRCS of the Cube F_08.01.b,MTRCS_F_08.01.b_MTRCS_REF,Variable Set for MTRCS of the Cube F_08.01.b
+ECB,MTRCS_F_16.06_MTRCS_REF,Variable Set for MTRCS of the Cube F_16.06,MTRCS_F_16.06_MTRCS_REF,Variable Set for MTRCS of the Cube F_16.06
+ECB,MTRCS_F_16.05_MTRCS_REF,Variable Set for MTRCS of the Cube F_16.05,MTRCS_F_16.05_MTRCS_REF,Variable Set for MTRCS of the Cube F_16.05
+ECB,MTRCS_F_41.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_41.01,MTRCS_F_41.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_41.01
+ECB,MTRCS_F_09.01.1_MTRCS_REF,Variable Set for MTRCS of the Cube F_09.01.1,MTRCS_F_09.01.1_MTRCS_REF,Variable Set for MTRCS of the Cube F_09.01.1
+ECB,MTRCS_F_16.07.a_MTRCS_REF,Variable Set for MTRCS of the Cube F_16.07.a,MTRCS_F_16.07.a_MTRCS_REF,Variable Set for MTRCS of the Cube F_16.07.a
+ECB,MTRCS_F_19.00.c_MTRCS_REF,Variable Set for MTRCS of the Cube F_19.00.c,MTRCS_F_19.00.c_MTRCS_REF,Variable Set for MTRCS of the Cube F_19.00.c
+ECB,MTRCS_F_04.10_MTRCS_REF,Variable Set for MTRCS of the Cube F_04.10,MTRCS_F_04.10_MTRCS_REF,Variable Set for MTRCS of the Cube F_04.10
+ECB,MTRCS_F_12.01.a_MTRCS_REF,Variable Set for MTRCS of the Cube F_12.01.a,MTRCS_F_12.01.a_MTRCS_REF,Variable Set for MTRCS of the Cube F_12.01.a
+ECB,MTRCS_F_12.01.b_MTRCS_REF,Variable Set for MTRCS of the Cube F_12.01.b,MTRCS_F_12.01.b_MTRCS_REF,Variable Set for MTRCS of the Cube F_12.01.b
+ECB,MTRCS_F_09.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_09.01,MTRCS_F_09.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_09.01
+ECB,MTRCS_F_04.08_MTRCS_REF,Variable Set for MTRCS of the Cube F_04.08,MTRCS_F_04.08_MTRCS_REF,Variable Set for MTRCS of the Cube F_04.08
+ECB,MTRCS_F_18.00.e_MTRCS_REF,Variable Set for MTRCS of the Cube F_18.00.e,MTRCS_F_18.00.e_MTRCS_REF,Variable Set for MTRCS of the Cube F_18.00.e
+ECB,MTRCS_F_22.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_22.01,MTRCS_F_22.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_22.01
+ECB,MTRCS_F_09.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_09.02,MTRCS_F_09.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_09.02
+ECB,MTRCS_F_06.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_06.01,MTRCS_F_06.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_06.01
+ECB,MTRCS_F_13.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_13.02,MTRCS_F_13.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_13.02
+ECB,MTRCS_F_23.05_MTRCS_REF,Variable Set for MTRCS of the Cube F_23.05,MTRCS_F_23.05_MTRCS_REF,Variable Set for MTRCS of the Cube F_23.05
+ECB,MTRCS_F_42.00_MTRCS_REF,Variable Set for MTRCS of the Cube F_42.00,MTRCS_F_42.00_MTRCS_REF,Variable Set for MTRCS of the Cube F_42.00
+ECB,MTRCS_F_19.00.a_MTRCS_REF,Variable Set for MTRCS of the Cube F_19.00.a,MTRCS_F_19.00.a_MTRCS_REF,Variable Set for MTRCS of the Cube F_19.00.a
+ECB,MTRCS_F_43.00_MTRCS_REF,Variable Set for MTRCS of the Cube F_43.00,MTRCS_F_43.00_MTRCS_REF,Variable Set for MTRCS of the Cube F_43.00
+ECB,MTRCS_F_01.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_01.01,MTRCS_F_01.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_01.01
+ECB,MTRCS_F_40.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_40.01,MTRCS_F_40.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_40.01
+ECB,MTRCS_F_11.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_11.02,MTRCS_F_11.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_11.02
+ECB,MTRCS_F_16.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_16.02,MTRCS_F_16.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_16.02
+ECB,MTRCS_F_18.00.a_MTRCS_REF,Variable Set for MTRCS of the Cube F_18.00.a,MTRCS_F_18.00.a_MTRCS_REF,Variable Set for MTRCS of the Cube F_18.00.a
+ECB,MTRCS_F_47.00_MTRCS_REF,Variable Set for MTRCS of the Cube F_47.00,MTRCS_F_47.00_MTRCS_REF,Variable Set for MTRCS of the Cube F_47.00
+ECB,MTRCS_F_10.00_MTRCS_REF,Variable Set for MTRCS of the Cube F_10.00,MTRCS_F_10.00_MTRCS_REF,Variable Set for MTRCS of the Cube F_10.00
+ECB,MTRCS_F_11.04_MTRCS_REF,Variable Set for MTRCS of the Cube F_11.04,MTRCS_F_11.04_MTRCS_REF,Variable Set for MTRCS of the Cube F_11.04
+ECB,MTRCS_F_30.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_30.02,MTRCS_F_30.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_30.02
+ECB,MTRCS_F_07.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_07.02,MTRCS_F_07.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_07.02
+ECB,MTRCS_F_20.06_MTRCS_REF,Variable Set for MTRCS of the Cube F_20.06,MTRCS_F_20.06_MTRCS_REF,Variable Set for MTRCS of the Cube F_20.06
+ECB,MTRCS_F_18.02.b_MTRCS_REF,Variable Set for MTRCS of the Cube F_18.02.b,MTRCS_F_18.02.b_MTRCS_REF,Variable Set for MTRCS of the Cube F_18.02.b
+ECB,MTRCS_F_24.03_MTRCS_REF,Variable Set for MTRCS of the Cube F_24.03,MTRCS_F_24.03_MTRCS_REF,Variable Set for MTRCS of the Cube F_24.03
+ECB,MTRCS_F_44.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_44.02,MTRCS_F_44.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_44.02
+ECB,MTRCS_F_31.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_31.02,MTRCS_F_31.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_31.02
+ECB,MTRCS_F_23.03_MTRCS_REF,Variable Set for MTRCS of the Cube F_23.03,MTRCS_F_23.03_MTRCS_REF,Variable Set for MTRCS of the Cube F_23.03
+ECB,MTRCS_F_23.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_23.01,MTRCS_F_23.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_23.01
+ECB,MTRCS_F_26.00.a_MTRCS_REF,Variable Set for MTRCS of the Cube F_26.00.a,MTRCS_F_26.00.a_MTRCS_REF,Variable Set for MTRCS of the Cube F_26.00.a
+ECB,MTRCS_F_01.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_01.02,MTRCS_F_01.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_01.02
+ECB,MTRCS_F_11.03_MTRCS_REF,Variable Set for MTRCS of the Cube F_11.03,MTRCS_F_11.03_MTRCS_REF,Variable Set for MTRCS of the Cube F_11.03
+ECB,MTRCS_F_04.04.1_MTRCS_REF,Variable Set for MTRCS of the Cube F_04.04.1,MTRCS_F_04.04.1_MTRCS_REF,Variable Set for MTRCS of the Cube F_04.04.1
+ECB,MTRCS_F_23.06_MTRCS_REF,Variable Set for MTRCS of the Cube F_23.06,MTRCS_F_23.06_MTRCS_REF,Variable Set for MTRCS of the Cube F_23.06
+ECB,MTRCS_F_45.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_45.02,MTRCS_F_45.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_45.02
+ECB,MTRCS_F_07.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_07.01,MTRCS_F_07.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_07.01
+ECB,MTRCS_F_03.00_MTRCS_REF,Variable Set for MTRCS of the Cube F_03.00,MTRCS_F_03.00_MTRCS_REF,Variable Set for MTRCS of the Cube F_03.00
+ECB,MTRCS_F_25.01.b_MTRCS_REF,Variable Set for MTRCS of the Cube F_25.01.b,MTRCS_F_25.01.b_MTRCS_REF,Variable Set for MTRCS of the Cube F_25.01.b
+ECB,MTRCS_F_24.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_24.02,MTRCS_F_24.02_MTRCS_REF,Variable Set for MTRCS of the Cube F_24.02
+ECB,MTRCS_F_18.00.b_MTRCS_REF,Variable Set for MTRCS of the Cube F_18.00.b,MTRCS_F_18.00.b_MTRCS_REF,Variable Set for MTRCS of the Cube F_18.00.b
+ECB,MTRCS_F_15.00.b_MTRCS_REF,Variable Set for MTRCS of the Cube F_15.00.b,MTRCS_F_15.00.b_MTRCS_REF,Variable Set for MTRCS of the Cube F_15.00.b
+ECB,MTRCS_F_05.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_05.01,MTRCS_F_05.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_05.01
+ECB,MTRCS_F_46.00_MTRCS_REF,Variable Set for MTRCS of the Cube F_46.00,MTRCS_F_46.00_MTRCS_REF,Variable Set for MTRCS of the Cube F_46.00
+ECB,MTRCS_F_25.02.c_MTRCS_REF,Variable Set for MTRCS of the Cube F_25.02.c,MTRCS_F_25.02.c_MTRCS_REF,Variable Set for MTRCS of the Cube F_25.02.c
+ECB,MTRCS_F_11.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_11.01,MTRCS_F_11.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_11.01
+ECB,MTRCS_F_04.06_MTRCS_REF,Variable Set for MTRCS of the Cube F_04.06,MTRCS_F_04.06_MTRCS_REF,Variable Set for MTRCS of the Cube F_04.06
+ECB,MTRCS_F_20.07.1_MTRCS_REF,Variable Set for MTRCS of the Cube F_20.07.1,MTRCS_F_20.07.1_MTRCS_REF,Variable Set for MTRCS of the Cube F_20.07.1
+ECB,14257806722875719973_REF,EBA_ATY(EBA_bi327) - Reference,14257806722875719973_REF,EBA_ATY(EBA_bi327) - Reference
+ECB,MTRCS_F_32.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_32.01,MTRCS_F_32.01_MTRCS_REF,Variable Set for MTRCS of the Cube F_32.01
+ECB,MTRCS_F_32.02.a_MTRCS_REF,Variable Set for MTRCS of the Cube F_32.02.a,MTRCS_F_32.02.a_MTRCS_REF,Variable Set for MTRCS of the Cube F_32.02.a
+ECB,1466148639018143510_REF,EBA_ATY(EBA_ei4) - Reference,1466148639018143510_REF,EBA_ATY(EBA_ei4) - Reference
+ECB,MTRCS_F_32.04.a_MTRCS_REF,Variable Set for MTRCS of the Cube F_32.04.a,MTRCS_F_32.04.a_MTRCS_REF,Variable Set for MTRCS of the Cube F_32.04.a
+ECB,5321271655764211193_REF,EBA_ATY(EBA_si293) - Reference,5321271655764211193_REF,EBA_ATY(EBA_si293) - Reference
+ECB,1665851491782084238_REF,EBA_ATY(EBA_mi291) - Reference,1665851491782084238_REF,EBA_ATY(EBA_mi291) - Reference
+ECB,MTRCS_F_32.03.a_MTRCS_REF,Variable Set for MTRCS of the Cube F_32.03.a,MTRCS_F_32.03.a_MTRCS_REF,Variable Set for MTRCS of the Cube F_32.03.a
+ECB,8275672049140942608_REF,EBA_ATY(EBA_ei328) - Reference,8275672049140942608_REF,EBA_ATY(EBA_ei328) - Reference
+ECB,14436927151026818162_REF,EBA_ATY(EBA_mi290) - Reference,14436927151026818162_REF,EBA_ATY(EBA_mi290) - Reference
+ECB,8231468321123390510_REF,EBA_ATY(EBA_mi53) - Reference,8231468321123390510_REF,EBA_ATY(EBA_mi53) - Reference
+ECB,16284181356545560043_REF,EBA_ATY(EBA_si294) - Reference,16284181356545560043_REF,EBA_ATY(EBA_si294) - Reference
+ECB,MTRCS_F_33.00.b_MTRCS_REF,Variable Set for MTRCS of the Cube F_33.00.b,MTRCS_F_33.00.b_MTRCS_REF,Variable Set for MTRCS of the Cube F_33.00.b
+ECB,MTRCS_F_35.00.c_MTRCS_REF,Variable Set for MTRCS of the Cube F_35.00.c,MTRCS_F_35.00.c_MTRCS_REF,Variable Set for MTRCS of the Cube F_35.00.c
+ECB,MTRCS_F_35.00.a_MTRCS_REF,Variable Set for MTRCS of the Cube F_35.00.a,MTRCS_F_35.00.a_MTRCS_REF,Variable Set for MTRCS of the Cube F_35.00.a
+ECB,5761047437904009774_REF,EBA_ATY(EBA_ei207) - Reference,5761047437904009774_REF,EBA_ATY(EBA_ei207) - Reference
+ECB,MTRCS_F_32.04.b_MTRCS_REF,Variable Set for MTRCS of the Cube F_32.04.b,MTRCS_F_32.04.b_MTRCS_REF,Variable Set for MTRCS of the Cube F_32.04.b
+ECB,MTRCS_F_36.02.c_MTRCS_REF,Variable Set for MTRCS of the Cube F_36.02.c,MTRCS_F_36.02.c_MTRCS_REF,Variable Set for MTRCS of the Cube F_36.02.c
+ECB,MTRCS_F_35.00.d_MTRCS_REF,Variable Set for MTRCS of the Cube F_35.00.d,MTRCS_F_35.00.d_MTRCS_REF,Variable Set for MTRCS of the Cube F_35.00.d
+ECB,MTRCS_F_34.00.a_MTRCS_REF,Variable Set for MTRCS of the Cube F_34.00.a,MTRCS_F_34.00.a_MTRCS_REF,Variable Set for MTRCS of the Cube F_34.00.a
+ECB,3416672486839596463_REF,EBA_ATY(EBA_mi297) - Reference,3416672486839596463_REF,EBA_ATY(EBA_mi297) - Reference
+ECB,MTRCS_F_35.00.b_MTRCS_REF,Variable Set for MTRCS of the Cube F_35.00.b,MTRCS_F_35.00.b_MTRCS_REF,Variable Set for MTRCS of the Cube F_35.00.b
+ECB,MTRCS_F_36.02.a_MTRCS_REF,Variable Set for MTRCS of the Cube F_36.02.a,MTRCS_F_36.02.a_MTRCS_REF,Variable Set for MTRCS of the Cube F_36.02.a
+ECB,MTRCS_F_32.02.b_MTRCS_REF,Variable Set for MTRCS of the Cube F_32.02.b,MTRCS_F_32.02.b_MTRCS_REF,Variable Set for MTRCS of the Cube F_32.02.b
+ECB,MTRCS_F_32.03.b_MTRCS_REF,Variable Set for MTRCS of the Cube F_32.03.b,MTRCS_F_32.03.b_MTRCS_REF,Variable Set for MTRCS of the Cube F_32.03.b
+ECB,6759061105215175931_REF,EBA_ATY(EBA_mi295) - Reference,6759061105215175931_REF,EBA_ATY(EBA_mi295) - Reference
+ECB,4799565562160387939_REF,EBA_ATY(EBA_mi129) - Reference,4799565562160387939_REF,EBA_ATY(EBA_mi129) - Reference
+ECB,MTRCS_A_00.01_MTRCS_REF,Variable Set for MTRCS of the Cube A_00.01,MTRCS_A_00.01_MTRCS_REF,Variable Set for MTRCS of the Cube A_00.01
+ECB,6303834010684347067_REF,EBA_ATY(EBA_mi292) - Reference,6303834010684347067_REF,EBA_ATY(EBA_mi292) - Reference
+ECB,MTRCS_F_36.01.a_MTRCS_REF,Variable Set for MTRCS of the Cube F_36.01.a,MTRCS_F_36.01.a_MTRCS_REF,Variable Set for MTRCS of the Cube F_36.01.a
+ECB,MTRCS_F_36.01.c_MTRCS_REF,Variable Set for MTRCS of the Cube F_36.01.c,MTRCS_F_36.01.c_MTRCS_REF,Variable Set for MTRCS of the Cube F_36.01.c
+ECB,MTRCS_F_34.00.c_MTRCS_REF,Variable Set for MTRCS of the Cube F_34.00.c,MTRCS_F_34.00.c_MTRCS_REF,Variable Set for MTRCS of the Cube F_34.00.c
+ECB,1678671815251824578_REF,EBA_ATY(EBA_mi287) - Reference,1678671815251824578_REF,EBA_ATY(EBA_mi287) - Reference
+ECB,MTRCS_F_36.01.b_MTRCS_REF,Variable Set for MTRCS of the Cube F_36.01.b,MTRCS_F_36.01.b_MTRCS_REF,Variable Set for MTRCS of the Cube F_36.01.b
+ECB,MTRCS_F_36.02.b_MTRCS_REF,Variable Set for MTRCS of the Cube F_36.02.b,MTRCS_F_36.02.b_MTRCS_REF,Variable Set for MTRCS of the Cube F_36.02.b
+ECB,4418743859069788106_REF,EBA_ATY(EBA_mi296) - Reference,4418743859069788106_REF,EBA_ATY(EBA_mi296) - Reference
+ECB,MTRCS_F_34.00.b_MTRCS_REF,Variable Set for MTRCS of the Cube F_34.00.b,MTRCS_F_34.00.b_MTRCS_REF,Variable Set for MTRCS of the Cube F_34.00.b
+ECB,MTRCS_F_33.00.a_MTRCS_REF,Variable Set for MTRCS of the Cube F_33.00.a,MTRCS_F_33.00.a_MTRCS_REF,Variable Set for MTRCS of the Cube F_33.00.a
+ECB,RECL_PSTL_CD,Postal code where the collateral is located,RECL_PSTL_CD,Postal code where the collateral is located
+ECB,TYP_FCT,Type of facet,TYP_FCT,Set of allowed types of facets
